@@ -2,7 +2,9 @@
 # Hopefully clean
 
 # Python 3
+# Test on Python 2 ?
 
+# Todo : Sync with classify
 # Todo : check multi, please
 # Todo : maybe more arguments for pairs ?
 
@@ -13,8 +15,8 @@
 # Segments : Annotation Unit
 
 import re
-import annodata
-from functools import wraps
+#~ import annodata
+#~ from functools import wraps
 from collections import deque
 
 # Built at import

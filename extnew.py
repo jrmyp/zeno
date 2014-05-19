@@ -4,7 +4,7 @@
 # I'm sensing doom. I fear it's slow.
 # But it has to work, or else I'm doomed
 
-# TODO :Convert all to tab format !
+# TODO : Sync with classify !
 
 import re
 import featnew

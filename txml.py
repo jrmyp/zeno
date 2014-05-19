@@ -1,5 +1,4 @@
-# Wrapping around xml module
-# I guess it's simpler that way...
+# nxml experiences...
 
 import xml.etree.ElementTree as ET
 
@@ -36,20 +35,29 @@ def build(source):
         n, a, s = source
     else:
         (n, s), a = source, {}
-    res = ET.Element(n, dict((k, str(v)) for k,v in a.items()))
+    res = ET.Element(n, a)
     if isinstance(s, list):
         res.extend([build(se) for se in s])
     else:
         res.text = str(s)
     return res
 
-def add_elements(base, target, elements):
-    """ Create XML target file using :
-        base (str) : XML unannotated source
-        target (str) : XML result filename   
-        elements (list(ET.Element)) : XML elements to add
-    """
-    
-    source = ET.parse(base).getroot()
-    source.extend(elements)
-    ET.ElementTree(source).write(target, encoding='utf-8', xml_declaration=True)
+if __name__ == '__main__':
+    target = 'res/res.xml'
+    meta = {'author':'me'}
+    feat = {'no':3, 'yes':4}
+    pos = {'start':1, 'end':2}
+    src = ('unit', [
+        ('metadata', list(meta.items())),
+        ('characterisation', [
+            ('type', 'commitment')
+        ]),
+        ('featureSet', list(
+            ('feature', {'name':n}, v) for n,v in feat.items()
+        )),
+        ('positioning', list(
+             (n,[('singlePosition', v)]) for n,v in pos.items()
+        ))
+    ])
+    e = build(src)
+    ET.ElementTree(e).write(target, encoding='utf-8')

@@ -16,6 +16,8 @@ import re
 import xml.etree.ElementTree as ET
 import nxml
 from itertools import chain
+# If Python 2...
+from codecs import open
 
 auto_id = 0
 
@@ -46,8 +48,8 @@ class Annotations:
             """ Actual, unique id for unit
                 Some ids are re-used from one file to another
             """
-            
-            return "{0}_{1}".format(id, self.delta)
+            #~ return "{0}_{1}".format(id, self.delta)
+            return id
         
         def common(src, tgt):
             tgt._base = self
@@ -110,7 +112,7 @@ class Annotations:
             s.args = list()
             for nid in s.nodes:
                 n = self.elements[nid]
-                n.inSchema.append(r)
+                n.inSchema.append(s)
                 s.args.append(n)
             del s.nodes
 
@@ -169,7 +171,7 @@ class Annotations:
                 setattr(u, n, box)
                 getattr(box, 'units').append(u)
         for d in self.dialogues:
-            tlis = dict((u.id, u.turn) for u in d.units).values()
+            tlis = dict((u.turn.id, u.turn) for u in d.units).values()
             d.turns = sorted(tlis,
                 key = lambda x:x.endPos)
     
@@ -300,9 +302,10 @@ class ParsedText:
     
     
 # Builds a Commitment unit xml.Element
+# REPLACED BY nmxl.build (see interact.py for Commitment template)
 # Data comes from rules
 # The element is destined to be added to blank annotations for evaluation purposes         
-# CANDO : generic Glozz anno template !
+
 def build_anno_commitment(data, pos):
     global auto_id
     e = ET.Element('unit')
@@ -330,17 +333,6 @@ def build_anno_commitment(data, pos):
         ecpes = ET.SubElement(ecpe, 'singlePosition', index=v)
         
     return e
-
-def add_elements(base, target, elements):
-    """ Create XML target file using :
-        base (str) : XML unannotated source
-        target (str) : XML result fiename
-        elements (list(ET.Element)) : XML elements to add
-    """
-    
-    source = ET.parse(base).getroot()
-    source.extend(elements)
-    ET.ElementTree(source).write(target, encoding='utf-8')
 
 if __name__ == '__main__':
     pa = '/home/arthur/These/Master/Stac/data/socl-season1/s1-league1-game2/unannotated/s1-league1-game2_06.aa'

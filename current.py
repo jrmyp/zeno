@@ -1,8 +1,6 @@
 # I hereby declare war to procrastination, despair & weakness
 # Let my work begin, and never stop
 
-# Python 2... sadly
-
 from __future__ import print_function
 import sys
 import os
@@ -13,14 +11,14 @@ from collections import defaultdict
 #~ f_attach = '/home/arthur/These/Master/Stac/data/SNAPSHOTS/2014-04-10/tmp/socl-season1.edu-pairs.csv'
 #~ f_source = '/home/arthur/These/Master/Stac/data/SNAPSHOTS/2014-04-10/tmp/socl-season1.relations.csv'
 #~ f_attach = '/home/arthur/These/Master/Stac/data/SNAPSHOTS/2014-04-17/socl-season1.edu-pairs.csv'
-#~ f_source = '/home/arthur/These/Master/Stac/data/SNAPSHOTS/2014-04-17/socl-season1.relations.csv'
+f_source = '/home/arthur/These/Master/Stac/data/SNAPSHOTS/2014-05-01/socl-season1.relations.csv'
 #~ 
-#~ d_all = Orange.data.Table(f_source)
-#~ d_source = d_all.filter({'CLASS':'UNRELATED'}, negate=1)
+d_all = Orange.data.Table(f_source)
+d_source = d_all.filter({'CLASS':'UNRELATED'}, negate=1)
 
 #~ f_source = '/home/arthur/These/Data/socl-season1.merged.tab'
-f_source = '/home/arthur/These/Data/socl-season1.turns.tab'
-d_source = Orange.data.Table(f_source)
+#~ f_source = '/home/arthur/These/Data/socl-season1.turns.tab'
+#~ d_source = Orange.data.Table(f_source)
 
 print('Source loaded')
 n_folds = 10
