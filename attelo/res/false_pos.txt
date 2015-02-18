@@ -1,0 +1,203 @@
+== s1-league1-game1_01 ==
+9 : william : yup
+
+== s1-league1-game1_02 ==
+106 : gotwood4sheep : clay or sheep are my primary desires
+119 : tomas.kostan : alright... what about some wheat?
+129 : gotwood4sheep : got sheep?
+145 : gotwood4sheep : i have a man on my ore pile...
+
+== s1-league1-game1_03 ==
+180 : william : here
+206 : william : i need ore or wood
+
+== s1-league1-game1_05 ==
+277 : gotwood4sheep : i need a clay
+281 : tomas.kostan : ore for what then?
+
+== s1-league1-game1_06 ==
+352 : tomas.kostan : still no ore?
+356 : gotwood4sheep : no sheep, sorry!
+372 : tomas.kostan : ore, sheep or wheat to spare?
+378 : gotwood4sheep : or 2 wood
+403 : tomas.kostan : which one do you want?
+
+== s1-league1-game1_07 ==
+440 : gotwood4sheep : I was rather rich in wheat
+
+== s1-league1-game2_01 ==
+62 : ljaybrad123 : none sorry
+
+== s1-league1-game2_02 ==
+76 : william : i can give you a lot for a clay, anyone?
+
+== s1-league1-game2_03 ==
+122 : tomas.kostan : do you have one for trade?
+
+== s1-league1-game2_04 ==
+214 : tomas.kostan : no ore for trade
+247 : tomas.kostan : i do
+
+== s1-league1-game2_05 ==
+294 : william : no,  but can i give you something for your clay?
+
+== s1-league1-game2_06 ==
+330 : ljaybrad123 : wheat or clay even
+347 : ljaybrad123 : 1 sheep oe wheat?
+349 : ljaybrad123 : one*
+
+== s1-league1-game2_07 ==
+389 : tomas.kostan : oh.. so you want wheat not clay?
+
+== s1-league1-game3_01 ==
+66 : william : i need ore or wood
+
+== s1-league1-game3_02 ==
+103 : gotwood4sheep : i'll do that
+138 : gotwood4sheep : tomas remember I'm on the hook for a sheep to you
+145 : gotwood4sheep : I'll have my sheep back :D
+
+== s1-league1-game3_03 ==
+218 : gotwood4sheep : not for sheep, sorry :(
+
+== s1-league1-game3_04 ==
+235 : gotwood4sheep : I'm good for wood :D
+248 : gotwood4sheep : 1 wood 1 sheep?
+
+== s1-league1-game3_05 ==
+292 : gotwood4sheep : we have 4 games laura, I'm sure it will even out :)
+296 : tomas.kostan : what about 1 sheep and 1 wheat? :)
+
+== s1-league1-game3_06 ==
+364 : ljaybrad123 : anyone have wood?
+392 : tomas.kostan : yes yes yes
+393 : william : yes
+394 : tomas.kostan : what do you want?
+403 : tomas.kostan : 2 clay? :)
+
+== s1-league1-game3_07 ==
+464 : ljaybrad123 : got... thats an interesting one :p
+
+== s1-league1-game3_09 ==
+516 : william : yup, just hurry everyone...
+523 : gotwood4sheep : but not for 1 sheep
+529 : gotwood4sheep : no help here
+
+== s1-league1-game3_10 ==
+588 : tomas.kostan : ore and wheat
+590 : tomas.kostan : ok then 2 ore
+
+== s1-league1-game3_11 ==
+603 : tomas.kostan : looking for some sheep and wheat
+604 : gotwood4sheep : will for clay
+
+== s1-league1-game3_12 ==
+662 : gotwood4sheep : how prescient
+680 : gotwood4sheep : 2 wheat?
+
+== s1-league1-game3_13 ==
+710 : tomas.kostan : need sheep
+718 : ljaybrad123 : ill do sheep for wood
+751 : gotwood4sheep : i need 1 clay
+
+== s1-league1-game3_14 ==
+766 : ljaybrad123 : anyone got ore or wood or clay?
+771 : tomas.kostan : need ore
+780 : william : for 2 wheat?
+
+== s1-league1-game3_15 ==
+849 : gotwood4sheep : i was hoping for ore
+853 : gotwood4sheep : 1 wood 2 wheat?
+857 : gotwood4sheep : 1 wood 4 wheat?
+858 : tomas.kostan : sry don't want to end this game :)
+
+== s1-league1-game4_03 ==
+152 : gotwood4sheep : none to spare just yet :)
+154 : ljaybrad123 : keeping mine just yet
+179 : ljaybrad123 : me too
+
+== s1-league1-game4_04 ==
+191 : ljaybrad123 : for now.
+
+== s1-league1-game4_05 ==
+212 : gotwood4sheep : LJ has one
+213 : ljaybrad123 : I want wood
+
+== s1-league1-game4_06 ==
+266 : gotwood4sheep : my french not so good
+285 : gotwood4sheep : deal :)
+309 : gotwood4sheep : 1 sheep is cheaper if you have it...
+
+== s1-league1-game4_07 ==
+356 : gotwood4sheep : sheep, tomas?
+
+== s1-league1-game4_08 ==
+422 : gotwood4sheep : 2 wheat and a sheep maybe
+
+== s1-league1-game4_09 ==
+462 : tomas.kostan : i need both or none :)
+465 : gotwood4sheep : afraid it'll be none then :)
+
+== s1-league1-game4_10 ==
+515 : tomas.kostan : sry then have no idea what it was :/
+521 : tomas.kostan : can i get a wood or a clay?
+
+== s1-league1-game5_01 ==
+3 : ljaybrad123 : i think you can reset but i dont want to ruin the board
+9 : gotwood4sheep : who has disappeared
+
+== s1-league1-game5_03 ==
+144 : gotwood4sheep : 1 for 1?
+
+== s1-league1-game5_05 ==
+280 : william : you can have it back for some ore
+
+== s1-league1-game5_06 ==
+350 : ljaybrad123 : yes
+
+== s1-league1-game5_07 ==
+410 : gotwood4sheep : neither, sorry
+
+== s1-league2-game1_01 ==
+11 : sabercat : sabercat is Martina
+16 : skinnylinny : Sure
+19 : skinnylinny : Sure
+20 : skinnylinny : Have done
+52 : skinnylinny : Yup
+65 : IG : wood
+
+== s1-league2-game1_03 ==
+140 : sabercat : have to wait one round
+
+== s1-league2-game1_04 ==
+162 : skinnylinny : Oi! No stealing! :P
+175 : skinnylinny : No wheat?
+
+== s1-league2-game1_06 ==
+238 : IG : wood only im afraid
+
+== s1-league2-game1_08 ==
+315 : IG : need wood [as ever]
+316 : skinnylinny : Heh, need an ore
+
+== s1-league2-game1_10 ==
+395 : IG : yea
+
+== s1-league2-game1_11 ==
+453 : skinnylinny : Yes
+456 : skinnylinny : wood port
+469 : IG : wood or sheep
+
+== s1-league2-game1_12 ==
+504 : IG : and sorry, no clay for sheep
+
+== s1-league2-game1_13 ==
+524 : IG : hey, I want wood as well
+531 : IG : for what
+537 : IG : im trading with skinny next turn
+
+== s1-league2-game1_14 ==
+578 : sabercat : I need 2 sheep...
+590 : sabercat : btw... originally, I was offering 3 clay..
+596 : skinnylinny : I didn't want three clay
+

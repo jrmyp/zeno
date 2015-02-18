@@ -1,0 +1,4928 @@
+== s1-league1-game5_05 ==
+= stac_1368694486 =
+U: stac_1368694461      gotwood4sheep: an ore
+C: stac_1368694467      ljaybrad123: sheep or clay?
+Rel: Q-Elab (subord.)
+
+== pilot14_04 ==
+= stac_1387784740 =
+U: stac_1338387810      Ash: me too
+C: stac_1338397810      J: :)
+Rel: Comment (subord.)
+
+U: stac_1338467810      mmatrtajova: cant build a settlement unless you have a road,
+C: stac_1338507810      Ash: you have to have a settlement before a city though i think
+Rel: Correction (subord.)
+
+== s1-league1-game4_03 ==
+= stac_1368694105 =
+U: stac_1368694092      tomas.kostan: clay, ore?
+C: stac_1368694098      gotwood4sheep: none to spare just yet :)
+Rel: Question-answer_pair (subord.)
+
+= stac_1368694162 =
+U: stac_1368694152      gotwood4sheep: i got ore
+C: stac_1368694158      ljaybrad123: me too
+Rel: Parallel (coord.)
+
+U: stac_1368694152      gotwood4sheep: i got ore
+C: stac_1368694161      gotwood4sheep: but lj may be able to up the offer
+Rel: Contrast (coord.)
+
+== s1-league1-game4_02 ==
+= stac_1368694097 =
+U: pdenis_1393339101468 tomas.kostan: hi.
+C: stac_1368694090      gotwood4sheep: and hello tomas! :D
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game3_06 ==
+= stac_1368708083 =
+U: stac_1368708070      nareik15: nope don't have either unfortunately,
+C: stac_1368708074      yiin: oh ok
+Rel: Acknowledgement (subord.)
+
+== pilot20_02 ==
+= stac_1341277849 =
+U: stac_1338607845      ariachiba: Preferably wood or ore,
+C: stac_1338617845      Rainbow: i got wheat
+Rel: Elaboration (subord.)
+
+== pilot21_08 ==
+= stac_1340677905 =
+U: stac_1338467902      Charlotte: sheep or wood in return for clay or wheat?
+C: stac_1338517902      Katherine: anyone needs wheat
+Rel: Continuation (coord.)
+
+= stac_1341377906 =
+U: stac_1338627902      Josephine: Okay,
+C: stac_1338637902      Josephine: Just got some more...
+Rel: Explanation (subord.)
+
+== pilot04_12 ==
+= stac_1340377754 =
+U: stac_1338397753      Nancy: anyone want wood?
+C: stac_1338487753      Nancy: does any one have wheat?
+Rel: Narration (coord.)
+
+= stac_1344777755 =
+U: stac_1338757753      Chameleon: hover over them
+C: stac_1338767753      skinnylinny: AHHH
+Rel: Acknowledgement (subord.)
+
+U: stac_1338847753      Chameleon: cant roll after playing a card
+C: stac_1338897753      Nancy: really?
+Rel: Clarification_question (subord.)
+
+U: stac_1338927753      Chameleon: if there is a required order for a go
+C: stac_1338937753      skinnylinny: Agreed.
+Rel: Acknowledgement (subord.)
+
+U: stac_1338847753      Chameleon: cant roll after playing a card
+C: stac_1338947753      Chameleon: and I cant end my turn
+Rel: Continuation (coord.)
+
+== s1-league3-game7_04 ==
+= stac_1377296093 =
+U: stac_1377296035      yiin: first time i win this
+C: stac_1377296047      gaeilgeoir: well done yiin
+Rel: Result (coord.)
+
+U: stac_1377296038      gaeilgeoir: I haven't won yet :(
+C: stac_1377296050      inca: well maybe tonight will be your night
+Rel: Contrast (coord.)
+
+U: stac_1377296050      inca: well maybe tonight will be your night
+C: stac_1377296059      yiin: yah
+Rel: Acknowledgement (subord.)
+
+U: stac_1377296062      inca: is 10 OK?
+C: stac_1377296066      gaeilgeoir: 10 is ok
+Rel: Question-answer_pair (subord.)
+
+U: stac_1377296066      gaeilgeoir: 10 is ok
+C: stac_1377296072      inca: cool
+Rel: Acknowledgement (subord.)
+
+U: stac_1377296075      inca: see you then
+C: stac_1377296086      inca: cheers michael
+Rel: Comment (subord.)
+
+U: stac_1377296082      inca: that's fine,
+C: stac_1377296092      yiin: thank you for this opportunity
+Rel: Comment (subord.)
+
+== s1-league3-game3_09 ==
+= stac_1368708057 =
+U: stac_1368708047      yiin: clay
+C: stac_1368708053      inca: sorry yin
+Rel: Comment (subord.)
+
+= stac_1368708118 =
+U: stac_1368708111      Gaeilgeoir: yay
+C: stac_1368708117      inca: cool, see you then!
+Rel: Acknowledgement (subord.)
+
+== pilot04_07 ==
+= stac_1340677742 =
+U: stac_1338557738      Chameleon: actually
+C: stac_1338567739      Chameleon: no
+Rel: Elaboration (subord.)
+
+U: stac_1338557738      Chameleon: actually
+C: stac_1338597738      skinnylinny: ok
+Rel: Acknowledgement (subord.)
+
+== s2-league1-game1_03 ==
+= stac_1384782678 =
+U: stac_1384782661      gotwood4sheep: anyone got a sheep?
+C: stac_1384782674      inca: think i need mine
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782747 =
+U: stac_1384782741      gotwood4sheep: we all seem to have a surfeit.
+C: stac_1384782745      inca: yep i've got plenty now too,
+Rel: Parallel (coord.)
+
+== s2-leagueM-game3_01 ==
+= stac_1412670471 =
+U: stac_1412670366      gotwood4sheep: hi duncan!
+C: stac_1412670388      ljaybrad123: evening
+Rel: Comment (subord.)
+
+U: stac_1412670369      dmm: hello!
+C: stac_1412670388      ljaybrad123: evening
+Rel: Comment (subord.)
+
+U: stac_1412670419      gotwood4sheep: I went there with a friend the first time a couple of weeks back
+C: stac_1412670425      ljaybrad123: nice
+Rel: Comment (subord.)
+
+U: stac_1412670388      ljaybrad123: evening
+C: stac_1412670428      gotwood4sheep: just innis to come
+Rel: Result (coord.)
+
+U: stac_1412670388      ljaybrad123: evening
+C: stac_1412670438      gotwood4sheep: we all ready to go?
+Rel: Result (coord.)
+
+U: stac_1412670434      gotwood4sheep: Hey innis!
+C: stac_1412670438      gotwood4sheep: we all ready to go?
+Rel: Result (coord.)
+
+U: stac_1412670434      gotwood4sheep: Hey innis!
+C: stac_1412670441      inca: Hey all!
+Rel: Continuation (coord.)
+
+U: stac_1412670438      gotwood4sheep: we all ready to go?
+C: stac_1412670445      inca: Let's go, good luck all
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670445      inca: Let's go, good luck all
+C: stac_1412670474      gotwood4sheep: gl all!
+Rel: Comment (subord.)
+
+= stac_1412670507 =
+U: stac_1412670492      dmm: i suppose this is pretty unlikely,
+C: stac_1412670500      gotwood4sheep: not after I got stoled from :(
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game2_03 ==
+= stac_1399316569 =
+U: stac_1399316536      somdechn: Give me clay
+C: stac_1399316540      ztime: sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316533      ztime: I'll give wheat...
+C: stac_1399316543      ztime: how about 2 wheat.. for 1 wood?
+Rel: Alternation (coord.)
+
+U: stac_1399316549      ztime: how about 1 ore and 1 wheat for wood
+C: stac_1399316555      somdechn: Still can't do it..
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316561      ztime: i did..
+C: stac_1399316565      Shawnus: damn
+Rel: Comment (subord.)
+
+= stac_1399316600 =
+U: stac_1399316609      somdechn: Yes....
+C: stac_1399316613      ztime: ahhh
+Rel: Comment (subord.)
+
+== s1-league1-game3_12 ==
+= stac_1368640622 =
+U: stac_1368640553      ljaybrad123: anyone got ore?
+C: stac_1368640562      gotwood4sheep: no ore sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640583      ljaybrad123: anyone got wood?
+C: stac_1368640612      gotwood4sheep: I'll pass
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640625      gotwood4sheep: oh snap.
+C: stac_1368640629      ljaybrad123: :) I may have fibbed a little...
+Rel: Explanation (subord.)
+
+== s1-league3-game7_01 ==
+= stac_1377296072 =
+U: stac_1377296062      yiin: anyone got clay...
+C: stac_1377296067      inca: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1377296133 =
+U: stac_1377296122      gaeilgeoir: nope
+C: stac_1377296132      yiin: oh ok
+Rel: Acknowledgement (subord.)
+
+U: stac_1377296125      inca: nope,
+C: stac_1377296132      yiin: oh ok
+Rel: Acknowledgement (subord.)
+
+== s2-league4-game2_07 ==
+= stac_1399316605 =
+U: stac_1399316595      somdechn: Shawnus I got Sheep.. still want to trand?
+C: stac_1399316601      Shawnus: i need wheat
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game2_02 ==
+== pilot01_02 ==
+= stac_1345824907 =
+U: stac_1340834905      Tomm: Well, what would you like for clay
+C: stac_1340844905      rennoc1: could do with some ore or sheep
+Rel: Question-answer_pair (subord.)
+
+U: stac_1340824905      Dave: Yeah,
+C: stac_1340864905      Tomm: Yeah,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1340854905      Dave: While we're talking about trading,
+C: stac_1340874905      Tomm: I have sheep, yes.
+Rel: Question-answer_pair (subord.)
+
+U: stac_1340954905      Tomm: so I give a sheep to red,
+C: stac_1340964905      Dave: yup
+Rel: Acknowledgement (subord.)
+
+U: stac_1340844905      rennoc1: could do with some ore or sheep
+C: stac_1341024905      Tomm: rennoc: Sheep for an ore?
+Rel: Q-Elab (subord.)
+
+U: stac_1341044905      Dave: Is there a reason I can't buy a settlement now?
+C: stac_1341064905      Tomm: You have to do it on your go
+Rel: Question-answer_pair (subord.)
+
+U: stac_1341054905      Tomm: Bah, that's what I meant,
+C: stac_1341074905      rennoc1: ok
+Rel: Question-answer_pair (subord.)
+
+U: nasher_1374506257614 Dave: but the road and card options have a greyed out buy option,
+C: stac_1341114905      Dave: also you tried to trade with me there tomm, not rennoc
+Rel: Parallel (coord.)
+
+= stac_1347224909 =
+U: stac_1341314905      Tomm: Do you get a random one of my resources then?
+C: stac_1341334905      Dave: I did, yeah
+Rel: Question-answer_pair (subord.)
+
+U: stac_1341324905      Dave: anyone need wheat?
+C: stac_1341344905      Tomm: no thanks
+Rel: Question-answer_pair (subord.)
+
+= stac_1348024911 =
+U: stac_1341424906      Tomm: When he is in a hex
+C: stac_1341434906      Dave: ah
+Rel: Acknowledgement (subord.)
+
+= stac_1349324912 =
+U: stac_1341524906      Tomm: I played the card,
+C: stac_1341534906      Tomm: so I moved him twice
+Rel: Result (coord.)
+
+== s1-league2-game4_04 ==
+= stac_1377311486 =
+U: stac_1377311470      amycharl: night :)
+C: stac_1377311482      sabercat: night!
+Rel: Comment (subord.)
+
+== s1-league3-game3_01 ==
+= stac_1368708075 =
+U: stac_1368708031      Gaeilgeoir: evening
+C: stac_1368708040      nareik15: hi
+Rel: Continuation (coord.)
+
+U: stac_1368708043      inca: Not bad thanks,
+C: stac_1368708053      inca: Getting a bit of a deja vu here...
+Rel: Continuation (coord.)
+
+U: stac_1368708065      inca: Ah he says he's coming
+C: stac_1368708071      inca: Good luck all
+Rel: Narration (coord.)
+
+= stac_1368708124 =
+U: stac_1368708112      Gaeilgeoir: anyone have wood?
+C: stac_1368708120      yiin: nope sry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368708116      inca: i've got wood,
+C: stac_1368708123      Gaeilgeoir: deal
+Rel: Question-answer_pair (subord.)
+
+= stac_1368708165 =
+U: stac_1368708153      nareik15: could do with some wheat though
+C: stac_1368708160      yiin: yes
+Rel: Acknowledgement (subord.)
+
+== s1-league1-game1_01 ==
+= stac_1362034596 =
+U: stac_1359764595      william: it's so sunny, 
+C: stac_1359774595      gotwood4sheep: yup,
+Rel: Acknowledgement (subord.)
+
+U: stac_1359754595      gotwood4sheep: evening!
+C: stac_1359774596      gotwood4sheep: hi tomas!
+Rel: Continuation (coord.)
+
+U: stac_1359774596      gotwood4sheep: hi tomas!
+C: stac_1359794595      tomas.kostan: hi there :)
+Rel: Continuation (coord.)
+
+== s2-league4-game2_01 ==
+= stac_1399316574 =
+U: stac_1399316481      somdechn: NZ bro...
+C: stac_1399316493      ztime: Welcome NZ
+Rel: Comment (subord.)
+
+U: stac_1399316490      Shawnus: lovely place
+C: stac_1399316506      Shawnus: I did the marathon there this year (scotland, not NZ)
+Rel: Continuation (coord.)
+
+U: stac_1399316502      ztime: right..
+C: stac_1399316530      somdechn: Anyway.........
+Rel: Continuation (coord.)
+
+U: stac_1399316502      ztime: right..
+C: stac_1399316539      ztime: yer.. shall we..
+Rel: Continuation (coord.)
+
+U: stac_1399316530      somdechn: Anyway.........
+C: stac_1399316539      ztime: yer.. shall we..
+Rel: Continuation (coord.)
+
+U: stac_1399316560      somdechn: Need to undo are you?
+C: stac_1399316567      ztime: no it's fine..
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316563      ztime: no..
+C: stac_1399316570      Shawnus: hahaha
+Rel: Comment (subord.)
+
+== s1-league2-game3_03 ==
+= stac_1368693224 =
+U: stac_1368693159      skinnylinny: I do
+C: stac_1368693189      skinnylinny: Also, yes.
+Rel: Parallel (coord.)
+
+U: stac_1368693192      sabercat: can you do for another sheep?
+C: stac_1368693199      skinnylinny: Ah, actually, I can't, sorry.
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368693193      sabercat: or
+C: stac_1368693199      skinnylinny: Ah, actually, I can't, sorry.
+Rel: Question-answer_pair (subord.)
+
+== pilot14_10 ==
+= stac_1387640792 =
+U: stac_1338407828      mmatrtajova: i want sheep
+C: stac_1338417827      J: me too
+Rel: Parallel (coord.)
+
+U: stac_1338597827      mmatrtajova: well
+C: stac_1338607827      Ash: lol
+Rel: Comment (subord.)
+
+== s1-league2-game2_02 ==
+= stac_1365261724 =
+U: stac_1364531722      amycharl: you wanna do that ore and wheat for wood offer?
+C: stac_1364581722      sabercat: now you givee me wood?
+Rel: Q-Elab (subord.)
+
+= stac_1367461727 =
+U: stac_1364661722      IG: need ore?
+C: stac_1364681722      amycharl: nah
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game1_01 ==
+= stac_1396964847 =
+U: stac_1396964842      WoodnSheep: the arrow is still on me,
+C: stac_1396964846      ztime: can you roll?
+Rel: Q-Elab (subord.)
+
+U: stac_1396964850      WoodnSheep: I think maybe it rolls automatically
+C: stac_1396964855      somdechn: It rolls automatically.
+Rel: Elaboration (subord.)
+
+== s2-league3-game4_02 ==
+= stac_1384783945 =
+U: stac_1384783930      Tyrant Lord: cool
+C: stac_1384783944      nelsen: thanks
+Rel: Comment (subord.)
+
+U: stac_1384783944      nelsen: thanks
+C: stac_1384783955      sparkles: *shakes fist* :p
+Rel: Comment (subord.)
+
+== pilot21_11 ==
+= stac_1340877921 =
+U: stac_1338597914      Josephine: It ends
+C: stac_1338607914      Amanda: haha
+Rel: Acknowledgement (subord.)
+
+= stac_1341677922 =
+U: stac_1338657914      Charlotte: wheat for clay or wood anyone?
+C: stac_1338677914      Josephine: no
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game1_03 ==
+= stac_1366867139 =
+U: stac_1365857136      tomas.kostan: wood? 
+C: stac_1365867136      william: no sry
+Rel: Question-answer_pair (subord.)
+
+= stac_1367867140 =
+U: stac_1365897136      gotwood4sheep: anyone got clay?
+C: stac_1365927136      gotwood4sheep: tomas, any clay??
+Rel: Q-Elab (subord.)
+
+U: stac_1365917138      gotwood4sheep: I know they are in high demand too
+C: stac_1365937136      gotwood4sheep: i appreciate we're all sheepless
+Rel: Continuation (coord.)
+
+U: stac_1365927136      gotwood4sheep: tomas, any clay??
+C: stac_1365947136      tomas.kostan: no clay
+Rel: Question-answer_pair (subord.)
+
+U: stac_1365947136      tomas.kostan: no clay
+C: stac_1365947138      tomas.kostan: robber steals it all!
+Rel: Explanation (subord.)
+
+U: stac_1365957136      gotwood4sheep: so he does, 
+C: stac_1365997136      gotwood4sheep: 8 ouch
+Rel: Continuation (coord.)
+
+= stac_1372167145 =
+U: stac_1366307136      william: ^^ it might just pay off in the long run
+C: stac_1366337136      gotwood4sheep: lol
+Rel: Comment (subord.)
+
+= stac_1372667146 =
+U: stac_1366427136      gotwood4sheep: william, can you spare another clay for another wood?
+C: stac_1366447136      william: wooded up ;)
+Rel: Question-answer_pair (subord.)
+
+== pilot02_11 ==
+= stac_1340277703 =
+U: stac_1338417702      Cat: I need clay or ore
+C: stac_1338467702      Cat: let's do the clay
+Rel: Result (coord.)
+
+== s1-league1-game3_01 ==
+= stac_1368640625 =
+U: stac_1368640545      ljaybrad123: Hi :)
+C: stac_1368640551      gotwood4sheep: Hi folks!
+Rel: Comment (subord.)
+
+U: stac_1368640563      ljaybrad123: evening tomas
+C: stac_1368640572      tomas.kostan: hey
+Rel: Comment (subord.)
+
+U: stac_1368640566      gotwood4sheep: I just got an email about winning a competition for movie tickets
+C: stac_1368640575      ljaybrad123: nice
+Rel: Comment (subord.)
+
+U: stac_1368640569      ljaybrad123: are we ready to start?
+C: stac_1368640578      william: ready
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640587      gotwood4sheep: reckon we can get thru this in 45mins?!
+C: stac_1368640593      ljaybrad123: should be able to
+Rel: Question-answer_pair (subord.)
+
+= stac_1368640684 =
+U: stac_1368640679      ljaybrad123: move the robber
+C: stac_1368640683      gotwood4sheep: lol :D
+Rel: Comment (subord.)
+
+== s2-leagueM-game2_05 ==
+= stac_1412670307 =
+U: stac_1412670284      CheshireCatGrin: So given the dice rolls, wheat.
+C: stac_1412670290      dmm: oh! i have a wheat
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670287      dmm: or even two sheep!
+C: stac_1412670293      CheshireCatGrin: Ah, sorry have no need of sheep
+Rel: Contrast (coord.)
+
+U: stac_1412670287      dmm: or even two sheep!
+C: stac_1412670293      CheshireCatGrin: Ah, sorry have no need of sheep
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670300      dmm: sounds good to me
+C: stac_1412670306      CheshireCatGrin: wonderful :)
+Rel: Acknowledgement (subord.)
+
+= stac_1412670366 =
+U: stac_1412670343      dmm: anybody with ore?
+C: stac_1412670350      gotwood4sheep: i have no ore,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670347      gotwood4sheep: inca - also the blog is now 2 years old without updates
+C: stac_1412670354      gotwood4sheep: so he's not really developing catan no mo
+Rel: Result (coord.)
+
+U: stac_1412670350      gotwood4sheep: i have no ore,
+C: stac_1412670365      dmm: oh well
+Rel: Acknowledgement (subord.)
+
+= stac_1412670402 =
+U: stac_1412670388      gotwood4sheep: sorry...
+C: stac_1412670401      dmm: hmm okay then
+Rel: Acknowledgement (subord.)
+
+== pilot04_09 ==
+= stac_1341977747 =
+U: stac_1338497744      Nancy: does anyone want any clay?
+C: stac_1338507745      skinnylinny: Yes please
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1403108213  skinnylinny: Shouldn't have put the robber on the ore space, then :P
+C: stac_1338617745      Chameleon: not me
+Rel: Correction (subord.)
+
+U: stac_1338607744      Nancy: that wasnt me
+C: stac_1338617745      Chameleon: not me
+Rel: Parallel (coord.)
+
+== s2-leagueM-game2_03 ==
+= stac_1412670285 =
+U: stac_1412670259      gotwood4sheep: anyone got ore?
+C: stac_1412670265      dmm: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1412670399 =
+U: stac_1412670380      inca: need to keep mine,
+C: stac_1412670391      gotwood4sheep: inca, I assume even a couple of sheep won't do it?
+Rel: Q-Elab (subord.)
+
+== pilot01_06 ==
+= stac_1338876559 =
+U: stac_1338386558      Dave: wheat for wood anyone?
+C: stac_1338406558      Tomm: sorry :/
+Rel: Question-answer_pair (subord.)
+
+= stac_1339176560 =
+U: stac_1338476558      Tomm: If you have a settlement on them
+C: stac_1338486558      Dave: I thought that was the number ones
+Rel: Contrast (coord.)
+
+U: stac_1338446558      Dave: how do those resource tiles in the water work
+C: stac_1338546558      rennoc1: anyone have any wood?
+Rel: Continuation (coord.)
+
+= stac_1341776563 =
+U: stac_1338666558      Dave: good roll that
+C: stac_1338706558      Tomm: Yes, that was a good roll for you.
+Rel: Comment (subord.)
+
+== s1-league3-game3_08 ==
+= stac_1368708057 =
+U: stac_1368708044      yiin: what do you need
+C: stac_1368708050      inca: got sheep?
+Rel: Q-Elab (subord.)
+
+= stac_1368708077 =
+U: stac_1368708069      yiin: i ahve
+C: stac_1368708073      yiin: have
+Rel: Correction (subord.)
+
+== pilot01_05 ==
+= stac_1339676556 =
+U: stac_1338426556      Tomm: Also 8 should be as likely as a 6...
+C: stac_1338436555      Dave: also 7's,
+Rel: Parallel (coord.)
+
+U: stac_1338446555      Tomm: 7 is the most likely to be fair
+C: stac_1338466555      Dave: it is, yeah, even so
+Rel: Acknowledgement (subord.)
+
+U: stac_1338406555      Dave: :9
+C: stac_1338476555      rennoc1: so anyone have any ore?
+Rel: Result (coord.)
+
+= stac_1342476560 =
+U: stac_1338726555      rennoc1: you know if you have more than 4,
+C: stac_1338736555      Dave: yeah
+Rel: Acknowledgement (subord.)
+
+U: stac_1338686555      Dave: anyone need wheat?
+C: stac_1338756555      Tomm: Well, I might do,
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game2_04 ==
+= stac_1362934626 =
+U: stac_1360124617      william: can i get someone's clay?
+C: stac_1360144617      ljaybrad123: i has none
+Rel: Question-answer_pair (subord.)
+
+U: stac_1360134617      ljaybrad123: stupid robber
+C: stac_1360174617      ljaybrad123: bloody hell
+Rel: Comment (subord.)
+
+U: stac_1360184617      william: it IS the most likely number...
+C: stac_1360264617      tomas.kostan: this game is crazy
+Rel: Comment (subord.)
+
+U: stac_1360244617      william: can i get ore for wood?
+C: stac_1360274617      tomas.kostan: no sry
+Rel: Question-answer_pair (subord.)
+
+== s1-league3-game1_04 ==
+= stac_1366232855 =
+U: stac_1360352844      nareik15: do you have ore
+C: stac_1360372845      inca: i need the same
+Rel: Parallel (coord.)
+
+U: stac_1360362844      yiin: no srry
+C: stac_1360372845      inca: i need the same
+Rel: Acknowledgement (subord.)
+
+== s2-league4-game2_02 ==
+= stac_1399316501 =
+U: stac_1399316487      somdechn: No
+C: stac_1399316497      ztime: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1399316556 =
+U: stac_1399316507      somdechn: Yes please
+C: stac_1399316516      ztime: which do you want?
+Rel: Q-Elab (subord.)
+
+U: stac_1399316510      ztime: I'm after wood
+C: stac_1399316516      ztime: which do you want?
+Rel: Continuation (coord.)
+
+U: stac_1399316534      ztime: anyone want to sell sheep?
+C: stac_1399316540      Shawnus: not got any :(
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316559      Shawnus: for ore..
+C: stac_1399316563      ztime: ha.. somdech stole from me
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game5_04 ==
+= stac_1368694380 =
+U: stac_1368694358      ljaybrad123: some resources would be lovely...
+C: stac_1368694367      gotwood4sheep: ok then, thanks :)
+Rel: Acknowledgement (subord.)
+
+U: stac_1368694376      ljaybrad123: niko i thought you couldnt build there....
+C: stac_1368694383      gotwood4sheep: as long as you're >1 hex point from a settlement
+Rel: Explanation (subord.)
+
+= stac_1368694415 =
+U: stac_1368694402      gotwood4sheep: I'm oreless
+C: stac_1368694411      william: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1368694428 =
+U: stac_1368694431      gotwood4sheep: thought we'd have loads of wheat this game
+C: stac_1368694444      gotwood4sheep: at the start of the game i thought we'd be wheat heavy with 7s and 8s
+Rel: Elaboration (subord.)
+
+== s1-league3-game5_02 ==
+= stac_1367961731 =
+U: stac_1364751724      Gaeilgeoir: I have sheep
+C: stac_1364781724      nareik15: yeah
+Rel: Question-answer_pair (subord.)
+
+= stac_1370861737 =
+U: stac_1365051724      Gaeilgeoir: ok
+C: stac_1365091724      nareik15: thanks
+Rel: Comment (subord.)
+
+== s2-league4-game3_10 ==
+= stac_1399316611 =
+U: stac_1399316595      ztime: thanks for the game...
+C: stac_1399316604      Shawnus: thanks
+Rel: Comment (subord.)
+
+== s1-league2-game2_06 ==
+= stac_1367461726 =
+U: stac_1364681723      dmm: i only just got the one i have...
+C: stac_1364741723      sabercat: ore needed :D
+Rel: Explanation (subord.)
+
+= stac_1368861728 =
+U: stac_1364811723      amycharl: anyone want sheep
+C: stac_1364831723      amycharl: usual offer
+Rel: Elaboration (subord.)
+
+== pilot14_12 ==
+= stac_1340477837 =
+U: stac_1338517832      mmatrtajova: anyone trade clay for wheat?
+C: stac_1338537832      Ash: no
+Rel: Question-answer_pair (subord.)
+
+== pilot03_09 ==
+= stac_1339414274 =
+U: stac_1338334273      Joel: does anyone have clay
+C: stac_1338394273      jon: none
+Rel: Question-answer_pair (subord.)
+
+= stac_1340514275 =
+U: stacutil_1403100532  Cardlinger: joel and euan have marked you :D
+C: stac_1338514273      Euan: bwahaha
+Rel: Comment (subord.)
+
+= stac_1340714276 =
+U: stac_1338584273      Euan: That robber needs to go back to the desert.
+C: stacutil_1403100535  Cardlinger: i put him there once :)
+Rel: Comment (subord.)
+
+U: stac_1338634273      Cardlinger: don't go to vegas
+C: stac_1338644273      Euan: :D
+Rel: Comment (subord.)
+
+= stac_1344714279 =
+U: stac_1338764273      Cardlinger: i'm fresh out again
+C: stac_1338794273      Joel: same
+Rel: Parallel (coord.)
+
+== pilot20_05 ==
+= stac_1339377855 =
+U: stac_1338447853      ariachiba: You had more than 7 reseources
+C: stac_1338457853      Rainbow: oh ryt yes thnx
+Rel: Acknowledgement (subord.)
+
+= stac_1341077857 =
+U: stac_1338537853      Rainbow: anybody want to giv me clay?
+C: stac_1338567853      Kittles: none
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game3_02 ==
+= stac_1399316623 =
+U: stac_1399316607      Shawnus: I have spare sheep
+C: stac_1399316622      ztime: thanks for the trade
+Rel: Comment (subord.)
+
+U: stac_1399316610      ztime: ok
+C: stac_1399316622      ztime: thanks for the trade
+Rel: Continuation (coord.)
+
+U: stac_1399316616      ztime: huh?
+C: stac_1399316626      WoodnSheep: I clicked where I wanted it a couple of times, then out of fraustration clicked somewhere else, at w
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316635      ztime: do you have flatmates downloading lots of data???
+C: stac_1399316641      WoodnSheep: Thats what I'm thinking
+Rel: Question-answer_pair (subord.)
+
+= stac_1399316690 =
+U: stac_1399316658      WoodnSheep: er sheep for clay attempt 2?
+C: stac_1399316674      WoodnSheep: shawnus, any clay for me?
+Rel: Continuation (coord.)
+
+= stac_1399316709 =
+U: stac_1399316693      WoodnSheep: now I really want pizza...
+C: stac_1399316699      WoodnSheep: preferbly dice rolls
+Rel: Contrast (coord.)
+
+U: stac_1399316723      Shawnus: have to move robber first?
+C: stac_1399316729      ztime: thanks
+Rel: Comment (subord.)
+
+= stac_1399316776 =
+U: stac_1399316769      WoodnSheep: my wheat might I point out :p
+C: stac_1399316775      ztime: :-)
+Rel: Comment (subord.)
+
+== s1-league1-game2_03 ==
+== pilot03_08 ==
+= stac_1341914278 =
+U: stac_1338504275      Euan: So...anyone got clay?
+C: stac_1338544275      Joel: [no clay]
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338524275      Joel: hey guys -
+C: stac_1338554275      Joel: the meeting is 30min
+Rel: Correction (subord.)
+
+U: stac_1338594275      Euan: Guessing
+C: stac_1338604275      Joel: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1343314279 =
+U: stac_1338694275      Cardlinger: anyone want wheat for sheep?
+C: stacutil_1403100526  Euan: No sheep/ore :/
+Rel: Question-answer_pair (subord.)
+
+== pilot02_04 ==
+= stac_1340277686 =
+U: stac_1338507682      Thomas: sheep again anyone?
+C: stac_1338527682      william: no
+Rel: Question-answer_pair (subord.)
+
+= stac_1342577687 =
+U: stac_1338587682      Cat: is the robber robbing me?
+C: stac_1338617682      william: the robber prevents you from getting that stuff while he's there
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338737682      william: if you move another window on top of the speech bubble 
+C: stac_1338747682      william: like "whiping" over it
+Rel: Explanation (subord.)
+
+== s1-league1-game2_06 ==
+= stac_1363034621 =
+U: stac_1359984617      ljaybrad123: one*
+C: stac_1360014617      tomas.kostan: do not have any wheat
+Rel: Q-Elab (subord.)
+
+== s2-league3-game4_01 ==
+= stac_1384783950 =
+U: stac_1384783937      Tyrant Lord: i have spare wheat
+C: stac_1384783943      sparkles: sure
+Rel: Question-answer_pair (subord.)
+
+= stac_1384783972 =
+U: stac_1384783954      nelsen: I have wheat or ore
+C: stac_1384783962      sparkles: ore please
+Rel: Result (coord.)
+
+== s2-league4-game2_06 ==
+= stac_1399316562 =
+U: stac_1399316548      ztime: sorry
+C: stac_1399316561      ztime: too much wheat
+Rel: Explanation (subord.)
+
+== pilot14_06 ==
+= stac_1340277818 =
+U: stac_1338537815      mmatrtajova: ow come on,
+C: stac_1338547815      Ash: i did
+Rel: Contrast (coord.)
+
+U: stac_1338537815      mmatrtajova: ow come on,
+C: stac_1338557815      J: lol
+Rel: Comment (subord.)
+
+= stac_1341477819 =
+U: mabrusan_1386938929404 Ash: i want to build a settlement
+C: stac_1338637815      mmatrtajova: well then move on
+Rel: Result (coord.)
+
+U: mabrusan_1386938929404 Ash: i want to build a settlement
+C: stac_1338647815      Ash: j how did you resolve this problem
+Rel: Continuation (coord.)
+
+== pilot20_08 ==
+= stac_1339577863 =
+U: stac_1338467861      ariachiba: Anyone willing to give ore or clay for wheat?
+C: stac_1338477862      inca: can't
+Rel: Question-answer_pair (subord.)
+
+= stac_1341077864 =
+U: stac_1338537861      Kittles: wood for clay?
+C: stac_1338547862      ariachiba: no
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338577861      inca: I can do that too
+C: stac_1338607861      Kittles: no, i need clay or ore
+Rel: Correction (subord.)
+
+== s2-leagueM-game2_04 ==
+= stac_1412670296 =
+U: stac_1412670271      dmm: equal opportunities attack this time
+C: stac_1412670286      gotwood4sheep: well played
+Rel: Comment (subord.)
+
+U: stac_1412670280      gotwood4sheep: lol
+C: stac_1412670289      dmm: sorry guys ;)
+Rel: Comment (subord.)
+
+U: stac_1412670283      gotwood4sheep: equal theiving opps
+C: stac_1412670292      gotwood4sheep: thieving*
+Rel: Correction (subord.)
+
+= stac_1412670300 =
+U: stac_1412670309      inca: sorry,
+C: stac_1412670323      gotwood4sheep: kk I'll take my chances then...
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670313      CheshireCatGrin: nope.
+C: stac_1412670323      gotwood4sheep: kk I'll take my chances then...
+Rel: Acknowledgement (subord.)
+
+= stac_1412670383 =
+U: stac_1412670363      gotwood4sheep: ok anyone got clay?
+C: stac_1412670382      CheshireCatGrin: still no
+Rel: Question-answer_pair (subord.)
+
+= stac_1412670416 =
+U: stac_1412670389      gotwood4sheep: none,
+C: stac_1412670402      dmm: yeah didn't think so
+Rel: Acknowledgement (subord.)
+
+== s1-league1-game3_10 ==
+= stac_1368640634 =
+U: stac_1368640606      tomas.kostan: but mine is very expensive :)
+C: stac_1368640615      gotwood4sheep: clay made of gold
+Rel: Comment (subord.)
+
+== s1-league1-game5_01 ==
+= stac_1368694440 =
+U: stac_1368694361      ljaybrad123: i think you can reset
+C: stac_1368694365      ljaybrad123: brb
+Rel: Comment (subord.)
+
+U: stac_1368694386      gotwood4sheep: just opened 1.1
+C: stac_1368694393      ljaybrad123: awesome
+Rel: Comment (subord.)
+
+U: stac_1368694386      gotwood4sheep: just opened 1.1
+C: stac_1368694400      ljaybrad123: you too
+Rel: Comment (subord.)
+
+U: stac_1368694403      ljaybrad123: hopefully
+C: stac_1368694415      gotwood4sheep: absolutely :D
+Rel: Comment (subord.)
+
+U: stac_1368694409      gotwood4sheep: sorry we were 15mins late
+C: stac_1368694424      gotwood4sheep: played 3 last night for Markus's other project!
+Rel: Continuation (coord.)
+
+= stac_1368694462 =
+U: stac_1368694452      gotwood4sheep: deal
+C: stac_1368694458      william: np
+Rel: Acknowledgement (subord.)
+
+== s2-leagueM-game3_02 ==
+= stac_1412670473 =
+U: stac_1412670372      gotwood4sheep: or anyone else
+C: stac_1412670374      gotwood4sheep: anyone got a sheep to trade for a wheat?
+Rel: Elaboration (subord.)
+
+U: stac_1412670366      gotwood4sheep: dmm will swap you a wheat for a sheep?
+C: stac_1412670382      gotwood4sheep: dmm?
+Rel: Q-Elab (subord.)
+
+U: stac_1412670381      gotwood4sheep: LJ?
+C: stac_1412670385      gotwood4sheep: uh ohhh
+Rel: Q-Elab (subord.)
+
+U: stac_1412670382      gotwood4sheep: dmm?
+C: stac_1412670409      gotwood4sheep: uh ohh
+Rel: Q-Elab (subord.)
+
+U: stac_1412670405      gotwood4sheep: i'll load up gmail
+C: stac_1412670412      inca: hooray
+Rel: Result (coord.)
+
+U: stac_1412670405      gotwood4sheep: i'll load up gmail
+C: stac_1412670415      gotwood4sheep: hello again
+Rel: Result (coord.)
+
+U: stac_1412670425      gotwood4sheep: I was worried it may lock you out
+C: stac_1412670440      ljaybrad123: glad to see it now allows you back in
+Rel: Contrast (coord.)
+
+U: stac_1412670428      dmm: my internet just reset itself twice
+C: stac_1412670440      ljaybrad123: glad to see it now allows you back in
+Rel: Continuation (coord.)
+
+U: stac_1412670446      dmm: ah yes, i had been trying to say that i would've needed 2 wheat,
+C: stac_1412670454      inca: haha, you really want this wheat
+Rel: Comment (subord.)
+
+U: stac_1412670450      gotwood4sheep: so you now need no wheat,
+C: stac_1412670457      dmm: i won't be needing it
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670457      dmm: i won't be needing it
+C: stac_1412670466      gotwood4sheep: kk no worries
+Rel: Acknowledgement (subord.)
+
+= stac_1412670501 =
+U: stac_1412670491      ljaybrad123: illl have a clay for one
+C: stac_1412670497      gotwood4sheep: d'oh!
+Rel: Comment (subord.)
+
+= stac_1412670557 =
+U: stac_1412670544      inca: i can give clay or ore
+C: stac_1412670550      ljaybrad123: can i have clay please
+Rel: Question-answer_pair (subord.)
+
+== s2-league5-game0_01 ==
+= stac_1413794420 =
+U: stac_1413794379      Ghettoette: you have to press done when done
+C: stac_1413794385      catanstrophe: wait it skipped me?
+Rel: Comment (subord.)
+
+U: stac_1413794386      catanstrophe: I figured if it were my turn
+C: stac_1413794396      zorburt: i think it said catanstrophe rolled an 8
+Rel: Comment (subord.)
+
+U: stac_1413794400      catanstrophe: sorry
+C: stac_1413794409      raefbrisbin: no worries, all figuring it out
+Rel: Comment (subord.)
+
+U: stac_1413794403      raefbrisbin: the arrow points to the player as well
+C: stac_1413794415      catanstrophe: ahhh
+Rel: Acknowledgement (subord.)
+
+U: stac_1413794406      catanstrophe: anyone have brick?
+C: stac_1413794419      raefbrisbin: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1413794507 =
+U: stac_1413794447      catanstrophe: ok will trade wood
+C: stac_1413794454      catanstrophe: can you do 1 for 1?
+Rel: Q-Elab (subord.)
+
+U: stac_1413794472      catanstrophe: ok
+C: stac_1413794476      raefbrisbin: ya
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413794479      catanstrophe: ok
+C: stac_1413794487      zorburt: trade with bank i think
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413794487      zorburt: trade with bank i think
+C: stac_1413794500      catanstrophe: ok it worked
+Rel: Result (coord.)
+
+U: stac_1413794503      catanstrophe: do the trade with bank
+C: stac_1413794510      catanstrophe: goodthing we are doing this practice round
+Rel: Comment (subord.)
+
+== s2-league3-game5_02 ==
+= stac_1384784238 =
+U: stac_1384784227      nelsen: will anyone give we a wood for a clay?
+C: stac_1384784237      Agnes: none here
+Rel: Question-answer_pair (subord.)
+
+== s2-league1-game1_02 ==
+= stac_1384782668 =
+U: stac_1384782637      gotwood4sheep: will trade sheep or wheat
+C: stac_1384782643      ljaybrad123: nope
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782658      gotwood4sheep: the deal mechanism's a bit clunky
+C: stac_1384782664      ljaybrad123: its ok when you get used to it
+Rel: Comment (subord.)
+
+= stac_1384782707 =
+U: stac_1384782683      CheshireCatGrin: how do you buy development cards?
+C: stac_1384782692      ljaybrad123: at the bottom, acard
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782695      gotwood4sheep: click the buy button next to "card"
+C: stac_1384782710      CheshireCatGrin: Ah, I see!
+Rel: Acknowledgement (subord.)
+
+U: stac_1384782702      gotwood4sheep: you can only buy
+C: stac_1384782710      CheshireCatGrin: Ah, I see!
+Rel: Acknowledgement (subord.)
+
+= stac_1384782750 =
+U: stac_1384782715      ljaybrad123: anyone have clay?
+C: stac_1384782723      inca: not any more
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782753      ljaybrad123: I hate this button!
+C: stac_1384782759      gotwood4sheep: did you 'done' too soon, LJ?
+Rel: Clarification_question (subord.)
+
+== s1-league1-game2_05 ==
+= stac_1361234620 =
+U: stac_1359834617      william: clay?
+C: stac_1359854617      tomas.kostan: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1363634621 =
+U: stac_1359944617      william: no, 
+C: stac_1359954617      ljaybrad123: wood?
+Rel: Q-Elab (subord.)
+
+U: stac_1359924617      ljaybrad123: anyone have 1 wheat 1 wood for 2 sheep?
+C: stac_1360004617      ljaybrad123: anyone have one wheat?
+Rel: Q-Elab (subord.)
+
+== pilot04_05 ==
+= stac_1342077734 =
+U: stac_1338527732      skinnylinny: Oh right,
+C: stac_1338537732      skinnylinny: I traded after you said "do you still?"
+Rel: Elaboration (subord.)
+
+U: stac_1338517732      skinnylinny: what's nancy offering to trade?
+C: stac_1338547732      Nancy: im trying th trade with the bank
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338577732      Nancy: not sure how many u need to trade
+C: stac_1338587732      Chameleon: you need 4 of something dont you?
+Rel: Clarification_question (subord.)
+
+U: stac_1338577733      Nancy: unless either of you want some sheep?
+C: stac_1338597732      Chameleon: I do....
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338587732      Chameleon: you need 4 of something dont you?
+C: stac_1338607732      Nancy: Really 4?
+Rel: Clarification_question (subord.)
+
+U: stac_1338637733      Nancy: want can u give
+C: stac_1338657732      Chameleon: wheat?
+Rel: Clarification_question (subord.)
+
+U: stac_1338647732      Chameleon: (hence 3:1 and 2:1 on the colourde ports)
+C: stac_1338677732      skinnylinny: And to trade with the bank you need to give them 4 items for them to give you one
+Rel: Continuation (coord.)
+
+U: stac_1338647732      Chameleon: (hence 3:1 and 2:1 on the colourde ports)
+C: stac_1338717732      Nancy: thanks
+Rel: Acknowledgement (subord.)
+
+U: stac_1338667732      Nancy: brillant
+C: stac_1338737732      skinnylinny: Oh
+Rel: Acknowledgement (subord.)
+
+U: stac_1338687732      Chameleon: :)
+C: stac_1338737732      skinnylinny: Oh
+Rel: Acknowledgement (subord.)
+
+== s1-league1-game2_08 ==
+= stac_1363934619 =
+U: fbenamara_1389259963616 tomas.kostan: i am here till thursday
+C: stac_1359804618      ljaybrad123: ok, so we could do with playing all games before thursday
+Rel: Result (coord.)
+
+U: stac_1359804618      ljaybrad123: ok, so we could do with playing all games before thursday
+C: stac_1359854618      william: tuesday night works for me
+Rel: Elaboration (subord.)
+
+U: stac_1359884618      ljaybrad123: I cant do thursday....
+C: stac_1359894618      ljaybrad123: *tuesday
+Rel: Correction (subord.)
+
+U: stac_1359884619      ljaybrad123:  but maybe niko could?
+C: stac_1359914618      william: hmm. sure. we'll email him them
+Rel: Result (coord.)
+
+U: stac_1359944618      ljaybrad123: Thurs would be great 
+C: stac_1359974618      ljaybrad123: i could even play 2 on thurs
+Rel: Continuation (coord.)
+
+U: stac_1360004618      ljaybrad123: Does one of you want to send a group message
+C: stac_1360014618      william: tomas, do you want to write an email to everyone?
+Rel: Q-Elab (subord.)
+
+U: stac_1360034618      tomas.kostan: i will do it
+C: stac_1360054618      ljaybrad123: thankyou
+Rel: Comment (subord.)
+
+U: stac_1360084618      ljaybrad123: thanks for a great game guys
+C: stac_1360114618      tomas.kostan: thx see you later
+Rel: Comment (subord.)
+
+U: stac_1360124618      ljaybrad123: please CC markus in
+C: stac_1360144618      tomas.kostan: sure
+Rel: Acknowledgement (subord.)
+
+U: stac_1360134618      ljaybrad123: bye
+C: stac_1360154618      tomas.kostan: bb
+Rel: Comment (subord.)
+
+== s2-leagueM-game5_01 ==
+= stac_1413792544 =
+U: stac_1413792439      dmm: i just don't have an awful lot of time
+C: stac_1413792451      CheshireCatGrin: Indeed, you said you were going out later, didn't you?
+Rel: Q-Elab (subord.)
+
+U: stac_1413792442      gotwood4sheep: wassuup
+C: stac_1413792463      CheshireCatGrin: Yep, hi and good luck!
+Rel: Comment (subord.)
+
+U: stac_1413792454      gotwood4sheep: good luck all
+C: stac_1413792463      CheshireCatGrin: Yep, hi and good luck!
+Rel: Continuation (coord.)
+
+U: stac_1413792463      CheshireCatGrin: Yep, hi and good luck!
+C: stac_1413792487      gotwood4sheep: grats on the last game
+Rel: Comment (subord.)
+
+U: stac_1413792502      gotwood4sheep: how did you do it?
+C: stac_1413792508      CheshireCatGrin: I can't remember,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413792466      dmm: i'll be 5-10 minutes
+C: stac_1413792515      dmm: okay i'm ready!
+Rel: Narration (coord.)
+
+U: stac_1413792515      dmm: okay i'm ready!
+C: stac_1413792522      gotwood4sheep: gl all!
+Rel: Result (coord.)
+
+U: stac_1413792522      gotwood4sheep: gl all!
+C: stac_1413792531      CheshireCatGrin: Indeed, good luck to all
+Rel: Comment (subord.)
+
+== s1-league2-game1_05 ==
+= stac_1364827358 =
+U: stac_1364247357      IG: nope
+C: stac_1364277357      sabercat: okay...
+Rel: Acknowledgement (subord.)
+
+U: stac_1364257357      skinnylinny: Sorry
+C: stac_1364277357      sabercat: okay...
+Rel: Acknowledgement (subord.)
+
+= stac_1366427361 =
+U: stacutil_1402593816  skinnylinny: I have ore,
+C: stac_1364397357      sabercat: :D
+Rel: Comment (subord.)
+
+U: stac_1364347357      sabercat: do you have ore?
+C: stac_1364417357      skinnylinny: got wood for ore?
+Rel: Q-Elab (subord.)
+
+U: stac_1364367357      skinnylinny: I do
+C: stac_1364477357      sabercat: theres your wood!
+Rel: Narration (coord.)
+
+== s1-league1-game3_02 ==
+= stac_1368640559 =
+U: stac_1368640542      gotwood4sheep: clay, anyone?
+C: stac_1368640546      tomas.kostan: no sry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640552      william: i will give you 1 clay for 1 ore
+C: stac_1368640558      gotwood4sheep: have no ore, william, sorry
+Rel: Contrast (coord.)
+
+= stac_1368640572 =
+U: stac_1368640595      gotwood4sheep: i'll do that
+C: stac_1368640607      tomas.kostan: ok :D
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640622      gotwood4sheep: ljay, once you agree your prices,
+C: stac_1368640629      ljaybrad123: ahhh awesome
+Rel: Acknowledgement (subord.)
+
+U: stac_1368640604      gotwood4sheep: I'll give you a free sheep in my turn :)
+C: stac_1368640638      gotwood4sheep: dammit it won't let me trade for nothing
+Rel: Contrast (coord.)
+
+U: stac_1368640654      ljaybrad123: i have clay
+C: stac_1368640667      gotwood4sheep: 1 for 1?
+Rel: Q-Elab (subord.)
+
+U: stac_1368640657      gotwood4sheep: no i didn't ljay,
+C: stac_1368640670      ljaybrad123: ahhh ok, never mind
+Rel: Acknowledgement (subord.)
+
+U: stac_1368640667      gotwood4sheep: 1 for 1?
+C: stac_1368640673      ljaybrad123: sure
+Rel: Question-answer_pair (subord.)
+
+= stac_1368640708 =
+U: stac_1368640698      gotwood4sheep: 1 for 1?
+C: stac_1368640704      ljaybrad123: yep :)
+Rel: Question-answer_pair (subord.)
+
+== s2-leagueM-game5_04 ==
+= stac_1413792565 =
+U: stac_1413792423      gotwood4sheep: got a run of VP cards
+C: stac_1413792432      dmm: well done
+Rel: Result (coord.)
+
+U: stac_1413792423      gotwood4sheep: got a run of VP cards
+C: stac_1413792438      gotwood4sheep: lucky run of 5s at the start
+Rel: Continuation (coord.)
+
+U: stac_1413792438      gotwood4sheep: lucky run of 5s at the start
+C: stac_1413792447      dmm: 5s weren't so lucky for me :'(
+Rel: Contrast (coord.)
+
+U: stac_1413792438      gotwood4sheep: lucky run of 5s at the start
+C: stac_1413792450      gotwood4sheep: jammy really
+Rel: Elaboration (subord.)
+
+U: stac_1413792453      gotwood4sheep: so that game: no 10s
+C: stac_1413792465      gotwood4sheep: 17 rounds, 51 rolls
+Rel: Continuation (coord.)
+
+U: stac_1413792468      dmm: well, looks like i'll be seeing you all next season!
+C: stac_1413792474      gotwood4sheep: yep, afraid LJ gets relegated unless there's less demand
+Rel: Continuation (coord.)
+
+U: stac_1413792465      gotwood4sheep: 17 rounds, 51 rolls
+C: stac_1413792477      gotwood4sheep: it was a much more balanced season
+Rel: Result (coord.)
+
+U: stac_1413792485      CheshireCatGrin: Bye!
+C: stac_1413792491      dmm: bye!
+Rel: Comment (subord.)
+
+U: stac_1413792484      CheshireCatGrin: But must dash!
+C: stac_1413792494      dmm: i think i'll get going too
+Rel: Parallel (coord.)
+
+U: stac_1413792509      gotwood4sheep: since dmm got 3 and matt 5,
+C: stac_1413792513      gotwood4sheep: me on 34, you 25, matt 24, duncan 22
+Rel: Elaboration (subord.)
+
+U: stac_1413792519      gotwood4sheep: if you'd had one more game
+C: stac_1413792526      gotwood4sheep: ta :D
+Rel: Comment (subord.)
+
+U: stac_1413792523      gotwood4sheep: did you read the blog?
+C: stac_1413792529      gotwood4sheep: good blog, interesting
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413792541      gotwood4sheep: the longest road is easiest to compete
+C: stac_1413792547      gotwood4sheep: ore/wheat ftw
+Rel: Elaboration (subord.)
+
+U: stac_1413792557      gotwood4sheep: we should chat more soon!
+C: stac_1413792564      gotwood4sheep: indeed, you too!
+Rel: Acknowledgement (subord.)
+
+== s2-leagueM-game4_02 ==
+= stac_1413791864 =
+U: stac_1413791853      dmm: i can give a sheep or wood for a wheat.
+C: stac_1413791857      inca: sheep would be good
+Rel: Question-answer_pair (subord.)
+
+= stac_1413791875 =
+U: stac_1413791878      dmm: same request again...
+C: stac_1413791882      inca: still not got any clay,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413791882      inca: still not got any clay,
+C: stac_1413791890      dmm: thanks anyway
+Rel: Comment (subord.)
+
+= stac_1413791912 =
+U: stac_1413791894      inca: what were you offering again dmm?
+C: stac_1413791904      dmm: i could offer wood
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413791897      inca: i have clay now
+C: stac_1413791908      inca: 1 clay for 1 wood?
+Rel: Question-answer_pair (subord.)
+
+= stac_1413791929 =
+U: stac_1413791924      inca: 1 for 1
+C: stac_1413791928      CheshireCatGrin: cool
+Rel: Acknowledgement (subord.)
+
+= stac_1413791976 =
+U: stac_1413791952      CheshireCatGrin: Right,
+C: stac_1413791956      inca: OK,
+Rel: Acknowledgement (subord.)
+
+U: stac_1413791953      CheshireCatGrin: toodle pip
+C: stac_1413791972      dmm: bye!
+Rel: Comment (subord.)
+
+== s2-league4-game2_10 ==
+= stac_1399316505 =
+U: stac_1399316477      Shawnus: for?
+C: stac_1399316489      ztime: wood
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316489      ztime: wood
+C: stac_1399316498      Shawnus: not got any wood
+Rel: Question-answer_pair (subord.)
+
+= stac_1399316553 =
+U: stac_1399316512      somdechn: giving out wood for wheat...
+C: stac_1399316549      Shawnus: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1399316611 =
+U: stac_1399316585      Shawnus: yes
+C: stac_1399316600      ztime: ok
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316594      somdechn: We all want wheat man
+C: stac_1399316604      Shawnus: haha
+Rel: Comment (subord.)
+
+U: stac_1399316601      ztime: thanks..
+C: stac_1399316607      Shawnus: thanks
+Rel: Comment (subord.)
+
+U: stac_1399316591      ztime: it said you wanted clay...
+C: stac_1399316610      somdechn: That happens in the real game as well.
+Rel: Comment (subord.)
+
+== pilot20_04 ==
+= stac_1340177852 =
+U: stac_1338447851      ariachiba: You sould do one with each of us,
+C: stac_1338457851      ariachiba: *could
+Rel: Correction (subord.)
+
+U: stac_1338497851      ariachiba: I mean if she has lots of ore
+C: stac_1338497853      ariachiba: she could do two trades,
+Rel: Conditional (coord.)
+
+U: stac_1338497851      ariachiba: I mean if she has lots of ore
+C: stac_1338507851      Rainbow: ya
+Rel: Acknowledgement (subord.)
+
+= stac_1342677853 =
+U: stac_1338607851      inca: You get one for each settlement you build,
+C: stac_1338627851      Rainbow: how do i build again?
+Rel: Clarification_question (subord.)
+
+U: stac_1338677851      Rainbow: i need clay
+C: stac_1338697851      inca: Nope, sorry
+Rel: Question-answer_pair (subord.)
+
+== pilot21_02 ==
+= stac_1343077891 =
+U: stac_1338587886      Katherine: then i guess
+C: stac_1338597886      Amanda: where's that?
+Rel: Q-Elab (subord.)
+
+U: stac_1338627886      Josephine: On Katherine's screen?
+C: stac_1338657886      Amanda: no
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338647886      Amanda: i see the bubble
+C: stac_1338657886      Amanda: no
+Rel: Result (coord.)
+
+U: stac_1338647886      Amanda: i see the bubble
+C: stac_1338667886      Amanda: oh, okay. haha
+Rel: Correction (subord.)
+
+U: stac_1338587886      Katherine: then i guess
+C: stac_1338687886      Josephine: Can you try another trade?
+Rel: Q-Elab (subord.)
+
+U: stac_1338737886      Josephine: I meant a trade with Amanda...
+C: stac_1338767886      Katherine: i think the offer goes to everyone
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338757886      Amanda: are you offering sheep, katherine?
+C: stac_1338777886      Katherine: ya
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338807886      Josephine: I think
+C: stac_1338817886      Amanda: yeh it did
+Rel: Acknowledgement (subord.)
+
+U: stac_1338787887      Amanda: sorry, not interested
+C: stac_1338837886      Josephine: So no-one wants to trade?
+Rel: Result (coord.)
+
+== pilot03_11 ==
+= stac_1340114270 =
+U: stac_1338444268      Cardlinger: he sure is,
+C: stac_1338484268      Cardlinger: great minds !!
+Rel: Comment (subord.)
+
+= stac_1342714272 =
+U: stac_1338644268      Cardlinger: anyone want clay?
+C: stac_1338654268      Joel: no
+Rel: Question-answer_pair (subord.)
+
+= stac_1344414273 =
+U: stac_1338774268      Cardlinger: should we add time
+C: stacutil_1403100556  Cardlinger: 30secs left :/
+Rel: Explanation (subord.)
+
+U: stac_1338854268      jon: nice game though
+C: stac_1338874268      Joel: yeah
+Rel: Acknowledgement (subord.)
+
+== s1-league2-game3_05 ==
+= stac_1368693185 =
+U: stac_1368693138      skinnylinny: One clay for one wheat
+C: stac_1368693144      skinnylinny: Awesome,
+Rel: Acknowledgement (subord.)
+
+U: stac_1368693141      skinnylinny: Or for an ore
+C: stac_1368693151      sabercat: can you trae ore skinny?
+Rel: Result (coord.)
+
+U: stac_1368693160      amycharl: dont!
+C: stac_1368693169      sabercat: as if I could finish it!
+Rel: Comment (subord.)
+
+== s1-league2-game1_04 ==
+= stac_1364527358 =
+U: stac_1364277357      skinnylinny: Now I just need to roll elevens
+C: stac_1364387357      IG: Hey, so wanna trade that wood?
+Rel: Result (coord.)
+
+== s1-league1-game4_09 ==
+= stac_1368694136 =
+U: stac_1368694129      gotwood4sheep: afraid it'll be none then :)
+C: stac_1368694135      tomas.kostan: ok then :)
+Rel: Acknowledgement (subord.)
+
+= stac_1368694155 =
+U: stac_1368694142      ljaybrad123: anyone have sheep for ore?
+C: stac_1368694148      gotwood4sheep: nope, sorry
+Rel: Question-answer_pair (subord.)
+
+= stac_1368694181 =
+U: stac_1368694171      ljaybrad123: no
+C: stac_1368694180      gotwood4sheep: no problemo
+Rel: Acknowledgement (subord.)
+
+== pilot01_04 ==
+= stac_1340876558 =
+U: stacutil_1400287442  Tomm: ORE! :D
+C: stac_1338586552      Dave: well, that wasn't too bad
+Rel: Comment (subord.)
+
+= stac_1341876560 =
+U: stac_1338696552      Tomm: Not going to buy it back
+C: stac_1338716552      Dave: aw
+Rel: Acknowledgement (subord.)
+
+= stac_1344276561 =
+U: stac_1338746552      Tomm: Well that was upsetting.
+C: stac_1338856552      Tomm: My wheat!
+Rel: Elaboration (subord.)
+
+U: stac_1338896552      Dave: equally likely for all numbers?
+C: stac_1338916552      Tomm: Nah
+Rel: Correction (subord.)
+
+U: stac_1338926552      Tomm: You are rolling 2 dice...
+C: stac_1338936552      Dave: Yeah,
+Rel: Acknowledgement (subord.)
+
+U: stac_1338876552      Tomm: Anyone want anything for wood?
+C: stac_1338946552      Tomm: So no wood anyone?
+Rel: Q-Elab (subord.)
+
+U: stac_1338906552      rennoc1: dont have any, sorry
+C: stac_1338946553      Tomm: okay
+Rel: Acknowledgement (subord.)
+
+== s1-league1-game5_06 ==
+= stac_1368694414 =
+U: stac_1368694377      ljaybrad123: wood for clay anyone?
+C: stac_1368694383      gotwood4sheep: got 3 clay, sorry
+Rel: Question-answer_pair (subord.)
+
+== pilot20_01 ==
+= stac_1340977843 =
+U: stac_1338397842      inca: Press "sit down" though
+C: stac_1338417842      Rainbow: kittles
+Rel: Continuation (coord.)
+
+U: stac_1338397842      inca: Press "sit down" though
+C: stac_1338447842      inca: Press the "sit here" button in the lower right of the screen
+Rel: Elaboration (subord.)
+
+= stac_1345277846 =
+U: stac_1338777842      Rainbow: i dnt have wood
+C: stac_1338807842      inca: I have wood
+Rel: Contrast (coord.)
+
+U: stac_1338787842      Rainbow: i have clay
+C: stac_1338827842      Kittles: i can trade clay wood for clay
+Rel: Result (coord.)
+
+U: stac_1338897842      Kittles: please
+C: stac_1338907842      Rainbow: ok
+Rel: Acknowledgement (subord.)
+
+U: stac_1338717842      Rainbow: so anybody wana trade sumthng?
+C: stac_1339047842      Rainbow: what nw?
+Rel: Narration (coord.)
+
+== s2-leagueM-game3_07 ==
+= stac_1412670401 =
+U: stac_1412670378      dmm: it's your lucky day
+C: stac_1412670391      gotwood4sheep: lol
+Rel: Comment (subord.)
+
+= stac_1412670469 =
+U: stac_1412670420      ljaybrad123: yay more sheep
+C: stac_1412670426      gotwood4sheep: all?
+Rel: Clarification_question (subord.)
+
+U: stac_1412670429      ljaybrad123: yep
+C: stac_1412670435      gotwood4sheep: how much ore
+Rel: Q-Elab (subord.)
+
+U: stac_1412670456      dmm: i was hoping to build another road last time to protect it
+C: stac_1412670468      gotwood4sheep: you'll pop back up to 8 next turn
+Rel: Contrast (coord.)
+
+= stac_1412670552 =
+U: stac_1412670479      gotwood4sheep: gg well played"
+C: stac_1412670497      dmm: you had me worried when you took back the longest road!
+Rel: Comment (subord.)
+
+U: stac_1412670500      inca: this league's exciting
+C: stac_1412670509      gotwood4sheep: yup
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670479      gotwood4sheep: gg well played"
+C: stac_1412670518      dmm: good game everyone
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670485      ljaybrad123: nice game guys
+C: stac_1412670518      dmm: good game everyone
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670491      inca: very well played, commanding victory
+C: stac_1412670518      dmm: good game everyone
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670518      dmm: good game everyone
+C: stac_1412670524      gotwood4sheep: well played all :D
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670491      inca: very well played, commanding victory
+C: stac_1412670539      inca: cheers, enjoyed our game stogethers
+Rel: Continuation (coord.)
+
+U: stac_1412670521      dmm: now to go and eat :P
+C: stac_1412670539      inca: cheers, enjoyed our game stogethers
+Rel: Continuation (coord.)
+
+U: stac_1412670527      gotwood4sheep: see you next time, apart from you inca
+C: stac_1412670539      inca: cheers, enjoyed our game stogethers
+Rel: Continuation (coord.)
+
+U: stac_1412670521      dmm: now to go and eat :P
+C: stac_1412670542      gotwood4sheep: ok see you later :)
+Rel: Continuation (coord.)
+
+U: stac_1412670539      inca: cheers, enjoyed our game stogethers
+C: stac_1412670545      gotwood4sheep: yeah was good
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670542      gotwood4sheep: ok see you later :)
+C: stac_1412670548      inca: see you :)
+Rel: Continuation (coord.)
+
+U: stac_1412670521      dmm: now to go and eat :P
+C: stac_1412670551      gotwood4sheep: bye!
+Rel: Continuation (coord.)
+
+U: stac_1412670539      inca: cheers, enjoyed our game stogethers
+C: stac_1412670551      gotwood4sheep: bye!
+Rel: Continuation (coord.)
+
+== s2-league4-game1_02 ==
+= stac_1396964862 =
+U: stac_1396964865      somdechn: Clay or Sheep for wood.....
+C: stac_1396964880      ztime: sorry Somdech
+Rel: Question-answer_pair (subord.)
+
+U: stac_1396964876      ztime: just wondering if you had wood to offer..
+C: stac_1396964886      somdechn: other way around..
+Rel: Question-answer_pair (subord.)
+
+U: stac_1396964892      somdechn: I need wood bro...
+C: stac_1396964899      ztime: I can't help you bro...
+Rel: Question-answer_pair (subord.)
+
+= stac_1396964918 =
+U: stac_1396964910      WoodnSheep: no
+C: stac_1396964917      ztime: OK
+Rel: Acknowledgement (subord.)
+
+= stac_1396964942 =
+U: stac_1396964925      WoodnSheep: anyone want to give me a clay or ore?
+C: stac_1396964938      ztime: sorry
+Rel: Question-answer_pair (subord.)
+
+== pilot03_05 ==
+= stac_1340114285 =
+U: stac_1338354284      Cardlinger: yeah
+C: stac_1338364284      Euan: T'was a good first play.
+Rel: Comment (subord.)
+
+U: stac_1338374284      Euan: Anyhoo.
+C: stac_1338384284      Joel: havent had clay in awhile
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338424284      Cardlinger: no ore,
+C: stacutil_1403100499  Cardlinger: considering my burgeoning resources :D
+Rel: Contrast (coord.)
+
+U: stac_1338424284      Cardlinger: no ore,
+C: stac_1338474284      Euan: Ah well.
+Rel: Acknowledgement (subord.)
+
+= stac_1344014286 =
+U: stac_1338534284      Cardlinger: anyone want wheat or wood for sheep?
+C: stac_1338554284      jon: sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338604284      Cardlinger: is Euan being conspicuously silent
+C: stacutil_1403100502  Euan: I'm repeatedly being distracted by CSS >_>
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338534284      Cardlinger: anyone want wheat or wood for sheep?
+C: stac_1338644284      Cardlinger: wheat or wood for clay or sheep is my seekings
+Rel: Elaboration (subord.)
+
+U: stac_1338664284      Cardlinger: do you have clay or sheep
+C: stac_1338674284      Euan: I can give some sheep for some wood
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338704284      Euan: Sounds good
+C: stacutil_1403100503  Cardlinger: ty Euan :)
+Rel: Acknowledgement (subord.)
+
+U: stac_1338734284      Cardlinger: anyone wheat for clay?
+C: stac_1338754284      Joel: strangely i have no wheat
+Rel: Question-answer_pair (subord.)
+
+U: nasher_1377066269020 Cardlinger: sorry i have wheat,
+C: stac_1338794284      Euan: No worries.
+Rel: Acknowledgement (subord.)
+
+U: nasher_1377066269020 Cardlinger: sorry i have wheat,
+C: stac_1338794284      Euan: No worries.
+Rel: Comment (subord.)
+
+U: stac_1338804284      Cardlinger: will offer 3 wheat for 2 clay,
+C: stac_1338814284      jon: sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338804284      Cardlinger: will offer 3 wheat for 2 clay,
+C: stac_1338834284      Joel: sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338824285      Cardlinger: will stop trading
+C: stac_1338844284      Joel: yeah
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game3_05 ==
+= stac_1368708128 =
+U: stac_1368708117      Gaeilgeoir: anyone got wheat
+C: stac_1368708121      inca: not me, sorry
+Rel: Question-answer_pair (subord.)
+
+== s1-league2-game4_02 ==
+= stac_1377311528 =
+U: stac_1377311520      amycharl: so if i get one
+C: stac_1377311524      sabercat: :D
+Rel: Comment (subord.)
+
+== s1-league1-game3_05 ==
+= stac_1368640579 =
+U: stac_1368640559      gotwood4sheep: how about 2 sheep, tomas?
+C: stac_1368640566      tomas.kostan: what about 1 sheep and 1 wheat? :)
+Rel: Q-Elab (subord.)
+
+U: stac_1368640549      tomas.kostan: anyone willing to buy some wood?
+C: stac_1368640585      gotwood4sheep: anyone got clay?
+Rel: Continuation (coord.)
+
+U: stac_1368640575      gotwood4sheep: happy to make even
+C: stac_1368640588      tomas.kostan: i will remember that :)
+Rel: Comment (subord.)
+
+= stac_1368640713 =
+U: stac_1368640676      gotwood4sheep: laura, could i cadge a clay?
+C: stac_1368640682      gotwood4sheep: name a price :)
+Rel: Elaboration (subord.)
+
+== s1-league3-game1_05 ==
+= stac_1363332849 =
+U: stac_1360052844      inca: good game
+C: stac_1360072845      nareik15: great game
+Rel: Acknowledgement (subord.)
+
+U: stac_1360062844      yiin: gg
+C: stac_1360072845      nareik15: great game
+Rel: Acknowledgement (subord.)
+
+== pilot14_02 ==
+= stac_1340077806 =
+U: stac_1338497804      Ash: i dont know
+C: stac_1338507804      mmatrtajova: well how did you?
+Rel: Clarification_question (subord.)
+
+= stac_1341377809 =
+U: stac_1338647804      mmatrtajova: i have monopolized and used all the wood!
+C: stac_1338667804      Ash: oh nightmare
+Rel: Comment (subord.)
+
+== s2-league4-game2_04 ==
+= stac_1399316556 =
+U: stac_1399316537      somdechn: Need 2 wood for that though..
+C: stac_1399316546      Shawnus: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1399316597 =
+U: stac_1399316559      ztime: ahh 7 again.. sorry
+C: stac_1399316572      somdechn: Nooo...
+Rel: Comment (subord.)
+
+== s2-league4-game1_06 ==
+= stac_1396964818 =
+U: stac_1396964783      WoodnSheep: ha I would say heaps is an exageration
+C: stac_1396964792      somdechn: compare to us it's heaps..
+Rel: Comment (subord.)
+
+U: stac_1396964798      somdechn: yep...
+C: stac_1396964814      ztime: ta
+Rel: Comment (subord.)
+
+== s2-league4-game3_08 ==
+= stac_1399316658 =
+U: stac_1399316645      WoodnSheep: hmm so that development card could be a victory point
+C: stac_1399316651      ztime: hmm...
+Rel: Comment (subord.)
+
+= stac_1399316704 =
+U: stac_1399316697      ztime: hello wolfie?
+C: stac_1399316703      ztime: email from her..
+Rel: Continuation (coord.)
+
+== pilot20_03 ==
+= stac_1340377852 =
+U: stac_1338477848      Rainbow: i hav wood
+C: stac_1338497848      inca: Cool
+Rel: Acknowledgement (subord.)
+
+== s1-league1-game3_04 ==
+= stac_1369335211 =
+U: stac_1369335191      william: can't
+C: stac_1369335200      gotwood4sheep: didn't think so but always will ask :D
+Rel: Comment (subord.)
+
+U: stac_1369335209      ljaybrad123: i need wheat...
+C: stac_1369335214      gotwood4sheep: maybe next turn :)
+Rel: Question-answer_pair (subord.)
+
+U: stac_1369335223      gotwood4sheep: yup
+C: stac_1369335229      ljaybrad123: 2 sheep?
+Rel: Q-Elab (subord.)
+
+U: stac_1369335262      gotwood4sheep: tomas that's your sheep there, watch it well
+C: stac_1369335269      tomas.kostan: :)
+Rel: Acknowledgement (subord.)
+
+U: stac_1369335223      gotwood4sheep: yup
+C: stac_1369335300      william: does someone want my sheep?
+Rel: Continuation (coord.)
+
+U: stac_1369335291      ljaybrad123: york leeds
+C: stac_1369335306      gotwood4sheep: my brother is in leeds.
+Rel: Comment (subord.)
+
+U: stac_1369335303      ljaybrad123: im from lancashire...
+C: stac_1369335310      gotwood4sheep: ah ha lol! rival
+Rel: Comment (subord.)
+
+U: stac_1369335300      william: does someone want my sheep?
+C: stac_1369335313      ljaybrad123: yes just a little bit
+Rel: Question-answer_pair (subord.)
+
+== s1-league2-game3_02 ==
+= stac_1368693114 =
+U: stac_1368693109      skinnylinny: Got wood,
+C: stac_1368693113      skinnylinny: :P
+Rel: Comment (subord.)
+
+= stac_1368693225 =
+U: stac_1368693214      skinnylinny: I have four...
+C: stac_1368693218      amycharl: well ill give you 3 clay for 3 ore
+Rel: Result (coord.)
+
+== s1-league2-game2_07 ==
+= stac_1366561724 =
+U: stac_1364471723      amycharl: boo
+C: stac_1364501723      sabercat: thanks
+Rel: Comment (subord.)
+
+U: stacutil_1402566112  IG: well this kind of time works well for me,
+C: stac_1364601723      amycharl: yer, i can play tomorrow
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1402566112  IG: well this kind of time works well for me,
+C: stac_1364651723      sabercat: okay :) will email you
+Rel: Acknowledgement (subord.)
+
+== s1-league1-game3_07 ==
+= stac_1368640607 =
+U: stac_1368640576      gotwood4sheep: greedy :D
+C: stac_1368640591      william: it won't let me trade 4 wheat with the bank!
+Rel: Continuation (coord.)
+
+= stac_1368640633 =
+U: stac_1368640623      tomas.kostan: nope
+C: stac_1368640629      gotwood4sheep: work those looks, tomas
+Rel: Comment (subord.)
+
+== s1-league1-game1_05 ==
+= stac_1363534600 =
+U: stac_1359854596      gotwood4sheep: i need a clay
+C: stac_1359894596      tomas.kostan: ore for what then?
+Rel: Clarification_question (subord.)
+
+== s1-league3-game5_03 ==
+= stac_1365061726 =
+U: stac_1364481725      yiin: no
+C: stac_1364511725      Gaeilgeoir: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1367161731 =
+U: stac_1364641725      nareik15: anyone have wheat to trade 
+C: stac_1364661725      Gaeilgeoir: Do you have clay/wood?
+Rel: Question-answer_pair (subord.)
+
+== s2-league5-game1_02 ==
+= stac_1413793057 =
+U: stac_1413793036      raefbrisbin: sure
+C: stac_1413793045      zorburt: ok raef.
+Rel: Acknowledgement (subord.)
+
+U: stac_1413793042      zorburt: i don't have any brick.
+C: stac_1413793049      catanstrophe: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1413793145 =
+U: stac_1413793131      catanstrophe: anyone have  sheep?
+C: stac_1413793138      catanstrophe: i am looking for sheep or clay
+Rel: Alternation (coord.)
+
+U: stac_1413793131      catanstrophe: anyone have  sheep?
+C: stac_1413793141      zorburt: no
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game4_08 ==
+= stac_1368694198 =
+U: stac_1368694140      gotwood4sheep: what's on offer
+C: stac_1368694149      tomas.kostan: and niko what about a wheat?
+Rel: Q-Elab (subord.)
+
+U: stac_1368694146      tomas.kostan: lj i can give you your clay now :)
+C: stac_1368694152      ljaybrad123: no need now :p sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368694155      gotwood4sheep: i'm not sure what i need
+C: stac_1368694164      gotwood4sheep: let me know what you want and your offers
+Rel: Result (coord.)
+
+U: stac_1368694170      gotwood4sheep: 2 wheat and a sheep maybe
+C: stac_1368694176      tomas.kostan: ok i will take 2 wood for 2 wheat and a sheep :)
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368694179      gotwood4sheep: done :)
+C: stac_1368694188      gotwood4sheep: thx :D
+Rel: Comment (subord.)
+
+U: stac_1368694185      gotwood4sheep: gotta check the right colour box ;)
+C: stac_1368694194      gotwood4sheep: i'm watchingyou
+Rel: Result (coord.)
+
+== s2-league3-game5_05 ==
+= stac_1384784251 =
+U: stac_1384784226      sparkles: you're too good at this :D
+C: stac_1384784238      nelsen: thanks, good game indeed
+Rel: Comment (subord.)
+
+== pilot03_06 ==
+= stac_1339914283 =
+U: stacutil_1403100507  Euan: Amazingly, no o.O
+C: stac_1338454281      Joel: craziness
+Rel: Comment (subord.)
+
+= stac_1341614284 =
+U: stac_1338584281      Joel: no
+C: stac_1338634281      Euan: Oh well...
+Rel: Acknowledgement (subord.)
+
+= stac_1343014286 =
+U: stac_1338754281      jon: there's no clay
+C: stac_1338764281      Cardlinger: I have none
+Rel: Question-answer_pair (subord.)
+
+= stac_1344314287 =
+U: stac_1338804281      Joel: ok
+C: stac_1338824281      Joel: this is not a joke
+Rel: Comment (subord.)
+
+== s1-league1-game2_01 ==
+= stac_1363734617 =
+U: fbenamara_1385989701438 ljaybrad123: if hes not here
+C: stac_1359824616      ljaybrad123: brb
+Rel: Narration (coord.)
+
+U: fbenamara_1385989701438 ljaybrad123: if hes not here
+C: stac_1359854616      tomas.kostan: did cameron say he will be here?
+Rel: Elaboration (subord.)
+
+U: stac_1359934616      ljaybrad123: if he not here, 
+C: stac_1359944616      tomas.kostan: i agree
+Rel: Acknowledgement (subord.)
+
+U: stac_1360014616      tomas.kostan: 10 past. 
+C: stac_1360024616      william: we have started
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game2_07 ==
+= stac_1362134619 =
+U: stac_1359884617      ljaybrad123: am quite happy to give 2 for one, 
+C: stac_1359894617      tomas.kostan: oh.. so you want wheat not clay?
+Rel: Clarification_question (subord.)
+
+= stac_1363134622 =
+U: stac_1360024617      ljaybrad123: anyone have clay for sheep?
+C: stac_1360054617      tomas.kostan: no
+Rel: Question-answer_pair (subord.)
+
+== s1-league2-game1_10 ==
+= stac_1367927357 =
+U: stac_1364287355      sabercat: *ADDTIME*
+C: stac_1364327355      skinnylinny: Right
+Rel: Acknowledgement (subord.)
+
+U: stac_1364487355      IG: sure
+C: stac_1364587355      skinnylinny: Awesome, thanks to both of you
+Rel: Acknowledgement (subord.)
+
+== s1-league2-game1_01 ==
+= stac_1367927356 =
+U: stac_1364267355      IG: Maybe give till ten past 
+C: stacutil_1402592846  sabercat: that sounds okay
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1402592844  sabercat: (they said they would be here...
+C: stacutil_1402592846  sabercat: that sounds okay
+Rel: Contrast (coord.)
+
+U: stac_1364237355      sabercat: btw, are we playing without the others?
+C: stac_1364287355      skinnylinny: Sorry about that
+Rel: Comment (subord.)
+
+U: stacutil_1402591208  skinnylinny: I'm assuming IG is Ivan?
+C: stac_1364357355      IG: That's me
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1402592844  sabercat: (they said they would be here...
+C: stac_1364377355      sabercat: starting at 15?
+Rel: Clarification_question (subord.)
+
+U: nasher_1417524014614 skinnylinny: so, who're we waiting for?
+C: stac_1364397355      skinnylinny: Are we waiting for Amy?
+Rel: Clarification_question (subord.)
+
+== s2-leagueM-game2_01 ==
+= stac_1412670342 =
+U: stac_1412670259      dmm: I forget exactly who's joining,
+C: stac_1412670267      dmm: nobody else here yet?
+Rel: Narration (coord.)
+
+U: stac_1412670270      gotwood4sheep: Howdy folks
+C: stac_1412670288      dmm: hi!
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670301      inca: i'm innis,
+C: stac_1412670305      inca: good luck guys!
+Rel: Comment (subord.)
+
+U: stac_1412670291      gotwood4sheep: hey duncan
+C: stac_1412670312      dmm: good luck!
+Rel: Comment (subord.)
+
+U: stac_1412670308      CheshireCatGrin: hello all,
+C: stac_1412670315      gotwood4sheep: hello gl all!!
+Rel: Comment (subord.)
+
+U: stac_1412670308      CheshireCatGrin: hello all,
+C: stac_1412670318      dmm: can you remind me who you are cheshirecatgrin?
+Rel: Clarification_question (subord.)
+
+U: stac_1412670276      gotwood4sheep: Inca's got my seat :P
+C: stac_1412670324      gotwood4sheep: man I keep drawing the last seat
+Rel: Continuation (coord.)
+
+== pilot04_11 ==
+= stac_1339177752 =
+U: nasher_1385123047813 skinnylinny: Nancy: Give me wood for wheat?
+C: stac_1338437751      Nancy: sure
+Rel: Question-answer_pair (subord.)
+
+== s1-league3-game7_02 ==
+= stac_1377296046 =
+U: stac_1377296039      yiin: i got sheep and wood
+C: stac_1377296045      inca: wood?
+Rel: Q-Elab (subord.)
+
+U: stac_1377296042      inca: i have ore now
+C: stac_1377296049      yiin: thank you
+Rel: Comment (subord.)
+
+= stac_1377296098 =
+U: stac_1377296093      inca: nope,
+C: stac_1377296097      gaeilgeoir: it's cool
+Rel: Acknowledgement (subord.)
+
+= stac_1377296122 =
+U: stac_1377296102      gaeilgeoir: anyone got wheat?
+C: stac_1377296108      yiin: i got
+Rel: Question-answer_pair (subord.)
+
+U: stac_1377296105      gaeilgeoir: I have sheep, clay and ore
+C: stac_1377296109      yiin: but you have ore??
+Rel: Q-Elab (subord.)
+
+== s1-league2-game4_01 ==
+= stac_1377311418 =
+U: stac_1377311394      sabercat: I think some of them have played one game only
+C: stac_1377311404      amycharl: a couple have been layed without me
+Rel: Contrast (coord.)
+
+U: stac_1377311397      amycharl: surely not
+C: stac_1377311404      amycharl: a couple have been layed without me
+Rel: Elaboration (subord.)
+
+U: stac_1377311400      amycharl: iv played two now
+C: stac_1377311411      sabercat: okay
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311404      amycharl: a couple have been layed without me
+C: stac_1377311411      sabercat: okay
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311407      sabercat: oh come one, I will fall asleep!
+C: stac_1377311417      amycharl: hah
+Rel: Comment (subord.)
+
+= stac_1377311522 =
+U: stac_1377311517      sabercat: wanted seven,
+C: stac_1377311521      skinnylinny: :P
+Rel: Comment (subord.)
+
+= stac_1377311574 =
+U: stac_1377311564      amycharl: anyone got a sheep?
+C: stac_1377311570      sabercat: nope
+Rel: Question-answer_pair (subord.)
+
+== s1-league2-game1_06 ==
+= stac_1365327358 =
+U: stac_1364357357      IG: anyone got wheat?
+C: stac_1364377357      sabercat: nope
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1402596198  sabercat: but he joined league 1 minute ago as well
+C: stacutil_1402599456  skinnylinny: Yeah, I just heard that too
+Rel: Parallel (coord.)
+
+== s1-league1-game1_04 ==
+= stac_1360734598 =
+U: stac_1359764596      william: sry about this, 
+C: stac_1359804596      gotwood4sheep: wowzer
+Rel: Comment (subord.)
+
+= stac_1364534602 =
+U: stac_1360044596      gotwood4sheep: i'll take your first offer
+C: stac_1360104596      tomas.kostan: thx!
+Rel: Comment (subord.)
+
+U: stac_1360064596      gotwood4sheep: i have literally got wood for sheep
+C: stac_1360114596      gotwood4sheep: i will never tire of that
+Rel: Result (coord.)
+
+== s2-leagueM-game2_06 ==
+= stac_1412670325 =
+U: stac_1412670313      CheshireCatGrin: clay?
+C: stac_1412670317      gotwood4sheep: just so
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670303      inca: again nope,
+C: stac_1412670323      CheshireCatGrin: sad face.
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670307      dmm: nope
+C: stac_1412670323      CheshireCatGrin: sad face.
+Rel: Acknowledgement (subord.)
+
+= stac_1412670464 =
+U: stac_1412670328      gotwood4sheep: gg all
+C: stac_1412670343      inca: well played!
+Rel: Continuation (coord.)
+
+U: stac_1412670337      gotwood4sheep: how many +1 did you have inca?
+C: stac_1412670346      inca: 2, heh
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670334      CheshireCatGrin: well done :)
+C: stac_1412670349      gotwood4sheep: ty ty
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670343      inca: well played!
+C: stac_1412670349      gotwood4sheep: ty ty
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670346      inca: 2, heh
+C: stac_1412670352      gotwood4sheep: yeah thought so
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670364      inca: was the plan!
+C: stac_1412670368      gotwood4sheep: yup
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670380      dmm: when did we decide on for the next game?
+C: stac_1412670387      inca: yep saturday's looking promising
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670387      inca: yep saturday's looking promising
+C: stac_1412670404      gotwood4sheep: sound good :)
+Rel: Acknowledgement (subord.)
+
+U: stac_1412670400      gotwood4sheep: saturday evening good for me too,
+C: stac_1412670407      inca: see you then hopefully!
+Rel: Result (coord.)
+
+U: stac_1412670419      inca: haha, well played yourself
+C: stac_1412670431      gotwood4sheep: just had good trading ports and no 7s when it mattered
+Rel: Explanation (subord.)
+
+U: stac_1412670428      inca: i'll get you next time ;)
+C: stac_1412670434      gotwood4sheep: haha i hope so ;)
+Rel: Comment (subord.)
+
+U: stac_1412670437      gotwood4sheep: ok well, see you saturday
+C: stac_1412670444      gotwood4sheep: i'm off to not type anything >:(
+Rel: Result (coord.)
+
+U: stac_1412670450      inca: looking forward to it!
+C: stac_1412670456      gotwood4sheep: have fun reading the blog :D
+Rel: Continuation (coord.)
+
+== s2-league4-game3_07 ==
+= stac_1399316617 =
+U: stac_1399316592      WoodnSheep: well that was epically stupid on the part of me/ my computer/ my internet
+C: stac_1399316616      WoodnSheep: ahh, I'm aiming to not do it again, but if there is i'll try that next time
+Rel: Contrast (coord.)
+
+= stac_1399316754 =
+U: stac_1399316653      Shawnus: i remember playing this football by post game once...you sent tactics in and there was a chat sectio
+C: stac_1399316659      ztime: memories.. ahhh...
+Rel: Comment (subord.)
+
+U: stac_1399316669      Shawnus: if you type cash cash cash in the board gave you money
+C: stac_1399316675      ztime: haha
+Rel: Comment (subord.)
+
+U: stac_1399316662      ztime: anyone want wood?
+C: stac_1399316688      Shawnus: no
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316685      ztime: I'm after wheat
+C: stac_1399316719      Shawnus: do you have a sheep to trade?
+Rel: Q-Elab (subord.)
+
+== s1-league2-game2_03 ==
+= stac_1370161731 =
+U: stac_1364961722      amycharl: ill give you a couple
+C: stac_1364981722      dmm: i just need one
+Rel: Contrast (coord.)
+
+== pilot03_10 ==
+= stac_1343914275 =
+U: stac_1338734270      Cardlinger: anyone got wheat or sheep?
+C: stac_1338754270      Joel: nope
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338734270      Cardlinger: anyone got wheat or sheep?
+C: stac_1338774270      jon: no
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338764270      Cardlinger: would offer 1 wood for 1 sheep /
+C: stac_1338804270      Cardlinger: or 1 ore for 1 sheep/wheat?
+Rel: Alternation (coord.)
+
+== s2-league3-game5_03 ==
+= stac_1384784248 =
+U: stac_1384784241      sparkles: and you had 3 wood to begin
+C: stac_1384784247      Agnes: wow - you have a spreadsheet?!
+Rel: Clarification_question (subord.)
+
+U: stacutil_1405000370  nelsen: will anyone give me wood, wheat or sheep for clay or ore? :)
+C: stac_1384784266      sparkles: nope :)
+Rel: Question-answer_pair (subord.)
+
+== pilot03_12 ==
+= stac_1340614265 =
+U: stac_1338384264      Cardlinger: gg
+C: stacutil_1403100559  Euan: Nice playing :)
+Rel: Continuation (coord.)
+
+U: stac_1338424264      Euan: Good game
+C: stac_1338464264      Cardlinger: yeah
+Rel: Acknowledgement (subord.)
+
+U: stac_1338444264      Cardlinger: Hi markus
+C: stacutil_1403100562  Cardlinger: will do :D
+Rel: Continuation (coord.)
+
+U: stac_1338514264      Cardlinger: I'm happy
+C: stac_1338544264      Cardlinger: kk well I'll dash,
+Rel: Continuation (coord.)
+
+== s1-league1-game4_01 ==
+= stac_1369334526 =
+U: stac_1369334134      gotwood4sheep: Hey LJ!
+C: stac_1369334164      gotwood4sheep: waiting on tomas now and william about 8.15, right?
+Rel: Continuation (coord.)
+
+U: stac_1369334194      gotwood4sheep: william kept rolling 7s
+C: stac_1369334198      ljaybrad123: :(
+Rel: Comment (subord.)
+
+U: stac_1369334194      gotwood4sheep: william kept rolling 7s
+C: stac_1369334204      ljaybrad123: we had soooo many 7s last game
+Rel: Parallel (coord.)
+
+U: stac_1369334164      gotwood4sheep: waiting on tomas now and william about 8.15, right?
+C: stac_1369334216      gotwood4sheep: come on tom
+Rel: Continuation (coord.)
+
+U: stac_1369334252      gotwood4sheep: i guess,
+C: stac_1369334256      gotwood4sheep: don't want to deprive his fun and games :D
+Rel: Continuation (coord.)
+
+U: stac_1369334252      gotwood4sheep: i guess,
+C: stac_1369334259      ljaybrad123: he goes away tomorrow...
+Rel: Question-answer_pair (subord.)
+
+U: stac_1369334216      gotwood4sheep: come on tom
+C: stac_1369334268      gotwood4sheep: hmm no emails.
+Rel: Continuation (coord.)
+
+U: stac_1369334274      ljaybrad123: but woud need to be done by 8.15 ...
+C: stac_1369334278      ljaybrad123: could have played earlier
+Rel: Continuation (coord.)
+
+U: stac_1369334285      ljaybrad123: I fell at work yesterday
+C: stac_1369334294      gotwood4sheep: um...sorry to hear it...
+Rel: Comment (subord.)
+
+U: stac_1369334285      ljaybrad123: I fell at work yesterday
+C: stac_1369334300      gotwood4sheep:  what kind of fall?
+Rel: Elaboration (subord.)
+
+U: stac_1369334303      gotwood4sheep: you shouldn't lose pay
+C: stac_1369334307      ljaybrad123: erm... im technically self employed...
+Rel: Contrast (coord.)
+
+U: stac_1369334295      gotwood4sheep: but if you fell at work shouldn't they be paying,
+C: stac_1369334316      ljaybrad123: and they should be...
+Rel: Acknowledgement (subord.)
+
+U: stac_1369334300      gotwood4sheep:  what kind of fall?
+C: stac_1369334317      ljaybrad123: they made me wear slippy overshoes.
+Rel: Question-answer_pair (subord.)
+
+U: stac_1369334317      ljaybrad123: they made me wear slippy overshoes.
+C: stac_1369334323      gotwood4sheep: sounds like a liability case to be contested.
+Rel: Comment (subord.)
+
+U: stac_1369334327      gotwood4sheep: are you ok?
+C: stac_1369334331      gotwood4sheep: or is it possibly worse?
+Rel: Alternation (coord.)
+
+U: stac_1369334323      gotwood4sheep: sounds like a liability case to be contested.
+C: stac_1369334337      ljaybrad123: it does -
+Rel: Acknowledgement (subord.)
+
+U: stac_1369334303      gotwood4sheep: you shouldn't lose pay
+C: stac_1369334341      gotwood4sheep: there's always no win no fee people
+Rel: Contrast (coord.)
+
+U: stac_1369334285      ljaybrad123: I fell at work yesterday
+C: stac_1369334344      gotwood4sheep: did they file an accident report?
+Rel: Elaboration (subord.)
+
+U: stac_1369334327      gotwood4sheep: are you ok?
+C: stac_1369334347      ljaybrad123: erm bad bruising - muscle damge -
+Rel: Question-answer_pair (subord.)
+
+U: stac_1369334344      gotwood4sheep: did they file an accident report?
+C: stac_1369334353      gotwood4sheep: sorry, guess whose dad worked in insurance :P
+Rel: Comment (subord.)
+
+U: stac_1369334366      gotwood4sheep: I'd take some pictures
+C: stac_1369334368      gotwood4sheep: so you have something to work with
+Rel: Result (coord.)
+
+U: stac_1369334366      gotwood4sheep: I'd take some pictures
+C: stac_1369334375      ljaybrad123: I can't take pictures....
+Rel: Contrast (coord.)
+
+U: stac_1369334378      gotwood4sheep: and if you're self employed
+C: stac_1369334382      gotwood4sheep: the report and/or questions of liability are most important
+Rel: Continuation (coord.)
+
+U: stac_1369334366      gotwood4sheep: I'd take some pictures
+C: stac_1369334385      gotwood4sheep: maybe a trip to the doctors as well in that case
+Rel: Continuation (coord.)
+
+U: stac_1369334404      ljaybrad123: bad bruising
+C: stac_1369334411      gotwood4sheep: hope so :(
+Rel: Comment (subord.)
+
+U: stac_1369334397      gotwood4sheep: I'd send the workplace a message
+C: stac_1369334414      ljaybrad123: I told them i needed a report yesterday
+Rel: Comment (subord.)
+
+U: stac_1369334417      gotwood4sheep: good.  well, good luck.
+C: stac_1369334424      ljaybrad123: thanks
+Rel: Comment (subord.)
+
+U: stac_1369334420      gotwood4sheep: it sucks and it's stressful,
+C: stac_1369334427      gotwood4sheep: but it's one of those things you have to move on, sadly
+Rel: Contrast (coord.)
+
+U: stac_1369334436      ljaybrad123: yeah I just feel naff - and now cant work today or tomorrow at least
+C: stac_1369334445      ljaybrad123: I can't lift any of the kids atm
+Rel: Parallel (coord.)
+
+U: stac_1369334449      gotwood4sheep: I'd definitely cost up lost earnings
+C: stac_1369334453      ljaybrad123: yeah - it's just kinda like is it worth all the hassle for £70
+Rel: Contrast (coord.)
+
+U: stac_1369334449      gotwood4sheep: I'd definitely cost up lost earnings
+C: stac_1369334467      gotwood4sheep: settling works for all
+Rel: Explanation (subord.)
+
+U: stac_1369334476      gotwood4sheep: they'll care more
+C: stac_1369334484      ljaybrad123: yeah I suppose
+Rel: Acknowledgement (subord.)
+
+U: stac_1369334480      gotwood4sheep: if they really don't,
+C: stac_1369334484      ljaybrad123: yeah I suppose
+Rel: Acknowledgement (subord.)
+
+U: stac_1369334487      gotwood4sheep: I'd suggest a price,
+C: stac_1369334489      gotwood4sheep: small claims and see
+Rel: Elaboration (subord.)
+
+U: stac_1369334476      gotwood4sheep: they'll care more
+C: stac_1369334492      gotwood4sheep: sounds like there's a case to be heard
+Rel: Continuation (coord.)
+
+U: stac_1369334487      gotwood4sheep: I'd suggest a price,
+C: stac_1369334495      ljaybrad123: hmmm fair point
+Rel: Acknowledgement (subord.)
+
+U: stac_1369334268      gotwood4sheep: hmm no emails.
+C: stac_1369334498      gotwood4sheep: if he's not here in 7 mins
+Rel: Continuation (coord.)
+
+U: stac_1369334498      gotwood4sheep: if he's not here in 7 mins
+C: stac_1369334502      gotwood4sheep: sigh...
+Rel: Comment (subord.)
+
+U: stac_1369334511      gotwood4sheep: just emailed everyone to see-
+C: stac_1369334519      ljaybrad123: thanks
+Rel: Comment (subord.)
+
+U: stac_1369334512      gotwood4sheep: if Tomas has a smartphone
+C: stac_1369334522      gotwood4sheep: *twiddles thumbs*
+Rel: Background (subord.)
+
+== s1-league3-game6_03 ==
+= stac_1377311187 =
+U: stac_1377311175      Gaeilgeoir: I can spare ore or sheep?
+C: stac_1377311180      inca: trade for ore?
+Rel: Q-Elab (subord.)
+
+= stac_1377311199 =
+U: stac_1377311202      inca: haha, at the risk of being rude,
+C: stac_1377311209      Gaeilgeoir: I thought so.
+Rel: Acknowledgement (subord.)
+
+= stac_1377311266 =
+U: stac_1377311218      Gaeilgeoir: I was seriously worried I couldn't get that last point
+C: stac_1377311233      Gaeilgeoir: good game though
+Rel: Contrast (coord.)
+
+U: stac_1377311218      Gaeilgeoir: I was seriously worried I couldn't get that last point
+C: stac_1377311236      inca: haha, could tell
+Rel: Comment (subord.)
+
+U: stac_1377311233      Gaeilgeoir: good game though
+C: stac_1377311239      inca: yep it was
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311258      Gaeilgeoir: ciao.
+C: stac_1377311262      inca: heh cheers, and best of luck with whatever you do
+Rel: Continuation (coord.)
+
+== s1-league2-game1_09 ==
+= stac_1368527366 =
+U: stac_1364627358      sabercat: I dont have wood...
+C: stac_1364657358      IG: haha nevrermind then
+Rel: Acknowledgement (subord.)
+
+== s1-league2-game3_04 ==
+= stac_1368693107 =
+U: stac_1368693099      skinnylinny: Um, nope.
+C: stac_1368693106      sabercat: :D
+Rel: Comment (subord.)
+
+= stac_1368693163 =
+U: stac_1368693149      amycharl: well if you hadnt blocked me
+C: stac_1368693153      amycharl: :)
+Rel: Comment (subord.)
+
+U: stac_1368693156      sabercat: anyone got ore?
+C: stac_1368693162      skinnylinny: Nope
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game3_15 ==
+= stac_1368640574 =
+U: stac_1368640548      ljaybrad123: this is a long game guys....
+C: stac_1368640554      gotwood4sheep: yup
+Rel: Acknowledgement (subord.)
+
+U: stac_1368640551      gotwood4sheep: no clay here sorry
+C: stac_1368640563      tomas.kostan: no clay in here either
+Rel: Parallel (coord.)
+
+= stac_1368640617 =
+U: stac_1368640626      ljaybrad123: well done
+C: stac_1368640635      tomas.kostan: congrats :)
+Rel: Comment (subord.)
+
+U: stac_1368640648      gotwood4sheep: not rolling a 7
+C: stac_1368640652      ljaybrad123: enjoy the film
+Rel: Narration (coord.)
+
+U: stac_1368640655      gotwood4sheep: it's been on 30mins
+C: stac_1368640661      gotwood4sheep: lucky they were free tickets
+Rel: Comment (subord.)
+
+U: stac_1368640664      william: ^^ they'll let you in won't they
+C: stac_1368640673      gotwood4sheep: nah, I'll skip it. 
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640677      gotwood4sheep: I think we should ask for the reserve to swap in
+C: stac_1368640681      tomas.kostan: yeah i agree
+Rel: Acknowledgement (subord.)
+
+U: stac_1368640694      tomas.kostan: good game :)
+C: stac_1368640698      gotwood4sheep: well played lj
+Rel: Comment (subord.)
+
+== s1-league2-game1_12 ==
+= stac_1365727357 =
+U: stacutil_1402603505  sabercat: anyone has ore?
+C: stac_1364287355      IG: only for wood
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1402603506  sabercat: for sheep?
+C: stac_1364307355      sabercat: how about clay for sheep:
+Rel: Continuation (coord.)
+
+== s1-league3-game7_03 ==
+= stac_1377296044 =
+U: stac_1377296039      gaeilgeoir: no,
+C: stac_1377296043      yiin: same here
+Rel: Parallel (coord.)
+
+== s2-leagueM-game3_04 ==
+= stac_1412670423 =
+U: stac_1412670367      dmm: i'll give clay in return
+C: stac_1412670378      gotwood4sheep: think clay is in abundance this game
+Rel: Explanation (subord.)
+
+U: stac_1412670378      gotwood4sheep: think clay is in abundance this game
+C: stac_1412670384      ljaybrad123: and a lack of sheep
+Rel: Continuation (coord.)
+
+U: stac_1412670378      gotwood4sheep: think clay is in abundance this game
+C: stac_1412670384      ljaybrad123: and a lack of sheep
+Rel: Contrast (coord.)
+
+U: stac_1412670388      dmm: again i can offer clay
+C: stac_1412670410      gotwood4sheep: dmm is looking to shovel his bricks off his resource pile
+Rel: Explanation (subord.)
+
+= stac_1412670445 =
+U: stac_1412670430      ljaybrad123: anyone have wood for ore?
+C: stac_1412670444      gotwood4sheep: ore on its own's no good for me
+Rel: Question-answer_pair (subord.)
+
+= stac_1412670469 =
+U: stac_1412670458      ljaybrad123: no wheat
+C: stac_1412670468      dmm: jinx
+Rel: Explanation (subord.)
+
+== pilot01_12 ==
+= stac_1341976579 =
+U: stac_1338506577      Dave: I spent far too long at the start building pointless roads,
+C: stac_1338536577      Tomm: Yeah, that is a problem...
+Rel: Acknowledgement (subord.)
+
+U: stac_1338606577      Tomm: Anyway, was a pleasure,
+C: stac_1338616577      Dave: Yeah, it's a good game
+Rel: Acknowledgement (subord.)
+
+U: stac_1338636577      Tomm: I'll get you your questionaire back tomorrow
+C: stac_1338636579      Tomm: have to go myself
+Rel: Explanation (subord.)
+
+U: stac_1338656577      Tomm: If you were to email me the form,
+C: stac_1338676577      Tomm: Have a friend who works there
+Rel: Explanation (subord.)
+
+U: stac_1338726577      Dave: ok,
+C: stac_1338736577      Tomm: Thanks!
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game5_05 ==
+= stac_1366561727 =
+U: stac_1364611725      Gaeilgeoir: anyone have wheat  
+C: stac_1364641725      nareik15: i need wheat as well
+Rel: Parallel (coord.)
+
+U: stac_1364621725      yiin: i need wood 
+C: stac_1364651726      Gaeilgeoir: I've no wood
+Rel: Question-answer_pair (subord.)
+
+= stac_1367261728 =
+U: stac_1364691725      yiin: anyone got wood 
+C: stac_1364701725      nareik15: sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364691725      yiin: anyone got wood 
+C: stac_1364721725      yiin: no one??
+Rel: Q-Elab (subord.)
+
+= stac_1367961730 =
+U: stac_1364781726      Gaeilgeoir: anyone want sheep?
+C: stac_1364801727      nareik15: could trade wood though
+Rel: Question-answer_pair (subord.)
+
+= stac_1370361736 =
+U: stac_1364961725      yiin: i got wheat 
+C: stac_1364971725      Gaeilgeoir: yeah
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364941725      Gaeilgeoir: anyone have clay or wheat?
+C: stac_1364981725      nareik15: sorry
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game2_09 ==
+= stac_1399316529 =
+U: stac_1399316513      Shawnus: need wheat
+C: stac_1399316528      ztime: the bank always wins...
+Rel: Result (coord.)
+
+U: stac_1399316516      somdechn: So do I.
+C: stac_1399316528      ztime: the bank always wins...
+Rel: Result (coord.)
+
+U: stac_1399316519      ztime: so do i
+C: stac_1399316528      ztime: the bank always wins...
+Rel: Result (coord.)
+
+= stac_1399316570 =
+U: stac_1399316545      ztime: just seem to be stuck here...
+C: stac_1399316554      Shawnus: it's a long close game
+Rel: Comment (subord.)
+
+U: stac_1399316551      ztime: anyone want wood?
+C: stac_1399316557      Shawnus: nope
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316554      Shawnus: it's a long close game
+C: stac_1399316563      ztime: yer.... it's close..
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316557      Shawnus: nope
+C: stac_1399316566      ztime: ok..
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316560      somdechn: nop
+C: stac_1399316566      ztime: ok..
+Rel: Acknowledgement (subord.)
+
+= stac_1399316596 =
+U: stac_1399316582      somdechn: I can give wood for Wheat.
+C: stac_1399316588      somdechn: Clay would be better.
+Rel: Contrast (coord.)
+
+U: stac_1399316582      somdechn: I can give wood for Wheat.
+C: stac_1399316595      somdechn: Nooo.
+Rel: Question-answer_pair (subord.)
+
+== s1-league2-game1_13 ==
+= stac_1366527357 =
+U: stac_1364237356      sabercat: skinnylinny
+C: stac_1364257356      skinnylinny: sabercat: What are you offering?
+Rel: Q-Elab (subord.)
+
+U: stac_1364267356      IG: hey, I want wood as well
+C: stac_1364297356      skinnylinny: If anyone offers me one ore and one wheat they can have a wood
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364377356      sabercat: which one?
+C: stac_1364397356      IG: im trading with skinny next turn
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364407356      sabercat: skinny, give me clay for ore?
+C: stac_1364427356      skinnylinny: I have no clay
+Rel: Question-answer_pair (subord.)
+
+= stac_1369627359 =
+U: stac_1364617356      skinnylinny: I need an ore...
+C: stac_1364637356      IG: what are you offfering?
+Rel: Q-Elab (subord.)
+
+U: stac_1364627356      skinnylinny: Anyone got one for a sheep?
+C: stac_1364647356      IG: na
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364617356      skinnylinny: I need an ore...
+C: stac_1364667356      IG: haha deal
+Rel: Question-answer_pair (subord.)
+
+== pilot03_01 ==
+= stac_1341414296 =
+U: stac_1338394295      Joel: ok
+C: stac_1338404295      Euan: Right then.
+Rel: Acknowledgement (subord.)
+
+= stac_1344714300 =
+U: stac_1338714295      Joel: hey
+C: stacutil_1403100465  Cardlinger: nope :(
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338774295      Joel: I am willing to do wheat --> clay,
+C: stac_1338784295      Euan: And I alt tab back from the tutorial.
+Rel: Continuation (coord.)
+
+== s2-league1-game1_01 ==
+= stac_1384782706 =
+U: stac_1384782643      ljaybrad123: i have a new computer,
+C: stac_1384782647      gotwood4sheep: cool cool
+Rel: Acknowledgement (subord.)
+
+U: stac_1384782643      ljaybrad123: i have a new computer,
+C: stac_1384782656      inca: hey
+Rel: Continuation (coord.)
+
+U: stac_1384782650      gotwood4sheep: I'm on a work laptop ;)
+C: stac_1384782656      inca: hey
+Rel: Continuation (coord.)
+
+U: stac_1384782662      ljaybrad123: hi
+C: stac_1384782668      gotwood4sheep: all 4, great!
+Rel: Result (coord.)
+
+U: stac_1384782665      gotwood4sheep: halloo!
+C: stac_1384782677      CheshireCatGrin: Hi!
+Rel: Continuation (coord.)
+
+U: stac_1384782681      CheshireCatGrin: I'm new to the online league,
+C: stac_1384782685      gotwood4sheep: no worries!
+Rel: Acknowledgement (subord.)
+
+U: stac_1384782705      gotwood4sheep: we only had 3 player games in the last league
+C: stac_1384782712      inca: same in our league
+Rel: Parallel (coord.)
+
+U: stac_1384782700      ljaybrad123: playing with 4 people means not many options!
+C: stac_1384782715      inca: it's way more fun this way
+Rel: Comment (subord.)
+
+= stac_1384782740 =
+U: stac_1384782719      gotwood4sheep: anyone got clay they'd trade?
+C: stac_1384782726      inca: nope
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game1_02 ==
+= stac_1361634600 =
+U: stac_1359884596      william: no
+C: stac_1359914596      gotwood4sheep: ok then :D
+Rel: Acknowledgement (subord.)
+
+= stac_1367134607 =
+U: stac_1360414596      gotwood4sheep: ouch
+C: stac_1360454596      william: oops
+Rel: Comment (subord.)
+
+= stac_1367834608 =
+U: stac_1360514596      gotwood4sheep: i have a man on my ore pile...
+C: stac_1360534596      tomas.kostan: i see...
+Rel: Acknowledgement (subord.)
+
+== pilot02_05 ==
+= stac_1340577686 =
+U: stac_1338397685      Cat: i can offer ore for sheep or clay
+C: stac_1338417685      william: thomas, can you continue from where you left the game?
+Rel: Continuation (coord.)
+
+U: stac_1338397685      Cat: i can offer ore for sheep or clay
+C: stac_1338467685      Cat: anyone for ore or what?
+Rel: Continuation (coord.)
+
+U: stac_1338467685      Cat: anyone for ore or what?
+C: stac_1338547685      Thomas: no 
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338527685      Cat: I need sheep
+C: stac_1338557685      Cat: clay
+Rel: Correction (subord.)
+
+U: stac_1338467685      Cat: anyone for ore or what?
+C: stac_1338567685      Cat: then anyone wants a wood for an ore?
+Rel: Narration (coord.)
+
+U: stac_1338547685      Thomas: no 
+C: stac_1338567685      Cat: then anyone wants a wood for an ore?
+Rel: Result (coord.)
+
+== pilot20_07 ==
+== pilot04_02 ==
+== pilot04_04 ==
+= stac_1403102380 =
+U: stac_1338407730      Chameleon: Need wood/wheat,
+C: stac_1338477730      Nancy: sorry cant do that
+Rel: Result (coord.)
+
+= stac_1340477734 =
+U: stac_1338577730      Chameleon: oops,
+C: stac_1338617731      Chameleon: guilty
+Rel: Result (coord.)
+
+U: stac_1338607730      Nancy: hahaha
+C: stac_1338617731      Chameleon: guilty
+Rel: Acknowledgement (subord.)
+
+= stac_1341577736 =
+U: stac_1338657730      Nancy: dont even have either
+C: stac_1338687730      skinnylinny: ok
+Rel: Acknowledgement (subord.)
+
+== s2-leagueM-game2_02 ==
+= stac_1412670318 =
+U: stac_1412670308      gotwood4sheep: 5s for all
+C: stac_1412670317      dmm: no 5s for me :(
+Rel: Correction (subord.)
+
+= stac_1412670382 =
+U: stac_1412670340      gotwood4sheep: how many wood you after,
+C: stac_1412670344      CheshireCatGrin: i was thinking 1 for 1
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670348      gotwood4sheep: because i'm in a delicate trading position
+C: stac_1412670355      gotwood4sheep: so i'll need inducement...
+Rel: Result (coord.)
+
+U: stac_1412670365      gotwood4sheep: i could go 2:2 ore:wood
+C: stac_1412670378      gotwood4sheep: i hate 2:1 deals, seems grinchy
+Rel: Explanation (subord.)
+
+U: stac_1412670372      gotwood4sheep: that sounds reasonable to me
+C: stac_1412670378      gotwood4sheep: i hate 2:1 deals, seems grinchy
+Rel: Explanation (subord.)
+
+== pilot01_10 ==
+= stac_1340976572 =
+U: stac_1338476571      Tomm: eww. Fair point. Fresh clay if you please
+C: stac_1338526571      rennoc1: my bath has been demoted to a sink
+Rel: Result (coord.)
+
+U: stac_1338536571      Dave: sure
+C: stac_1338596571      Dave: thanks
+Rel: Continuation (coord.)
+
+= stac_1342576573 =
+U: stac_1338706571      Dave: but he can win the game
+C: stac_1338716571      Tomm: Aww. :(
+Rel: Comment (subord.)
+
+U: stac_1338686571      Dave: don't give tomm wheat
+C: stac_1338726571      rennoc1: can you give wheat to me, dave?
+Rel: Result (coord.)
+
+== s1-league1-game4_10 ==
+= stac_1368694102 =
+U: stac_1368694094      gotwood4sheep: I passed the dice,
+C: stac_1368694098      gotwood4sheep: now your turn
+Rel: Result (coord.)
+
+== s1-league1-game4_05 ==
+= stac_1368694102 =
+U: stac_1368694086      ljaybrad123: i have clay
+C: stac_1368694101      tomas.kostan: ok :)
+Rel: Acknowledgement (subord.)
+
+= stac_1368694143 =
+U: stac_1368694118      gotwood4sheep: I would need a sheep and a wood I'm afraid
+C: stac_1368694124      tomas.kostan: i can give you 2 wheat that will give a free resource :)
+Rel: Result (coord.)
+
+U: stac_1368694124      tomas.kostan: i can give you 2 wheat that will give a free resource :)
+C: stac_1368694136      gotwood4sheep: you drive a hard bargain
+Rel: Result (coord.)
+
+= stac_1368694159 =
+U: stac_1368694146      gotwood4sheep: anyone want to trade ore or sheep for these wheat?!
+C: stac_1368694152      tomas.kostan: no :D
+Rel: Question-answer_pair (subord.)
+
+== pilot01_07 ==
+= stac_1340976563 =
+U: stac_1338436562      Tomm: If I get more clay,
+C: stac_1338436564      Tomm: I can eat the sheep for now.
+Rel: Contrast (coord.)
+
+U: stac_1338456562      rennoc1: maybe
+C: stac_1338466562      Dave: clay or wood rennoc?
+Rel: Clarification_question (subord.)
+
+U: stac_1338496562      rennoc1: tomm, could I give you 3 sheep for a clay and an ore?
+C: stacutil_1400287449  Tomm: Really need to move that robber blocking your clay, eh? :/
+Rel: Comment (subord.)
+
+U: stac_1338536562      rennoc1: but if I gave you some sheep,
+C: stac_1338546562      Tomm: Well, as I say, don't have any ore at all
+Rel: Contrast (coord.)
+
+U: stac_1338586562      rennoc1: do you have any ores, dave?
+C: stac_1338606562      Dave: I don't, no
+Rel: Question-answer_pair (subord.)
+
+= stac_1342676565 =
+U: stac_1338726562      Dave: wwait
+C: stac_1338756562      Tomm: Oh, that's harsh.
+Rel: Comment (subord.)
+
+U: stac_1338786562      Dave: hey, I know where you can get some good wheat
+C: stac_1338826562      Tomm: where goes the robber?
+Rel: Clarification_question (subord.)
+
+== s2-league4-game1_05 ==
+= stac_1396964771 =
+U: stac_1396964761      WoodnSheep: I've only just noticed the puppy
+C: stac_1396964767      ztime: yer.. it just happened..
+Rel: Explanation (subord.)
+
+U: stac_1396964764      WoodnSheep: were they randomly assigned?
+C: stac_1396964770      ztime: no you can change it..
+Rel: Question-answer_pair (subord.)
+
+U: stac_1396964761      WoodnSheep: I've only just noticed the puppy
+C: stac_1396964774      somdechn: nice doggy
+Rel: Comment (subord.)
+
+= stac_1396964797 =
+U: stac_1396964780      somdechn: Nop
+C: stac_1396964787      ztime: you're holding a lot of cards there...
+Rel: Comment (subord.)
+
+U: stac_1396964787      ztime: you're holding a lot of cards there...
+C: stac_1396964793      ztime: no tinky pictures?
+Rel: Continuation (coord.)
+
+= stac_1396964867 =
+U: stac_1396964826      WoodnSheep: I'd like wheat?
+C: stac_1396964851      WoodnSheep: can I get a sheep?
+Rel: Alternation (coord.)
+
+== s1-league1-game3_14 ==
+= stac_1368640605 =
+U: stac_1368640548      ljaybrad123: anyone got ore or wood or clay?
+C: stac_1368640554      gotwood4sheep: none of those, sorry :(
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640545      gotwood4sheep: william, you are wheatylicious over there
+C: stac_1368640572      gotwood4sheep: y'all have a lot of resource.
+Rel: Comment (subord.)
+
+U: stac_1368640629      gotwood4sheep: is there a time limit on turns?
+C: stac_1368640635      ljaybrad123: apparently :p
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640638      gotwood4sheep: or did you hit done
+C: stac_1368640642      ljaybrad123: noope
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640623      ljaybrad123: it just stopped my go...
+C: stac_1368640648      gotwood4sheep: talk to Markus :D
+Rel: Result (coord.)
+
+U: stac_1368640642      ljaybrad123: noope
+C: stac_1368640654      ljaybrad123: oooh
+Rel: Continuation (coord.)
+
+== s1-league1-game1_06 ==
+= stac_1364834603 =
+U: stac_1360064596      gotwood4sheep: i have an ore
+C: stac_1360094596      tomas.kostan: sheep or wheat?
+Rel: Question-answer_pair (subord.)
+
+U: stac_1360104596      gotwood4sheep: nah, sorry, again it's clay on my mind
+C: stac_1360124596      tomas.kostan: hmmm...
+Rel: Comment (subord.)
+
+U: stac_1360144596      gotwood4sheep: i have but the one resource
+C: stac_1360164596      tomas.kostan: i see now :D
+Rel: Comment (subord.)
+
+U: stac_1360184596      gotwood4sheep: go on then
+C: stac_1360344596      tomas.kostan: thank you :)
+Rel: Comment (subord.)
+
+= stac_1366434607 =
+U: stac_1360374596      gotwood4sheep: i need wood
+C: stac_1360394596      tomas.kostan: but i do not need wheat :)
+Rel: Contrast (coord.)
+
+== pilot01_09 ==
+= stac_1343376571 =
+U: stac_1338526568      Dave: ooh, wood
+C: stac_1338546568      rennoc1: ok im back
+Rel: Continuation (coord.)
+
+U: stac_1338536568      Dave: trade?
+C: nasher_1376546297634 Tomm: Anyway, what will you offer for wood?
+Rel: Q-Elab (subord.)
+
+U: stac_1338536568      Dave: trade?
+C: stac_1338636568      rennoc1: anone have sheep
+Rel: Q-Elab (subord.)
+
+U: stacutil_1400287451  Dave: wheat?:D
+C: stac_1338646568      Tomm: Pfft, your pots are of no use.
+Rel: Explanation (subord.)
+
+U: stac_1338636568      rennoc1: anone have sheep
+C: stac_1338656568      Tomm: Sadly still no sheep :(
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338646568      Tomm: Pfft, your pots are of no use.
+C: stac_1338666568      Dave: wheat then?
+Rel: Q-Elab (subord.)
+
+U: stac_1338596568      Tomm: Snigger.
+C: stac_1338706568      Tomm: Still snigger.
+Rel: Parallel (coord.)
+
+U: stac_1338776568      rennoc1: i would give you 2 clay?
+C: stac_1338826568      Tomm: Rennoc, full of clay I'm afraid.
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338836568      Tomm: although I could offer you ore, Rennoc?
+C: stac_1338866568      rennoc1: well... I've got some really good quality clay.
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game2_05 ==
+= stac_1399316506 =
+U: stac_1399316473      Shawnus: have a clay now, anyone have a wood?
+C: stac_1399316482      ztime: 1 for 1
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316488      somdechn: Too late I guess
+C: stac_1399316498      ztime: need that new laptop
+Rel: Result (coord.)
+
+= stac_1399316519 =
+U: stac_1399316522      ztime: it's random
+C: stac_1399316531      ztime: weird...
+Rel: Result (coord.)
+
+U: stac_1399316528      somdechn: Wood for Ore... anyone?
+C: stac_1399316534      ztime: sorry
+Rel: Question-answer_pair (subord.)
+
+= stac_1399316592 =
+U: stac_1399316552      ztime: 7!!!!
+C: stac_1399316561      Shawnus: hahaha
+Rel: Comment (subord.)
+
+U: stac_1399316576      somdechn: I can give you wood.
+C: stac_1399316582      ztime: OK.. cool.. for 1 wheat?
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316576      somdechn: I can give you wood.
+C: stac_1399316582      ztime: OK.. cool.. for 1 wheat?
+Rel: Q-Elab (subord.)
+
+U: stac_1399316585      somdechn: and an ore.. :)
+C: stac_1399316591      ztime: thanks..
+Rel: Comment (subord.)
+
+= stac_1399316639 =
+U: stac_1399316613      somdechn: Do you want sheep??
+C: stac_1399316626      Shawnus: i could make that trade next turn...
+Rel: Result (coord.)
+
+== s1-league1-game3_08 ==
+= stac_1368640568 =
+U: stac_1368640543      william: can i have someone's ore?
+C: stac_1368640561      tomas.kostan: sry no ore in here either
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640543      william: can i have someone's ore?
+C: stac_1368640561      tomas.kostan: sry no ore in here either
+Rel: Question-answer_pair (subord.)
+
+= stac_1368640654 =
+U: stac_1368640622      gotwood4sheep: but I need to be at the cameo by 9.20
+C: stac_1368640628      gotwood4sheep: darn competitions!
+Rel: Comment (subord.)
+
+U: stac_1368640631      tomas.kostan: i don't think this will end by then
+C: stac_1368640641      gotwood4sheep: we may have to call it a practice run
+Rel: Result (coord.)
+
+U: stac_1368640637      william: well. if lj can't fix her current problem,
+C: stac_1368640641      gotwood4sheep: we may have to call it a practice run
+Rel: Result (coord.)
+
+U: stac_1368640637      william: well. if lj can't fix her current problem,
+C: stac_1368640644      tomas.kostan: then we will have to replay the game?
+Rel: Result (coord.)
+
+U: stac_1368640597      gotwood4sheep: your roll, laura!
+C: stac_1368640653      ljaybrad123: sorry
+Rel: Comment (subord.)
+
+== pilot02_06 ==
+= stac_1343377695 =
+U: stac_1338617689      Cat: so if it had been 7 
+C: stac_1338627688      Cat: and can i do other things depending on the numbers?
+Rel: Continuation (coord.)
+
+U: stac_1338617689      Cat: so if it had been 7 
+C: stac_1338637688      william: yup
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338687689      Cat: so i don't need to play special actions
+C: nasher_1398873420898 william: no,
+Rel: Acknowledgement (subord.)
+
+U: stac_1338697688      Cat: anyone would like to receive a wood for an ore?
+C: stac_1338717688      william: no
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338797688      Cat: anyone wants wood?
+C: stac_1338837688      william: hmm, no sorry
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338857688      william: i will only take two wood, 
+C: stac_1338867688      Cat: no 
+Rel: Question-answer_pair (subord.)
+
+== s1-league3-game1_01 ==
+= stac_1362232844 =
+U: stac_1359842843      inca: if she appears
+C: stac_1359852843      yiin: yah sure
+Rel: Acknowledgement (subord.)
+
+== s2-leagueM-game3_05 ==
+= stac_1412670464 =
+U: stac_1412670457      gotwood4sheep: only to his settlement
+C: stac_1412670463      ljaybrad123: these rules are different to the real rules
+Rel: Contrast (coord.)
+
+U: stac_1412670448      ljaybrad123: i still keep the road right?
+C: stac_1412670467      gotwood4sheep: i think you can keep building on it but it's not longest
+Rel: Question-answer_pair (subord.)
+
+= stac_1412670538 =
+U: stac_1412670533      dmm: no wheat,
+C: stac_1412670537      dmm: sorry :/
+Rel: Comment (subord.)
+
+== s1-league1-game4_06 ==
+= stac_1368694142 =
+U: stac_1368694108      gotwood4sheep: tomaaaaasss
+C: stac_1368694114      tomas.kostan: yes? :)
+Rel: Q-Elab (subord.)
+
+U: stac_1368694111      gotwood4sheep: I'd love a sheep...
+C: stac_1368694117      tomas.kostan: only for a clay
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368694120      gotwood4sheep: i need my clay
+C: stac_1368694129      tomas.kostan: thought so
+Rel: Comment (subord.)
+
+U: stac_1368694123      gotwood4sheep: an ore?
+C: stac_1368694132      tomas.kostan: an ore + wheat?
+Rel: Q-Elab (subord.)
+
+U: stac_1368694135      gotwood4sheep: deal :)
+C: stac_1368694141      tomas.kostan: thx
+Rel: Comment (subord.)
+
+= stac_1368694212 =
+U: stac_1368694183      gotwood4sheep: 1 sheep is cheaper
+C: stac_1368694187      tomas.kostan: need my sheep sry
+Rel: Contrast (coord.)
+
+U: stac_1368694183      gotwood4sheep: 1 sheep is cheaper
+C: stac_1368694193      gotwood4sheep: I appreciate the economics :D
+Rel: Elaboration (subord.)
+
+U: stac_1368694180      tomas.kostan: great!
+C: stac_1368694196      tomas.kostan: lj can you offer a wheat for a wood?
+Rel: Narration (coord.)
+
+U: stac_1368694199      ljaybrad123: i only have food
+C: stac_1368694208      gotwood4sheep: mmm food.
+Rel: Comment (subord.)
+
+== pilot21_04 ==
+= stac_1341977897 =
+U: stac_1338657891      Amanda: sheep for clay?
+C: stac_1338687892      Katherine: i got 1 sheep
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338627891      Katherine: wheat for clay?
+C: stac_1338697891      Josephine: Have no clay.
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game3_09 ==
+= stac_1368640590 =
+U: stac_1368640550      ljaybrad123: interet died
+C: stac_1368640554      gotwood4sheep: do you lose the chat log?
+Rel: Clarification_question (subord.)
+
+U: stac_1368640564      gotwood4sheep: I can offer about 10mins more,
+C: stac_1368640568      william: yup, just hurry everyone...
+Rel: Acknowledgement (subord.)
+
+U: stac_1368640568      william: yup, just hurry everyone...
+C: stac_1368640574      ljaybrad123: ill try
+Rel: Acknowledgement (subord.)
+
+U: stac_1368640571      ljaybrad123: anyone have wheat or clay for sheep?
+C: stac_1368640577      tomas.kostan: no
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game4_04 ==
+= stac_1368694128 =
+U: stac_1368694102      ljaybrad123: for now.
+C: stac_1368694109      tomas.kostan: and thank you lj
+Rel: Comment (subord.)
+
+U: stac_1368694112      gotwood4sheep: the new interface is prettier
+C: stac_1368694118      ljaybrad123: new interface?
+Rel: Clarification_question (subord.)
+
+U: stac_1368694115      gotwood4sheep: has anyone done markus's extra project?
+C: stac_1368694121      ljaybrad123: not yet
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368694112      gotwood4sheep: the new interface is prettier
+C: stac_1368694127      gotwood4sheep: it's build 1.1.13, has a few extra features
+Rel: Comment (subord.)
+
+U: stac_1368694118      ljaybrad123: new interface?
+C: stac_1368694127      gotwood4sheep: it's build 1.1.13, has a few extra features
+Rel: Elaboration (subord.)
+
+== s1-league1-game5_07 ==
+= stac_1368694470 =
+U: stac_1368694421      gotwood4sheep: indeed, if we're counting that
+C: stac_1368694427      ljaybrad123: I think the plan was to just count 3 player...
+Rel: Correction (subord.)
+
+U: stac_1368694433      gotwood4sheep: we'll have to get markus to adjudicate
+C: stac_1368694445      gotwood4sheep: we'll ask markus, he has all the data
+Rel: Continuation (coord.)
+
+== pilot14_08 ==
+= stac_1339577822 =
+U: stac_1338427822      mmatrtajova: but you have to have a road to build it
+C: stac_1338467821      mmatrtajova: so buy road first
+Rel: Result (coord.)
+
+U: stac_1338427821      mmatrtajova: you can,
+C: stac_1338477821      Ash: ah i see
+Rel: Acknowledgement (subord.)
+
+= stac_1341277826 =
+U: stac_1338597821      J: i have enough to build a settlement too now...
+C: stac_1338607821      mmatrtajova: because you have no good roads!
+Rel: Explanation (subord.)
+
+U: stac_1338607821      mmatrtajova: because you have no good roads!
+C: stac_1338657821      J: thanks guys
+Rel: Acknowledgement (subord.)
+
+== s1-league2-game1_08 ==
+= stac_1367427366 =
+U: stac_1364487358      skinnylinny: Heh, need an ore
+C: stac_1364537358      sabercat: :D
+Rel: Comment (subord.)
+
+U: stac_1364487358      skinnylinny: Heh, need an ore
+C: stac_1364607358      sabercat: have ore...
+Rel: Contrast (coord.)
+
+U: stacutil_1402597591  IG: will do on my turn
+C: stac_1364657358      skinnylinny: Please
+Rel: Acknowledgement (subord.)
+
+U: stacutil_1402599240  None: give me the wood
+C: stac_1364677358      skinnylinny: :D
+Rel: Comment (subord.)
+
+U: stacutil_1402599240  None: give me the wood
+C: stac_1364687358      IG: ugh
+Rel: Comment (subord.)
+
+U: stacutil_1402599240  None: give me the wood
+C: stac_1364707358      skinnylinny: OK
+Rel: Acknowledgement (subord.)
+
+U: stac_1364617358      skinnylinny: Was about to offer IG a wood for an ore
+C: stac_1364717358      IG: two ores for a wood from my end...
+Rel: Correction (subord.)
+
+U: stacutil_1402599240  None: give me the wood
+C: stac_1364737358      skinnylinny: How about an ore and a sheep for a wood?
+Rel: Q-Elab (subord.)
+
+== pilot04_01 ==
+= stac_1340277720 =
+U: stac_1338417719      Chameleon: Hi Nancy,
+C: stac_1338427719      Nancy: Hi Chameleon
+Rel: Acknowledgement (subord.)
+
+== s1-league2-game2_01 ==
+= stac_1368561722 =
+U: stac_1364511721      amycharl: i made it
+C: stac_1364531721      amycharl: who has said they can play?
+Rel: Clarification_question (subord.)
+
+U: stac_1364561721      amycharl: at 9 tho, not half 9
+C: stac_1364581721      sabercat: I guess...
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364681721      amycharl: look 4 people, 
+C: stac_1364691721      dmm: :D
+Rel: Comment (subord.)
+
+== s2-league1-game1_05 ==
+= stac_1384782658 =
+U: stac_1384782644      gotwood4sheep: anyone else?
+C: stac_1384782654      inca: need my other one
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782647      CheshireCatGrin: not me
+C: stac_1384782657      gotwood4sheep: kk
+Rel: Acknowledgement (subord.)
+
+= stac_1384782675 =
+U: stac_1384782661      gotwood4sheep: anyone got clay?
+C: stac_1384782668      inca: not any more
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782746 =
+U: nasher_1417516633978 ljaybrad123:  anyone have clay or sheep?
+C: stac_1384782727      inca: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782791 =
+U: stac_1384782749      CheshireCatGrin: anyone have clay?
+C: stac_1384782762      inca: none
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782755      inca: haha do you need more?
+C: stac_1384782762      inca: none
+Rel: Contrast (coord.)
+
+U: stac_1384782755      inca: haha do you need more?
+C: stac_1384782765      gotwood4sheep: ironic given the start of the game :)
+Rel: Comment (subord.)
+
+== s1-league1-game4_11 ==
+= stac_1368694087 =
+U: stac_1368694077      gotwood4sheep: 7!
+C: stac_1368694083      ljaybrad123: again :p
+Rel: Comment (subord.)
+
+U: stac_1368694077      gotwood4sheep: 7!
+C: stac_1368694086      tomas.kostan: :D
+Rel: Comment (subord.)
+
+= stac_1368694110 =
+U: stac_1368694094      gotwood4sheep: *ADDTIME*
+C: stac_1368694103      ljaybrad123: 67 more minutes :p
+Rel: Result (coord.)
+
+= stac_1368694218 =
+U: stac_1368694142      tomas.kostan: thank you. good game
+C: stac_1368694157      gotwood4sheep: well played tomas :D
+Rel: Comment (subord.)
+
+U: stac_1368694160      ljaybrad123: can we start the next at half oast?
+C: stac_1368694175      gotwood4sheep: I'm happy to wait 7', yes
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368694175      gotwood4sheep: I'm happy to wait 7', yes
+C: stac_1368694181      ljaybrad123: awesome
+Rel: Acknowledgement (subord.)
+
+U: stac_1368694166      ljaybrad123: i need a brew
+C: stac_1368694187      ljaybrad123: back in 5
+Rel: Result (coord.)
+
+U: stac_1368694175      gotwood4sheep: I'm happy to wait 7', yes
+C: stac_1368694187      ljaybrad123: back in 5
+Rel: Result (coord.)
+
+U: stac_1368694184      gotwood4sheep: table service :)
+C: stac_1368694193      ljaybrad123: my flatmate is too laxy
+Rel: Contrast (coord.)
+
+U: stac_1368694193      ljaybrad123: my flatmate is too laxy
+C: stac_1368694205      ljaybrad123: I have a lazy bf/flatmate :p
+Rel: Elaboration (subord.)
+
+U: stac_1368694211      ljaybrad123: we need to start a new game
+C: stac_1368694217      gotwood4sheep: ok :)
+Rel: Acknowledgement (subord.)
+
+== pilot02_02 ==
+= stac_1340177676 =
+U: stac_1338397675      william: first we chat about it
+C: stac_1338437675      Cat: okay, 
+Rel: Acknowledgement (subord.)
+
+U: stac_1338487675      Thomas: which do you want?
+C: stac_1338507675      william: already traded, tom
+Rel: Correction (subord.)
+
+U: stac_1338497675      william: yup i saw it
+C: stac_1338527675      Cat: thanks
+Rel: Acknowledgement (subord.)
+
+= stac_1341277678 =
+U: stac_1338627675      william: no, you need a settlement
+C: stac_1338657675      Cat: okay
+Rel: Acknowledgement (subord.)
+
+== pilot01_11 ==
+= stac_1342276575 =
+U: stac_1338396574      Dave: anyone got wood or sheep to trade?
+C: nasher_1376567696186 rennoc1: so before I do does anyone want any of my resources
+Rel: Q-Elab (subord.)
+
+U: stac_1338416574      Dave: you have to go?
+C: stac_1338436575      rennoc1: yes.
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338446575      Dave: We can always end it when we want anyway
+C: stac_1338466574      rennoc1: or that.
+Rel: Alternation (coord.)
+
+U: stac_1338556574      Dave: would have offered it otherwise
+C: stac_1338596574      Dave: rennoc, you there?
+Rel: Clarification_question (subord.)
+
+== pilot20_06 ==
+= stac_1339777857 =
+U: stac_1338397856      Rainbow: i need clay ore or wheat
+C: stac_1338507857      ariachiba: no.
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338467856      Rainbow: no1 cn giv clay ryt?
+C: stac_1338507857      ariachiba: no.
+Rel: Question-answer_pair (subord.)
+
+= stac_1341777859 =
+U: stac_1338567856      ariachiba: I don't suppose
+C: stac_1338577856      inca: No wood, sorry
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game1_07 ==
+= stac_1396964826 =
+U: stac_1396964778      ztime: OK
+C: stac_1396964787      somdechn: Silly ztime...
+Rel: Comment (subord.)
+
+== s2-league1-game1_06 ==
+= stac_1384782639 =
+U: stac_1384782648      gotwood4sheep: i can offer wheat or sheep?
+C: stac_1384782654      CheshireCatGrin: not really, sorru
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782691 =
+U: stac_1384782681      gotwood4sheep: i know ccg has one ;)
+C: stac_1384782687      CheshireCatGrin: I have sheep, not for wood
+Rel: Correction (subord.)
+
+= stac_1384782735 =
+U: stac_1384782707      gotwood4sheep: anyone got sheep or ore for a wheat?
+C: stac_1384782716      CheshireCatGrin: no
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782719      inca: i've got an ore
+C: stac_1384782725      gotwood4sheep: 1 for  1?
+Rel: Q-Elab (subord.)
+
+= stac_1384782780 =
+U: stac_1384782741      ljaybrad123: anything for wheat?
+C: stac_1384782763      CheshireCatGrin: I don't need wheat,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782738      gotwood4sheep: methinks this game is dead and over unless CCG rolls a 7 :/
+C: stacutil_1404986757  CheshireCatGrin: and I might not win on this turn (or at all!)
+Rel: Comment (subord.)
+
+U: stac_1384782759      ljaybrad123: nope,
+C: stac_1384782775      inca: oh sorry, misunderstood you haha
+Rel: Acknowledgement (subord.)
+
+== s2-league4-game2_11 ==
+= stac_1399316561 =
+U: stac_1399316484      somdechn: Nice one bro...
+C: stac_1399316502      Shawnus: and next time..all 4 of us?
+Rel: Continuation (coord.)
+
+U: stac_1399316496      Shawnus: hats off to you
+C: stac_1399316505      ztime: I was so stuck
+Rel: Contrast (coord.)
+
+U: stac_1399316502      Shawnus: and next time..all 4 of us?
+C: stac_1399316508      ztime: yer.. either all 4..
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316535      Shawnus: well i want breakfast!
+C: stac_1399316542      Shawnus: thanks for a really good game
+Rel: Continuation (coord.)
+
+U: stac_1399316524      Shawnus: we will sort something out maybe
+C: stac_1399316548      somdechn: I can stay late 1 night to do it.
+Rel: Result (coord.)
+
+U: stac_1399316539      ztime: have a great weekend...
+C: stac_1399316551      Shawnus: you both too
+Rel: Parallel (coord.)
+
+U: stac_1399316530      ztime: ok guys
+C: stac_1399316560      somdechn: ok guys... See u
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316535      Shawnus: well i want breakfast!
+C: stac_1399316560      somdechn: ok guys... See u
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game5_04 ==
+= stac_1366061727 =
+U: stac_1364531725      yiin: nareik??
+C: stac_1364541727      nareik15: do you have any wheat
+Rel: Q-Elab (subord.)
+
+U: stac_1364541725      nareik15: i have some wood 
+C: stac_1364541727      nareik15: do you have any wheat
+Rel: Result (coord.)
+
+== s1-league3-game6_01 ==
+= stac_1377311401 =
+U: stac_1377311144      Gaeilgeoir: evening
+C: stac_1377311150      Gaeilgeoir: hopefully I can net my first win
+Rel: Continuation (coord.)
+
+U: stac_1377311156      inca: i think it's between me and kieran for the extravagant prize,
+C: stac_1377311160      Gaeilgeoir: best of luck so
+Rel: Comment (subord.)
+
+U: stac_1377311160      Gaeilgeoir: best of luck so
+C: stac_1377311166      inca: cheers
+Rel: Comment (subord.)
+
+U: stac_1377311163      Gaeilgeoir: £20, is it?
+C: stac_1377311169      inca: yep
+Rel: Question-answer_pair (subord.)
+
+U: stac_1377311175      inca: if you win,
+C: stac_1377311179      inca: that would be a nice ending
+Rel: Result (coord.)
+
+U: stac_1377311187      inca: a few weeks ago she said she was away travelling somewhere, and that we could play without
+C: stac_1377311193      inca: *without her if necessary
+Rel: Correction (subord.)
+
+U: stac_1377311187      inca: a few weeks ago she said she was away travelling somewhere, and that we could play without
+C: stac_1377311200      Gaeilgeoir: elusive German :P
+Rel: Comment (subord.)
+
+U: stac_1377311206      Gaeilgeoir: http://www.youtube.com/watch?v=aGSKrC7dGcY
+C: stac_1377311212      inca: like it
+Rel: Comment (subord.)
+
+U: stac_1377311232      inca: i'm sort of a classical musician,
+C: stac_1377311239      Gaeilgeoir: What do you play?
+Rel: Q-Elab (subord.)
+
+U: stac_1377311243      inca: cool, i play trumpet
+C: stac_1377311259      Gaeilgeoir: Trumpet sounds great though.
+Rel: Result (coord.)
+
+U: stac_1377311252      Gaeilgeoir: quite mediocre.
+C: stac_1377311262      inca: nice, no shame in that all
+Rel: Contrast (coord.)
+
+U: stac_1377311252      Gaeilgeoir: quite mediocre.
+C: stac_1377311265      inca: enough to impress people
+Rel: Result (coord.)
+
+U: stac_1377311259      Gaeilgeoir: Trumpet sounds great though.
+C: stac_1377311268      inca: and yeah trumpet's great fun
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311206      Gaeilgeoir: http://www.youtube.com/watch?v=aGSKrC7dGcY
+C: stac_1377311271      Gaeilgeoir: one more tune for you
+Rel: Continuation (coord.)
+
+U: stac_1377311232      inca: i'm sort of a classical musician,
+C: stac_1377311278      Gaeilgeoir: what classical composers do you like?
+Rel: Q-Elab (subord.)
+
+U: stac_1377311302      Gaeilgeoir: I particularly like Wagner and Bach.
+C: stac_1377311308      Gaeilgeoir: And Sibelius.
+Rel: Parallel (coord.)
+
+U: stac_1377311299      Gaeilgeoir: Most German/Austrian composers from the 18th/19th centuries.
+C: stacutil_1403627609  Gaeilgeoir: There are too many. :P
+Rel: Result (coord.)
+
+U: stac_1377311302      Gaeilgeoir: I particularly like Wagner and Bach.
+C: stacutil_1403627609  Gaeilgeoir: There are too many. :P
+Rel: Result (coord.)
+
+U: stac_1377311305      Gaeilgeoir: Rachmaninov also has some beautiful piano works
+C: stacutil_1403627609  Gaeilgeoir: There are too many. :P
+Rel: Result (coord.)
+
+U: stac_1377311308      Gaeilgeoir: And Sibelius.
+C: stacutil_1403627609  Gaeilgeoir: There are too many. :P
+Rel: Result (coord.)
+
+U: stac_1377311302      Gaeilgeoir: I particularly like Wagner and Bach.
+C: stac_1377311314      inca: haha nice,
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311305      Gaeilgeoir: Rachmaninov also has some beautiful piano works
+C: stac_1377311314      inca: haha nice,
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311308      Gaeilgeoir: And Sibelius.
+C: stac_1377311314      inca: haha nice,
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311324      Gaeilgeoir: I don't know if you know John Field.
+C: stac_1377311333      inca: ah, no i haven't heard of him
+Rel: Question-answer_pair (subord.)
+
+U: stac_1377311187      inca: a few weeks ago she said she was away travelling somewhere, and that we could play without
+C: stac_1377311336      Gaeilgeoir: doesn't look like Kieran's coming
+Rel: Narration (coord.)
+
+U: stac_1377311351      inca: if we can't do it tonight,
+C: stac_1377311358      Gaeilgeoir: unfortunately, I won't be able.
+Rel: Contrast (coord.)
+
+U: stac_1377311364      Gaeilgeoir: But if you want to do so,
+C: stac_1377311366      Gaeilgeoir: As I said, I don't mind at this stage
+Rel: Background (subord.)
+
+U: stac_1377311336      Gaeilgeoir: doesn't look like Kieran's coming
+C: stac_1377311376      inca: to be honest i think the fairest thing would be for us to play it now without him
+Rel: Result (coord.)
+
+U: stac_1377311382      Gaeilgeoir: well,
+C: stac_1377311390      inca: yep, that sounds fair
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311386      Gaeilgeoir: if he comes,
+C: stac_1377311390      inca: yep, that sounds fair
+Rel: Acknowledgement (subord.)
+
+U: stac_1377311382      Gaeilgeoir: well,
+C: stac_1377311393      inca: OK,
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game3_07 ==
+= stac_1368708087 =
+U: stac_1368708046      yiin: what do you need
+C: stac_1368708065      inca: sorry, gaeil offered ore first i guess
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368708049      Gaeilgeoir: want some ore for clay, inca?
+C: stac_1368708065      inca: sorry, gaeil offered ore first i guess
+Rel: Result (coord.)
+
+U: stac_1368708061      inca: i'll trad with both of you
+C: stac_1368708065      inca: sorry, gaeil offered ore first i guess
+Rel: Elaboration (subord.)
+
+U: stac_1368708049      Gaeilgeoir: want some ore for clay, inca?
+C: stac_1368708074      Gaeilgeoir: I have sheep too
+Rel: Parallel (coord.)
+
+U: stac_1368708055      inca: do you have sheep yiin?
+C: stac_1368708080      yiin: i got sheep
+Rel: Question-answer_pair (subord.)
+
+== pilot14_01 ==
+= stac_1340877804 =
+U: stac_1338537801      Ash: sorry
+C: stac_1338547801      mmatrtajova: click again
+Rel: Result (coord.)
+
+U: stac_1338547801      mmatrtajova: click again
+C: stac_1338557801      Ash: nothing
+Rel: Result (coord.)
+
+U: stac_1338567801      mmatrtajova: well then
+C: stac_1338577801      mmatrtajova: :)
+Rel: Continuation (coord.)
+
+U: mabrusan_1386857336420 mmatrtajova: well build sts
+C: stac_1338697801      J: won't let me build a settlement
+Rel: Contrast (coord.)
+
+== s1-league1-game4_07 ==
+= stac_1368694113 =
+U: stac_1368694089      ljaybrad123: i have wood
+C: stac_1368694098      gotwood4sheep: we're fully forested
+Rel: Result (coord.)
+
+U: stac_1368694105      gotwood4sheep: I'd need 2 wheat,
+C: stac_1368694109      tomas.kostan: that does not work for me sry
+Rel: Contrast (coord.)
+
+== pilot02_12 ==
+= stac_1339077705 =
+U: stac_1338387704      Cat: so if i want to put a settlement down
+C: stac_1338407704      Thomas: on one of your roads
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338417704      william: on any corner that has distance at least two to all other settlements
+C: stac_1338457704      Cat: thx
+Rel: Acknowledgement (subord.)
+
+== pilot03_02 ==
+= stac_1338914293 =
+U: stac_1338364292      Cardlinger: in time, and with enough 8s i am sure
+C: stac_1338394292      Euan: oh baby.
+Rel: Comment (subord.)
+
+= stac_1339814295 =
+U: stac_1338424292      jon: mm -
+C: stac_1338434292      Joel: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1343214297 =
+U: stacutil_1403100468  Euan: "Anyone got wood for sheep?" :D
+C: stac_1338604292      Euan: Sheep for wood?
+Rel: Correction (subord.)
+
+U: stac_1338594292      Euan: Ah well.
+C: stac_1338604292      Euan: Sheep for wood?
+Rel: Elaboration (subord.)
+
+U: stac_1338604292      Euan: Sheep for wood?
+C: stac_1338634292      Joel: I dont have sheep or wood Euan
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338624292      Joel: Oh I have wheat,
+C: stac_1338654292      Cardlinger: mmm
+Rel: Comment (subord.)
+
+U: stac_1338664292      Cardlinger: i have a clay or a wood
+C: stac_1338684292      Euan: Wood sounds good
+Rel: Acknowledgement (subord.)
+
+U: stac_1338684292      Euan: Wood sounds good
+C: stac_1338734292      Cardlinger: kk well
+Rel: Acknowledgement (subord.)
+
+U: stac_1338704292      Joel: wood
+C: stac_1338734292      Cardlinger: kk well
+Rel: Acknowledgement (subord.)
+
+U: stac_1338734293      Cardlinger: if you're both after wood for wheat
+C: stacutil_1403100471  Cardlinger: but you're next, Joel :)
+Rel: Contrast (coord.)
+
+U: stac_1338734293      Cardlinger: if you're both after wood for wheat
+C: stac_1338774292      Euan: Right,
+Rel: Acknowledgement (subord.)
+
+= stac_1343914298 =
+U: stac_1338844292      Euan: I was going to spend some last turn,
+C: stac_1338854292      Cardlinger: well
+Rel: Comment (subord.)
+
+== s2-league4-game1_04 ==
+= stac_1396964757 =
+U: stac_1396964741      ztime: just wool...
+C: stac_1396964747      WoodnSheep: haha
+Rel: Comment (subord.)
+
+U: stac_1396964750      WoodnSheep: sad times
+C: stac_1396964760      ztime: yer
+Rel: Acknowledgement (subord.)
+
+= stac_1396964794 =
+U: stac_1396964769      WoodnSheep: I could offer clay
+C: stac_1396964778      ztime: cool
+Rel: Acknowledgement (subord.)
+
+U: stac_1396964781      WoodnSheep: 2 for 2
+C: stac_1396964787      ztime: not me..
+Rel: Question-answer_pair (subord.)
+
+== s2-league3-game5_04 ==
+= stac_1384784200 =
+U: stac_1384784188      sparkles: anyone got wheat
+C: stac_1384784192      nelsen: no wheat,
+Rel: Question-answer_pair (subord.)
+
+= stac_1384784215 =
+U: stac_1384784203      Kersti: I'm looking for sheep or wood
+C: stac_1384784207      nelsen: no sheep or wood,
+Rel: Question-answer_pair (subord.)
+
+= stac_1384784276 =
+U: stac_1384784259      nelsen: I have ore
+C: stac_1384784263      sparkles: sheep
+Rel: Question-answer_pair (subord.)
+
+== pilot04_06 ==
+= stac_1339877736 =
+U: stac_1338407735      Nancy: what can u gve?
+C: stac_1338427735      skinnylinny: wood I can offer
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338457735      skinnylinny: You're the only person
+C: stac_1338467735      Nancy: Fine 
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game2_02 ==
+= stac_1379461780 =
+U: stac_1365911730      Gaeilgeoir: anyone have sheep?
+C: stac_1365941729      inca: neither, sorry
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game3_06 ==
+= stac_1368640578 =
+U: stac_1368640553      ljaybrad123: anyone have wood?
+C: stac_1368640562      tomas.kostan: i do
+Rel: Question-answer_pair (subord.)
+
+= stac_1368640658 =
+U: stac_1368640599      gotwood4sheep: but have no trades to offer this turn,
+C: stac_1368640606      ljaybrad123: anyone want clay?
+Rel: Narration (coord.)
+
+U: stac_1368640630      ljaybrad123: i have 2 clay
+C: stac_1368640636      tomas.kostan: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1368640665 =
+U: stac_1368640661      gotwood4sheep: nooooooo 5!
+C: stac_1368640668      ljaybrad123: the evil robber strikes again
+Rel: Comment (subord.)
+
+== s2-leagueM-game3_06 ==
+= stac_1412670450 =
+U: stac_1412670402      gotwood4sheep: sorry,
+C: stac_1412670414      ljaybrad123: one for a sheep?
+Rel: Q-Elab (subord.)
+
+U: stac_1412670417      gotwood4sheep: i'll swap mine for wood,
+C: stac_1412670421      ljaybrad123: i need wood
+Rel: Contrast (coord.)
+
+U: stac_1412670399      ljaybrad123: id need two#
+C: stac_1412670427      dmm: what can you offer?
+Rel: Q-Elab (subord.)
+
+U: stac_1412670402      gotwood4sheep: sorry,
+C: stac_1412670428      dmm: i have one as well
+Rel: Parallel (coord.)
+
+U: stac_1412670406      inca: sorry,
+C: stac_1412670428      dmm: i have one as well
+Rel: Parallel (coord.)
+
+U: stac_1412670427      dmm: what can you offer?
+C: stac_1412670437      ljaybrad123: i can offer a sheep
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670431      ljaybrad123: because i also need ore
+C: stac_1412670440      inca: i'll take a sheep for an ore
+Rel: Result (coord.)
+
+== s1-league3-game1_03 ==
+= stac_1362132850 =
+U: stac_1359922844      inca: i've got clay, 
+C: stac_1359952844      yiin: sry my bet
+Rel: Comment (subord.)
+
+U: stac_1359902844      inca: good
+C: stac_1359962844      yiin: thank you
+Rel: Comment (subord.)
+
+= stac_1362932852 =
+U: stac_1360012844      nareik15: I have sheep to trade
+C: stac_1360022844      inca: sorry, not here
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game3_05 ==
+= stac_1399316603 =
+U: stac_1399316592      WoodnSheep: Clay for me?
+C: stac_1399316602      Shawnus: no clay
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316598      Shawnus: oh...i'm on 2 forests..
+C: stac_1399316602      Shawnus: no clay
+Rel: Background (subord.)
+
+= stac_1399316678 =
+U: stac_1399316661      Shawnus: for?
+C: stac_1399316667      WoodnSheep: woo...
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316658      WoodnSheep: any sheep?
+C: stac_1399316677      ztime: no ta
+Rel: Question-answer_pair (subord.)
+
+== s1-league2-game1_07 ==
+= stac_1365327359 =
+U: stac_1364257357      sabercat: skinnylinny : trade wheat
+C: stac_1364277357      skinnylinny: sabercat: What would you offer?
+Rel: Q-Elab (subord.)
+
+== pilot04_03 ==
+= stac_1339577729 =
+U: stac_1338477727      Chameleon: oh
+C: stac_1338487727      Chameleon: my dastedly plan will have to wait
+Rel: Comment (subord.)
+
+== s2-league4-game3_01 ==
+= stac_1399316638 =
+U: stac_1399316603      Shawnus: got my pizza and tea
+C: stac_1399316619      ztime: ok let's get going..
+Rel: Result (coord.)
+
+U: stac_1399316619      ztime: ok let's get going..
+C: stac_1399316625      Shawnus: hehehe
+Rel: Comment (subord.)
+
+= stac_1399316670 =
+U: stac_1399316656      WoodnSheep: sorry
+C: stac_1399316669      Shawnus: (how polite we all are)
+Rel: Comment (subord.)
+
+== s1-league2-game1_14 ==
+= stac_1368927358 =
+U: stac_1364257356      sabercat: skinny
+C: stac_1364277356      skinnylinny: Yes?
+Rel: Clarification_question (subord.)
+
+U: stac_1364267356      sabercat: I need 2 sheep...
+C: stac_1364287356      skinnylinny: What do you want for them?
+Rel: Q-Elab (subord.)
+
+U: stac_1364297356      sabercat: can you trade for 3 clays
+C: stac_1364317356      skinnylinny: I'll give you two sheep for 2 clay or for a clay and a wheat or a clay and a wood
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1402605227  IG: Nice one.
+C: stac_1364487356      sabercat: thanks
+Rel: Acknowledgement (subord.)
+
+U: stac_1364567356      skinnylinny: So
+C: stac_1364597356      IG: yea
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364607356      IG: same time?
+C: stac_1364627356      sabercat: ok
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364557356      IG: What happens now? Do we play more?
+C: stac_1364637356      skinnylinny: OK, I'll send out a group email
+Rel: Parallel (coord.)
+
+U: stac_1364557356      IG: What happens now? Do we play more?
+C: stac_1364647356      sabercat: thanks guys
+Rel: Acknowledgement (subord.)
+
+== s2-league5-game1_01 ==
+= stac_1413793020 =
+U: stac_1413792984      raefbrisbin: i hate you jade
+C: stac_1413792991      zorburt: i'm going to eat you alive raef.
+Rel: Continuation (coord.)
+
+U: stac_1413792984      raefbrisbin: i hate you jade
+C: stac_1413793000      catanstrophe: this board is rough
+Rel: Result (coord.)
+
+= stac_1413793110 =
+U: stac_1413793094      catanstrophe: i can do 1 for 1
+C: stac_1413793103      raefbrisbin: did anything show?
+Rel: Result (coord.)
+
+= stac_1413793143 =
+U: stac_1413793113      raefbrisbin: wow, two 11's already,
+C: stac_1413793117      zorburt: man why do i always roll the 7s!
+Rel: Continuation (coord.)
+
+U: stac_1413793114      raefbrisbin: doesn't look good
+C: stac_1413793120      zorburt: yeah catanstrophe is the king of ore mountain.
+Rel: Comment (subord.)
+
+U: stac_1413793117      zorburt: man why do i always roll the 7s!
+C: stac_1413793132      zorburt: oh MAN
+Rel: Continuation (coord.)
+
+U: stac_1413793135      zorburt: i mixed up the colours
+C: stac_1413793139      raefbrisbin: nice work
+Rel: Comment (subord.)
+
+= stac_1413793177 =
+U: stac_1413793149      catanstrophe: raef - are you looking to trade some of that wheat?
+C: stac_1413793167      raefbrisbin: I'm ok right now
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413793161      catanstrophe: ?
+C: stac_1413793167      raefbrisbin: I'm ok right now
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413793149      catanstrophe: raef - are you looking to trade some of that wheat?
+C: stac_1413793170      catanstrophe: i can give an ore or a wood
+Rel: Elaboration (subord.)
+
+== pilot02_09 ==
+= stac_1341377699 =
+U: stac_1338587696      Cat: i need clay
+C: stac_1338607696      william: na
+Rel: Question-answer_pair (subord.)
+
+== pilot01_03 ==
+= stac_1342924911 =
+U: stac_1340904909      Tomm: Wheat?
+C: stac_1340914909      Tomm: Anyone needy?
+Rel: Elaboration (subord.)
+
+= stac_1345424912 =
+U: stac_1340964909      Dave: Ok
+C: stacutil_1400287437  Tomm: Well looks like you have stuff now Dave :P
+Rel: Comment (subord.)
+
+U: stac_1341034909      Dave: I guess I can use two sheep
+C: stac_1341054909      rennoc1: i only have one sheep
+Rel: Contrast (coord.)
+
+U: stac_1341034909      Dave: I guess I can use two sheep
+C: stac_1341064909      Tomm: well you have no way of getting them yourself yet
+Rel: Comment (subord.)
+
+= stac_1347924913 =
+U: stac_1341254909      Dave: and yeah,
+C: stac_1341264909      Dave: uuuh
+Rel: Comment (subord.)
+
+U: stac_1341254909      Dave: and yeah,
+C: stac_1341344909      Dave: I'm actually going to hold off on the trade for now,
+Rel: Correction (subord.)
+
+U: stac_1341294909      Tomm: Ah, 'fraid not
+C: stac_1341344909      Dave: I'm actually going to hold off on the trade for now,
+Rel: Result (coord.)
+
+== s1-league1-game3_13 ==
+= stac_1368640662 =
+U: stac_1368640550      gotwood4sheep: The Life Aquatic
+C: stac_1368640559      gotwood4sheep: ouch
+Rel: Continuation (coord.)
+
+U: stac_1368640586      tomas.kostan: ok clay will work too
+C: stac_1368640607      tomas.kostan: any wheat to spare?
+Rel: Continuation (coord.)
+
+U: stac_1368640625      gotwood4sheep: 1 for 1?
+C: stac_1368640631      tomas.kostan: 2 for 2?
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368640640      gotwood4sheep: I'm not william
+C: stac_1368640646      tomas.kostan: omg..
+Rel: Comment (subord.)
+
+== s2-league4-game3_04 ==
+= stac_1399316616 =
+U: stac_1399316604      ztime: no
+C: stac_1399316615      Shawnus: ok
+Rel: Acknowledgement (subord.)
+
+U: stac_1399316608      WoodnSheep: no
+C: stac_1399316615      Shawnus: ok
+Rel: Acknowledgement (subord.)
+
+= stac_1399316641 =
+U: stac_1399316622      Shawnus: Is it a wolf?
+C: stac_1399316644      WoodnSheep: Its a husky cross alsation, so its about as close to being a wolf as you get in London
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316662      WoodnSheep: Clay anyone?
+C: stac_1399316669      Shawnus: i need clay..
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game1_07 ==
+= stac_1361134599 =
+U: stac_1359814597      gotwood4sheep: great monopolizing
+C: stac_1359864597      gotwood4sheep: I admire your dastardly nature
+Rel: Result (coord.)
+
+= stac_1365934601 =
+U: stac_1360064597      gotwood4sheep: I was rather rich in wheat
+C: stac_1360084597      gotwood4sheep: who won on Sunday?
+Rel: Narration (coord.)
+
+U: stac_1360084597      gotwood4sheep: who won on Sunday?
+C: stac_1360104597      william: LJ
+Rel: Question-answer_pair (subord.)
+
+U: stac_1360104597      william: LJ
+C: stac_1360134597      gotwood4sheep: ahh, she was very very close in the first game too
+Rel: Comment (subord.)
+
+U: stac_1360114597      tomas.kostan: lj won on sunday
+C: stac_1360134597      gotwood4sheep: ahh, she was very very close in the first game too
+Rel: Comment (subord.)
+
+U: stac_1360044597      gotwood4sheep: good game though
+C: stac_1360144597      william: next game on thursday?
+Rel: Result (coord.)
+
+U: stac_1360054597      tomas.kostan: good game :)
+C: stac_1360144597      william: next game on thursday?
+Rel: Result (coord.)
+
+U: stac_1360154597      gotwood4sheep: well, I look forward to thursday, yes
+C: stac_1360174597      tomas.kostan: me too
+Rel: Parallel (coord.)
+
+U: stac_1360164597      tomas.kostan: yes :)
+C: stac_1360184597      william: cool. see you then
+Rel: Acknowledgement (subord.)
+
+U: stac_1360204597      william: we finished just in time for football ;)
+C: stac_1360224597      gotwood4sheep: indeed, result!
+Rel: Comment (subord.)
+
+U: stac_1360214597      gotwood4sheep: and I am, and you guys sit one out each?
+C: stac_1360234597      william: yup
+Rel: Question-answer_pair (subord.)
+
+U: stac_1360264597      gotwood4sheep: thanks Tomas!!
+C: stac_1360284597      tomas.kostan: ok see you on thursday :)
+Rel: Acknowledgement (subord.)
+
+== pilot02_03 ==
+= stac_1339577680 =
+U: stac_1338427679      Thomas: if you have 1 wood, 1 clay, 
+C: stac_1338437679      Cat: okay, I see...
+Rel: Acknowledgement (subord.)
+
+U: stac_1338487679      william: you need 10 victory points to win. 
+C: stac_1338517679      Cat: okay, thanks
+Rel: Acknowledgement (subord.)
+
+= stac_1340377682 =
+U: stac_1338617679      Cat: I'd like wood, 
+C: stac_1338627679      william: i can give you wood!
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338707679      Cat: I mean I can offer ore
+C: stac_1338747679      william: ok. 
+Rel: Acknowledgement (subord.)
+
+U: stac_1338717679      william: ? i  am confused
+C: stac_1338747680      william: i just got the speech bubble message wrong...
+Rel: Explanation (subord.)
+
+== s1-league2-game3_01 ==
+= stac_1368693193 =
+U: stac_1368693105      skinnylinny: Nobody turned up apart from sabercat and me
+C: stac_1368693112      amycharl: well im her now!
+Rel: Contrast (coord.)
+
+U: stac_1368693129      amycharl: i am rabbit sitting for my friend at hers
+C: stac_1368693133      skinnylinny: Ah! Not good!
+Rel: Result (coord.)
+
+U: stac_1368693112      amycharl: well im her now!
+C: stac_1368693137      skinnylinny: there are three of us, at least...
+Rel: Result (coord.)
+
+U: stac_1368693144      amycharl: but if no1 comes
+C: stac_1368693148      amycharl: i ran through the rain to get here!
+Rel: Elaboration (subord.)
+
+U: stac_1368693157      amycharl: can you guys do tomorow night too?
+C: stac_1368693170      skinnylinny: I can't, I'm afraid
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368693179      amycharl: i would do later tonight
+C: stac_1368693183      amycharl: :)
+Rel: Comment (subord.)
+
+U: stac_1368693163      amycharl: or when can you do,
+C: stac_1368693186      skinnylinny: I could do later
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368693144      amycharl: but if no1 comes
+C: stac_1368693189      amycharl: wanna start?
+Rel: Narration (coord.)
+
+== s2-leagueM-game4_01 ==
+= stac_1413791870 =
+U: stac_1413791856      inca: hello, shall we just start?
+C: stac_1413791862      CheshireCatGrin: Indeed, sounded like LJ wasn't playing
+Rel: Question-answer_pair (subord.)
+
+== pilot03_04 ==
+= stac_1344014291 =
+U: stac_1338824287      Euan: And I get more mutton.
+C: stacutil_1403100494  Cardlinger: i'm hungry :D
+Rel: Comment (subord.)
+
+== s2-league1-game1_07 ==
+= stac_1384782692 =
+U: stac_1384782656      gotwood4sheep: anyone got a wood?
+C: stac_1384782672      inca: need mine
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782656      gotwood4sheep: anyone got a wood?
+C: stac_1384782675      ljaybrad123: sorry needed
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384782681      gotwood4sheep: ore for a sheep?
+C: stac_1384782685      inca: no ore
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782696 =
+U: stac_1384782717      CheshireCatGrin: I'm hitting done
+C: stac_1384782721      gotwood4sheep: need to move robber
+Rel: Explanation (subord.)
+
+= stac_1384782822 =
+U: stac_1384782742      ljaybrad123: well done
+C: stac_1384782748      CheshireCatGrin: good game :)
+Rel: Comment (subord.)
+
+U: stac_1384782745      ljaybrad123: i need to run
+C: stac_1384782754      gotwood4sheep: bye lj!
+Rel: Acknowledgement (subord.)
+
+U: stac_1384782748      CheshireCatGrin: good game :)
+C: stac_1384782772      gotwood4sheep: well done ccg
+Rel: Comment (subord.)
+
+U: stac_1384782751      ljaybrad123: see you sunday perhaps
+C: stac_1384782778      inca: sunday do you mean?
+Rel: Clarification_question (subord.)
+
+U: stac_1384782760      gotwood4sheep: not
+C: stac_1384782779      inca: yeah i feel rescheduling is probabyl a better idea
+Rel: Comment (subord.)
+
+U: stac_1384782745      ljaybrad123: i need to run
+C: stac_1384782782      gotwood4sheep: race for the road
+Rel: Comment (subord.)
+
+U: stac_1384782779      inca: yeah i feel rescheduling is probabyl a better idea
+C: stac_1384782785      gotwood4sheep: agreed
+Rel: Acknowledgement (subord.)
+
+U: stac_1384782779      inca: yeah i feel rescheduling is probabyl a better idea
+C: stac_1384782791      inca: sorry about this
+Rel: Comment (subord.)
+
+U: stac_1384782788      inca: i'll send an email anyway
+C: stac_1384782797      gotwood4sheep: ok :)
+Rel: Acknowledgement (subord.)
+
+U: stac_1384782794      gotwood4sheep: am free next week evenings again
+C: stac_1384782800      inca: same here
+Rel: Parallel (coord.)
+
+U: stac_1384782794      gotwood4sheep: am free next week evenings again
+C: stac_1384782803      inca: we'll srot something out
+Rel: Result (coord.)
+
+U: stac_1384782748      CheshireCatGrin: good game :)
+C: stac_1384782809      inca: cheers, well played ccg
+Rel: Comment (subord.)
+
+== s1-league2-game4_03 ==
+= stac_1377311475 =
+U: stac_1377311443      sabercat: want ore?
+C: stac_1377311455      sabercat: how about two ores?
+Rel: Alternation (coord.)
+
+== pilot03_07 ==
+= stac_1339514280 =
+U: stacutil_1403100511  Euan: So, got clay? :P
+C: stac_1338374280      Joel: no still
+Rel: Question-answer_pair (subord.)
+
+U: stacutil_1403100511  Euan: So, got clay? :P
+C: stac_1338404279      Cardlinger: soooooon
+Rel: Question-answer_pair (subord.)
+
+= stac_1342414284 =
+U: stac_1338674279      Cardlinger: afraid
+C: stacutil_1403100513  Cardlinger: maybe next time :)
+Rel: Result (coord.)
+
+U: stac_1338674279      Cardlinger: afraid
+C: stacutil_1403100514  Euan: m'kay :)
+Rel: Acknowledgement (subord.)
+
+U: stacutil_1403100513  Cardlinger: maybe next time :)
+C: stac_1338714279      Cardlinger: no 7!
+Rel: Continuation (coord.)
+
+= stac_1344814285 =
+U: stac_1338784279      Euan: No ore here
+C: stac_1338834279      Euan: Reactivate our ore
+Rel: Result (coord.)
+
+U: stac_1338804279      jon: I'll take a wheat for an ore
+C: stacutil_1403100516  Cardlinger: ty jon :)
+Rel: Acknowledgement (subord.)
+
+U: stac_1338894279      Joel: nope
+C: stacutil_1403100517  Cardlinger: kk pushing my luck :D
+Rel: Acknowledgement (subord.)
+
+== pilot20_09 ==
+= stac_1339977869 =
+U: stac_1338507865      ariachiba: You need it
+C: stac_1338527865      Rainbow: thnx
+Rel: Acknowledgement (subord.)
+
+= stac_1342677871 =
+U: stac_1338647865      ariachiba: At this rate?
+C: stac_1338657865      Rainbow: ok
+Rel: Acknowledgement (subord.)
+
+== pilot14_03 ==
+= stac_1338877808 =
+U: stac_1338397807      mmatrtajova: move on
+C: stac_1338407807      J: oh yeah,
+Rel: Comment (subord.)
+
+= stac_1341477811 =
+U: stac_1338607807      J: yeeep
+C: stac_1338617807      mmatrtajova: then i dont know
+Rel: Result (coord.)
+
+U: stac_1338587807      J: why won't it let me build a road again?
+C: stac_1338627807      mmatrtajova: do you have wood?
+Rel: Q-Elab (subord.)
+
+== s1-league2-game3_06 ==
+= stac_1368693249 =
+U: stac_1368693108      amycharl: i literally lost
+C: stac_1368693127      amycharl: boo
+Rel: Comment (subord.)
+
+U: stac_1368693121      sabercat: sorry
+C: stac_1368693133      amycharl: it snot your fault,
+Rel: Comment (subord.)
+
+U: stac_1368693130      skinnylinny: Hmmmm, right, wonder if we can get another game done tonight?
+C: stac_1368693137      amycharl: im up for one
+Rel: Question-answer_pair (subord.)
+
+U: stac_1368693130      skinnylinny: Hmmmm, right, wonder if we can get another game done tonight?
+C: stac_1368693141      sabercat: is there anyone esle who wants to play?
+Rel: Q-Elab (subord.)
+
+U: stac_1368693184      amycharl: i missed one bu tim happy to do it now
+C: stac_1368693195      sabercat: so you are playing only one on thursday?
+Rel: Result (coord.)
+
+U: stac_1368693187      amycharl: coz we schedlued to play 2,
+C: stac_1368693209      amycharl: just it would make sense really
+Rel: Continuation (coord.)
+
+U: stac_1368693202      sabercat: I could do one
+C: stac_1368693215      sabercat: well, skinny?
+Rel: Narration (coord.)
+
+== s1-league3-game2_01 ==
+= stac_1370761745 =
+U: stac_1365031729      inca: I've just had an e-mail 
+C: stac_1365051729      Gaeilgeoir: what did he say?
+Rel: Continuation (coord.)
+
+== s1-league2-game1_02 ==
+= stac_1368227364 =
+U: stac_1364557356      sabercat: anyone has ore?
+C: stac_1364607356      IG: Sorry
+Rel: Question-answer_pair (subord.)
+
+== pilot21_06 ==
+= stac_1340577900 =
+U: stac_1338537897      Katherine: anyone wants to trade wheat for wood
+C: stac_1338557898      Josephine: And no
+Rel: Question-answer_pair (subord.)
+
+== s2-leagueM-game5_02 ==
+= stac_1413792417 =
+U: stac_1413792445      gotwood4sheep: none of those neither :(
+C: stac_1413792458      dmm: oh well
+Rel: Acknowledgement (subord.)
+
+U: stac_1413792451      CheshireCatGrin: I have one,
+C: stac_1413792458      dmm: oh well
+Rel: Acknowledgement (subord.)
+
+= stac_1413792547 =
+U: stac_1413792537      gotwood4sheep: i have no clay
+C: stac_1413792546      dmm: sigh :(
+Rel: Comment (subord.)
+
+= stac_1413792561 =
+U: stac_1413792554      gotwood4sheep: matt, still want a wood for one of your wheat?
+C: stac_1413792560      CheshireCatGrin: no longer need wood
+Rel: Question-answer_pair (subord.)
+
+== pilot04_13 ==
+= stac_1406105809 =
+U: stac_1406105796      Chameleon: anyone go wheat?
+C: stac_1406105802      skinnylinny: NNope
+Rel: Question-answer_pair (subord.)
+
+= stac_1406105903 =
+U: stac_1406105865      Nancy: do u know how to trade with the port?
+C: stac_1406105874      skinnylinny: you need a settlement on the port locations
+Rel: Question-answer_pair (subord.)
+
+U: stac_1406105868      skinnylinny: Anyone got a spare ore?
+C: stac_1406105881      skinnylinny: chameleon: Would you take wood for an ore?
+Rel: Q-Elab (subord.)
+
+U: stac_1406105877      Chameleon: Nancy: have a settlement there...
+C: stac_1406105896      Nancy: really dont know how to trade with the port
+Rel: Correction (subord.)
+
+U: stac_1406105881      skinnylinny: chameleon: Would you take wood for an ore?
+C: stac_1406105899      Chameleon: I am happy to trade skinnylinny
+Rel: Question-answer_pair (subord.)
+
+U: stac_1406105896      Nancy: really dont know how to trade with the port
+C: stac_1406105902      Chameleon: Nancy: you are not on a port
+Rel: Explanation (subord.)
+
+= stac_1406105968 =
+U: stac_1406105916      Chameleon: not really
+C: stac_1406105925      Nancy: is this u guys first time of playing?
+Rel: Continuation (coord.)
+
+U: stac_1406105946      Nancy: so do u know what we do now?
+C: stac_1406105967      Chameleon: bye all
+Rel: Continuation (coord.)
+
+== s1-league3-game3_02 ==
+= stac_1368708045 =
+U: stac_1368708040      nareik15: yeah, can do the trade
+C: stac_1368708044      inca: weird
+Rel: Result (coord.)
+
+= stac_1368708053 =
+U: stac_1368708048      inca: usually suggests one
+C: stac_1368708052      yiin: technical error i think
+Rel: Result (coord.)
+
+== s2-league1-game1_04 ==
+= stac_1384782657 =
+U: stac_1384782629      CheshireCatGrin: If a 7 doesn't come up, it will be ...
+C: stac_1384782644      gotwood4sheep: your coffers runneth over
+Rel: Comment (subord.)
+
+U: stac_1384782635      ljaybrad123: anyone have clay?
+C: stac_1384782647      inca: sorry lj, still got none
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782676 =
+U: stac_1384782664      CheshireCatGrin: any one got a sheep?
+C: stac_1384782668      inca: nope
+Rel: Question-answer_pair (subord.)
+
+= stac_1384782773 =
+U: stac_1384782742      gotwood4sheep: 1 wheat for 1 clay
+C: stac_1384782751      gotwood4sheep: snap
+Rel: Acknowledgement (subord.)
+
+== pilot02_10 ==
+= stac_1339577700 =
+U: stac_1338397699      william: are you givinig 2 ore?
+C: stac_1338417699      Thomas: yes
+Rel: Question-answer_pair (subord.)
+
+== pilot01_01 ==
+= stac_1343424902 =
+U: stac_1340784901      Tomm: Excellent!
+C: stac_1340794901      Tomm: So, does this generate a random Catan board?
+Rel: Clarification_question (subord.)
+
+== s1-league3-game2_03 ==
+= stac_1368161734 =
+U: stac_1364581730      Gaeilgeoir: thanks. good game
+C: stac_1364601730      inca: good game
+Rel: Acknowledgement (subord.)
+
+U: stac_1364561730      inca: oh, well played
+C: stac_1364611730      inca: when would be a good time for you guys to play the real one?
+Rel: Narration (coord.)
+
+U: stac_1364661730      Gaeilgeoir: Let's do the game without Carina on Monday?
+C: stac_1364721730      inca: But yeah Weds and Thurs are both fine for me for our one
+Rel: Question-answer_pair (subord.)
+
+U: stac_1364611730      inca: when would be a good time for you guys to play the real one?
+C: stac_1364751731      Gaeilgeoir: the games have to be played by when?
+Rel: Clarification_question (subord.)
+
+U: stac_1364731730      Gaeilgeoir: I kind of need all my games done next week if possible
+C: stac_1364781730      Carina: for me it's the same
+Rel: Parallel (coord.)
+
+U: stac_1364761730      inca: Not until like the 26th of June
+C: stac_1364791730      Gaeilgeoir: Ok, I'll be available again from the 14th of June
+Rel: Result (coord.)
+
+U: stac_1364781730      Carina: for me it's the same
+C: stac_1364811730      Gaeilgeoir: ok, see you all soon
+Rel: Acknowledgement (subord.)
+
+U: stac_1364781730      Carina: for me it's the same
+C: stac_1364811730      Gaeilgeoir: ok, see you all soon
+Rel: Comment (subord.)
+
+== s1-league2-game2_05 ==
+= stac_1365661723 =
+U: stac_1364471722      amycharl: anyone want a sheep
+C: stac_1364491722      IG: sry
+Rel: Question-answer_pair (subord.)
+
+= stac_1368361728 =
+U: stac_1364761722      amycharl: i will give a sheep for a clay
+C: stac_1364781722      IG: nah
+Rel: Question-answer_pair (subord.)
+
+== s2-leagueM-game5_03 ==
+= stac_1413792469 =
+U: stac_1413792459      gotwood4sheep: still not one
+C: stac_1413792472      gotwood4sheep: ludicrous
+Rel: Result (coord.)
+
+= stac_1413792522 =
+U: stac_1413792511      gotwood4sheep: ahh soldier 7
+C: stac_1413792521      gotwood4sheep: i didn't want to deploy that soldier so soon >:(
+Rel: Contrast (coord.)
+
+U: stac_1413792514      dmm: ah see, now you have 6!
+C: stac_1413792521      gotwood4sheep: i didn't want to deploy that soldier so soon >:(
+Rel: Contrast (coord.)
+
+== pilot03_03 ==
+= stac_1339514290 =
+U: stac_1338324289      Cardlinger: that means
+C: stac_1338334289      Joel: c'est la vie
+Rel: Comment (subord.)
+
+U: stac_1338384290      Joel: i didnt see
+C: stac_1338394289      Joel: damn
+Rel: Comment (subord.)
+
+= stac_1340914291 =
+U: stac_1338454289      Joel: anyone have any ore?
+C: stac_1338474289      Cardlinger: nope,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338614289      Cardlinger: anyone got a wood
+C: stac_1338664289      Joel: do you have any ore?
+Rel: Clarification_question (subord.)
+
+= stac_1345414295 =
+U: stac_1338344288      Euan: anyone got any wood?
+C: stac_1338384287      Joel: i have no cards
+Rel: Question-answer_pair (subord.)
+
+U: stac_1338364287      Euan: I'll give you sheep for it?
+C: stac_1338404287      Cardlinger: 1 sheep for 1 wood is that?
+Rel: Q-Elab (subord.)
+
+U: stac_1338344288      Euan: anyone got any wood?
+C: stac_1338424287      Cardlinger: how many wood you after?
+Rel: Clarification_question (subord.)
+
+U: stac_1338364287      Euan: I'll give you sheep for it?
+C: stac_1338444287      Cardlinger: your clay for my wood?
+Rel: Clarification_question (subord.)
+
+U: stac_1338534287      Euan: Or if you want
+C: stacutil_1403100488  Cardlinger: not just yet :)
+Rel: Question-answer_pair (subord.)
+
+== s1-league1-game3_11 ==
+= stac_1368640575 =
+U: stac_1368640562      tomas.kostan: i give you clay you give me sheep and wheat
+C: stac_1368640571      gotwood4sheep: ah go on
+Rel: Acknowledgement (subord.)
+
+= stac_1368640632 =
+U: stac_1368640618      william: i am giving wood for ore
+C: stac_1368640628      tomas.kostan: sry no ore
+Rel: Question-answer_pair (subord.)
+
+== s2-league4-game3_03 ==
+= stac_1399316625 =
+U: stac_1399316613      Shawnus: oh my...my poor sheep.
+C: stac_1399316617      Shawnus: haha
+Rel: Comment (subord.)
+
+U: stac_1399316600      WoodnSheep: Sooo, anyone want sheep?
+C: stac_1399316623      Shawnus: dont want it...
+Rel: Question-answer_pair (subord.)
+
+= stac_1399316713 =
+U: stac_1399316670      ztime: anyone want wheat?
+C: stac_1399316678      Shawnus: clay for wheat
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316674      Shawnus: ok,
+C: stac_1399316682      ztime: thanks
+Rel: Comment (subord.)
+
+U: stac_1399316681      ztime: 7... damn.
+C: stac_1399316685      Shawnus: hahahaha
+Rel: Comment (subord.)
+
+U: stac_1399316678      Shawnus: clay for wheat
+C: stac_1399316694      ztime: anyone (Shawnus) want wheat?
+Rel: Narration (coord.)
+
+== s1-league1-game3_03 ==
+= stac_1369335205 =
+U: stac_1369335195      gotwood4sheep: so how do people know about the league?
+C: stac_1369335211      tomas.kostan: i know about it from my gf
+Rel: Question-answer_pair (subord.)
+
+U: stac_1369335204      ljaybrad123: i did the trails
+C: stac_1369335215      gotwood4sheep: are you an Informatics student then, ljay?
+Rel: Q-Elab (subord.)
+
+U: stac_1369335221      william: has anyone got wood for me?
+C: stac_1369335228      gotwood4sheep: lol william, you cad
+Rel: Comment (subord.)
+
+U: stac_1369335215      gotwood4sheep: are you an Informatics student then, ljay?
+C: stac_1369335234      ljaybrad123: no, Im about to start maths,
+Rel: Question-answer_pair (subord.)
+
+U: stac_1369335228      gotwood4sheep: lol william, you cad
+C: stac_1369335244      william: what's a cad?
+Rel: Clarification_question (subord.)
+
+= stac_1369335276 =
+U: stac_1369335254      gotwood4sheep: I need clay
+C: stac_1369335264      gotwood4sheep: Guess what I am short of lol,
+Rel: Elaboration (subord.)
+
+= stac_1369335335 =
+U: stac_1369335303      ljaybrad123: I need clay too
+C: stac_1369335309      gotwood4sheep: sorry ljay
+Rel: Result (coord.)
+
+U: stac_1369335306      gotwood4sheep: maybe ore...
+C: stac_1369335312      ljaybrad123: no ore sorry
+Rel: Contrast (coord.)
+
+== s2-league5-game0_02 ==
+= stac_1413794370 =
+U: stac_1413794347      zorburt: sorry not clay.
+C: stac_1413794351      raefbrisbin: nay
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413794341      zorburt: trade a sheep or ore for a clay?
+C: stac_1413794354      catanstrophe: no i am looking for clay as well
+Rel: Parallel (coord.)
+
+= stac_1413794428 =
+U: stac_1413794398      catanstrophe: i can give one wood for one sheep?
+C: stac_1413794409      zorburt: yeah i can do that.
+Rel: Acknowledgement (subord.)
+
+= stac_1413794473 =
+U: stac_1413794432      raefbrisbin: can we start the real one
+C: stac_1413794436      catanstrophe: i am fine with going on to the real one
+Rel: Question-answer_pair (subord.)
+
+U: stac_1413794467      Ghettoette: i just realized you click at the bottom in the green box-
+C: stac_1413794471      zorburt: yeah.
+Rel: Acknowledgement (subord.)
+
+= stac_1413794479 =
+U: stac_1413794476      zorburt: ok cool.
+C: stac_1413794492      catanstrophe: let's kill it
+Rel: Result (coord.)
+
+U: stac_1413794482      raefbrisbin: I'm good
+C: stac_1413794492      catanstrophe: let's kill it
+Rel: Result (coord.)
+
+== s2-leagueM-game3_03 ==
+= stac_1412670390 =
+U: stac_1412670369      gotwood4sheep: ask inca
+C: stac_1412670379      inca: haha
+Rel: Comment (subord.)
+
+= stac_1412670510 =
+U: stac_1412670483      ljaybrad123: anyone have a sheep for clay or ore?
+C: stac_1412670492      dmm: nope
+Rel: Question-answer_pair (subord.)
+
+U: stac_1412670499      gotwood4sheep: can do wood for wheat
+C: stac_1412670503      ljaybrad123: that would be good
+Rel: Result (coord.)
+
+== s2-league4-game1_03 ==
+= stac_1396964773 =
+U: stac_1396964762      WoodnSheep: no ta
+C: stac_1396964772      ztime: OK.
+Rel: Acknowledgement (subord.)
+
+U: stac_1396964765      somdechn: no
+C: stac_1396964772      ztime: OK.
+Rel: Acknowledgement (subord.)
+
+= stac_1396964809 =
+U: stac_1396964816      ztime: move the robber dude
+C: stac_1396964825      WoodnSheep: ha
+Rel: Comment (subord.)
+
+== s1-league3-game1_02 ==
+= stac_1362332853 =
+U: stac_1359912844      inca: i do, 
+C: stac_1359932844      nareik15: I've sheep or wood
+Rel: Question-answer_pair (subord.)
+
+= stac_1366532861 =
+U: stac_1360332844      yiin: i have
+C: stac_1360352844      inca: ore it is then
+Rel: Result (coord.)
+
+U: stac_1360362844      nareik15: don't have wheat to spare
+C: stac_1360372844      inca: sorry
+Rel: Comment (subord.)
+
+= stac_1367432862 =
+U: stac_1360442844      yiin: i got ore
+C: stac_1360492844      nareik15: thanks
+Rel: Comment (subord.)
+
+== s2-league4-game2_08 ==
+= stac_1399316600 =
+U: stac_1399316550      Shawnus: 1!
+C: stac_1399316556      ztime: :-)
+Rel: Comment (subord.)
+
+U: stac_1399316526      ztime: anyone want wheat?
+C: stac_1399316565      ztime: anyone else want wheat?
+Rel: Narration (coord.)
+
+U: stac_1399316565      ztime: anyone else want wheat?
+C: stac_1399316571      somdechn: ok me
+Rel: Question-answer_pair (subord.)
+
+U: stac_1399316581      somdechn: I do have wood.
+C: stac_1399316588      ztime: OK
+Rel: Acknowledgement (subord.)
+
+== s1-league3-game5_01 ==
+= stac_1369661725 =
+U: stac_1364521724      yiin: sorry need to play everyday 
+C: stac_1364531724      Gaeilgeoir: no worries, 
+Rel: Comment (subord.)
+
+U: stac_1364471724      Gaeilgeoir: hi
+C: stac_1364541724      nareik15: hi
+Rel: Continuation (coord.)
+
+U: stac_1364541724      nareik15: hi
+C: stac_1364571724      yiin: is there anyone else??
+Rel: Narration (coord.)
+
+U: stac_1364641724      nareik15: Yeah, 
+C: stac_1364651724      nareik15: there we go,
+Rel: Result (coord.)
+
+U: stac_1364691724      Gaeilgeoir: We can't do it with three...
+C: stac_1364721724      nareik15: we played a three player game before...
+Rel: Contrast (coord.)
+
+U: stac_1364721724      nareik15: we played a three player game before...
+C: stac_1364761724      yiin: the other group have 3 players as well as in league 2
+Rel: Parallel (coord.)
+
+U: stac_1364721724      nareik15: we played a three player game before...
+C: stac_1364781724      Gaeilgeoir: what are we to do?
+Rel: Q-Elab (subord.)
+
+== s1-league1-game5_03 ==
+= stac_1368694455 =
+U: stac_1368694454      gotwood4sheep: sorry LJ didn't want clay from william ;)
+C: stac_1368694461      william: ^^
+Rel: Comment (subord.)
+
+U: stac_1368694464      gotwood4sheep: back to back 7s.
+C: stac_1368694469      ljaybrad123: another 7
+Rel: Comment (subord.)
+
+== s2-league3-game5_01 ==
+= stac_1384784275 =
+U: stac_1384784188      Agnes: Hi all
+C: stac_1384784194      nelsen: Hi there
+Rel: Comment (subord.)
+
+U: stac_1384784191      Agnes: apologies for missing the last game
+C: stac_1384784197      nelsen: No problem!
+Rel: Comment (subord.)
+
+U: stac_1384784188      Agnes: Hi all
+C: stac_1384784200      Kersti: hello
+Rel: Comment (subord.)
+
+U: stac_1384784194      nelsen: Hi there
+C: stac_1384784200      Kersti: hello
+Rel: Comment (subord.)
+
+U: stac_1384784239      Kersti: I'm at about 85% of my gmail limit so I often find that it doesn;t find things so well
+C: stac_1384784245      nelsen: gmail has got pretty slow since they changed the interface
+Rel: Elaboration (subord.)
+
+U: stac_1384784248      Kersti: email sent
+C: stac_1384784254      Kersti: he'll be 5-10 mins
+Rel: Narration (coord.)
+
+= stac_1384784290 =
+U: stac_1384784282      nelsen: yep!
+C: stac_1384784289      sparkles: cheers
+Rel: Comment (subord.)
+
+= stac_1384784331 =
+U: stac_1384784323      Kersti: I'm offering a wheat for a wood
+C: stac_1384784330      nelsen: I will :)
+Rel: Question-answer_pair (subord.)
+
+U: stac_1384784337      sparkles: !!
+C: stac_1384784344      nelsen: you had the most cards :)
+Rel: Comment (subord.)
+
+== pilot21_10 ==
+= stac_1342577917 =
+U: stac_1338667908      Charlotte: do you mean
+C: stac_1338727908      Amanda: does anyone want sheep?
+Rel: Continuation (coord.)
+
+U: stac_1338747908      Josephine: Me
+C: stac_1338787908      Amanda: 1 4 1 both of you?
+Rel: Q-Elab (subord.)
+
+= stac_1340077912 =
+U: stac_1338427911      Amanda: ore?
+C: stac_1338447911      Charlotte: wood??
+Rel: Q-Elab (subord.)
+
+== pilot04_08 ==

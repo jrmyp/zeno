@@ -1,0 +1,51 @@
+= Q-Elab = s1-league2-game3_02 =
+Segment : stac_1368693102
+Turn : stac_1368693104
+
+= Acknowledgement = s1-league3-game1_01 =
+Acknowledgement : asoubeille_1361445846265
+Complex_discourse_unit : asoubeille_1361445838875
+
+= Continuation = pilot14_09 =
+Question-answer_pair : asoubeille_1356005197625
+Complex_discourse_unit : asoubeille_1356005189125
+
+= Acknowledgement = s2-leagueM-game3_07 =
+Acknowledgement : asoubeille_1413541391703
+Complex_discourse_unit : asoubeille_1413541414890
+
+= Question-answer_pair = s1-league3-game1_02 =
+Complex_discourse_unit : asoubeille_1361446665906
+Question-answer_pair : asoubeille_1361447309453
+
+= Explanation = s2-league5-game0_02 =
+Turn : stac_1413794450
+Complex_discourse_unit : asoubeille_1414052276138
+
+= Explanation = s1-league2-game3_01 =
+Turn : stac_1368693104
+Complex_discourse_unit : asoubeille_1375009326153
+
+= Q-Elab = s1-league2-game3_01 =
+Segment : stac_1368693173
+Turn : stac_1368693175
+
+= Comment = pilot14_03 =
+Segment : stac_1338527807
+Turn : stac_1338377823
+
+= Acknowledgement = s2-leagueM-game4_02 =
+Segment : stac_1413791882
+Turn : stac_1413791888
+
+= Continuation = s1-league2-game3_06 =
+Turn : stac_1368693186
+Segment : stac_1368693209
+
+= Q-Elab = s1-league2-game3_06 =
+Segment : stac_1368693235
+Turn : stac_1368693240
+
+= Question-answer_pair = s1-league3-game3_01 =
+Segment : stac_1368708143
+Turn : stac_1368708145

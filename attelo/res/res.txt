@@ -1,0 +1,9 @@
+== Results ==
+== Method : linearSVM ==
+Global accuracy : 1165/1343 = 0.867
+= F1 scores by label =
+False                    : 0.914
+True                     : 0.708
+= Reference counts =
+False                    : 1028
+True                     : 315

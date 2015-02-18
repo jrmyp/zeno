@@ -1,0 +1,145 @@
+== Task 6 : Backward links ==
+= Conditional = s1-league3-game3_01 =
+nareik15 : if anyone has any
+nareik15 : could do with some wheat though
+= Result = s1-league3-game7_01 =
+inca : nope
+inca : sorry,
+= Conditional = s1-league2-game2_03 =
+dmm : if possible...
+dmm : i could do with a sheep  
+= Explanation = s1-league1-game3_06 =
+gotwood4sheep : afraid I'm a bit fallow
+gotwood4sheep : but have no trades to offer this turn,
+= Explanation = s1-league1-game2_03 =
+tomas.kostan : does not work for me
+tomas.kostan : how to trade with the bank? 
+= Background = s1-league3-game4_01 =
+inca : when you have to
+inca : You can leave 
+= Comment = s1-league1-game4_07 =
+gotwood4sheep : stop that city :D
+gotwood4sheep : uh oooohhhh
+= Conditional = s1-league1-game4_07 =
+tomas.kostan : if you want some :)
+tomas.kostan : and wheat
+= Comment = s1-league2-game3_06 =
+sabercat : is there anyone esle who wants to play?
+sabercat : well,
+= Conditional = s1-league2-game3_06 =
+amycharl : if no1 else can?
+amycharl : shud we just do anyother one
+= Result = s1-league2-game3_06 =
+sabercat : we were supposed to play two today, ... and well...
+sabercat : thats a problem.
+= Conditional = s1-league1-game3_15 =
+gotwood4sheep : if we don't hear from them over the weekend
+gotwood4sheep : I think we should ask for the reserve to swap in
+= Elaboration = s1-league3-game5_01 =
+Gaeilgeoir :  you mean?
+Gaeilgeoir : start the game, 
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : if it was work-related :/
+gotwood4sheep : you shouldn't lose pay
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : if they think you're pursuing legal action
+gotwood4sheep : they'll care more
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : if they don't respond,
+gotwood4sheep : I'd suggest a price,
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : whenever he was >7 resources
+gotwood4sheep : william kept rolling 7s
+= Contrast = s1-league1-game4_01 =
+gotwood4sheep : whenever he was >7 resources
+gotwood4sheep : william kept rolling 7s
+= Contrast = s1-league1-game4_01 =
+gotwood4sheep : whenever he was >7 resources
+gotwood4sheep : william kept rolling 7s
+= Conditional = s1-league3-game3_07 =
+inca : if so
+inca : i'll trad with both of you
+= Result = s1-league3-game6_03 =
+inca : i don't think i can afford to make any trades with you in this situ
+inca : haha, at the risk of being rude,
+= Conditional = s1-league2-game1_08 =
+IG : if your up for it
+IG : will do on my turn
+= Explanation = s1-league3-game3_05 =
+inca : sorry
+inca : not any more,
+= Explanation = s1-league3-game3_05 =
+inca : nope
+inca : sorry,
+= Comment = s1-league3-game2_03 =
+Gaeilgeoir : the games have to be played by when?
+Gaeilgeoir : wait, 
+= Question-answer_pair = s1-league3-game2_01 =
+Gaeilgeoir : what did he say?
+inca : "ehh sry 
+= Conditional = s1-league3-game2_01 =
+inca : if it is
+inca : i totally understand 
+= Conditional = s1-league3-game1_02 =
+nareik15 : if yiin remains absent?
+nareik15 : when do you think we should call it a day 
+= Conditional = s1-league1-game3_14 =
+gotwood4sheep : if i saw a 7...
+gotwood4sheep :  I have to admit I wouldn't weep
+= Conditional = s1-league1-game3_05 =
+gotwood4sheep : if so
+gotwood4sheep : I will trade very generously
+= Background = s1-league1-game4_11 =
+gotwood4sheep : till the next 7 :D
+gotwood4sheep : we seem to be abundant
+= Explanation = s1-league1-game3_09 =
+gotwood4sheep : as I need to leave quite soon :/
+gotwood4sheep : we were negotiating a truce
+= Narration = s1-league1-game3_09 =
+ljaybrad123 : ill try
+ljaybrad123 : anyone have wheat or clay for sheep?
+= Elaboration = s1-league2-game4_01 =
+sabercat : its the most probable
+sabercat : well,
+= Comment = s1-league2-game4_01 =
+sabercat : thanks!
+sabercat : gee
+= Background = s1-league1-game2_07 =
+tomas.kostan : when you know you have lost.. :(
+tomas.kostan : this game is so boring 
+= Comment = s1-league1-game2_07 =
+tomas.kostan : no
+tomas.kostan : this game is so boring 
+= Comment = s1-league1-game4_09 =
+tomas.kostan : hi
+ljaybrad123 : anyone have sheep for ore?
+= Conditional = s1-league2-game2_06 =
+amycharl : if you gave me two of something
+amycharl : i have one
+= Result = s1-league1-game4_06 =
+gotwood4sheep : my french not so good
+gotwood4sheep : pas de problems ;)
+= Conditional = s1-league1-game4_06 =
+gotwood4sheep : if you have it...
+gotwood4sheep : 1 sheep is cheaper
+= Conditional = s1-league3-game3_04 =
+Gaeilgeoir : if you want
+Gaeilgeoir : I have wheat
+= Comment = s1-league2-game3_01 =
+skinnylinny : there are three of us, at least...
+skinnylinny : Well,
+= Conditional = s1-league2-game3_01 =
+amycharl : we should play anyway
+amycharl : but if no1 comes
+= Conditional = s1-league2-game3_01 =
+amycharl : if we could
+amycharl : i would do later tonight
+= Conditional = s1-league3-game1_03 =
+nareik15 : if anyone has ore or clay
+nareik15 : I have sheep to trade
+= Conditional = s1-league1-game2_08 =
+ljaybrad123 : if we can
+ljaybrad123 : Thurs would be great 
+= Conditional = s1-league3-game6_01 =
+inca : if we're allowed to
+inca : our last hope really is that we can play it on wednesday

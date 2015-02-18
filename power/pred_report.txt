@@ -1,0 +1,7871 @@
+== s1-league1-game2_03 ==
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> ljaybrad123 : oooh I would have traded you 1 for 1 :p
+> william : sry
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : sry
+> ljaybrad123 : its ok
+
+Reference  : Result
+Prediction : Q-Elab
+> william : there's your wood ;)
+> tomas.kostan : do you have one for trade?
+
+Reference  : Elaboration
+Prediction : Result
+> william : lj does :)
+> ljaybrad123 : I can spare a wood for clay
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> ljaybrad123 : I can spare a wood for clay
+> tomas.kostan : ok
+
+Reference  : Explanation
+Prediction : Comment
+> tomas.kostan : does not work for me
+> tomas.kostan : how to trade with the bank? 
+
+Reference  : Result
+Prediction : Acknowledgement
+> ljaybrad123 : trade with bank/port
+> tomas.kostan : ok worked
+
+Reference  : Continuation
+Prediction : Contrast
+> ljaybrad123 : trade with bank/port
+> ljaybrad123 : but has to be 4:1
+
+== pilot02_08 ==
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Thomas : for anything
+> william : wheat?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : i will do it
+> Thomas : thaks
+
+Reference  : Continuation
+Prediction : Contrast
+> william : i will do it
+> william : *ADDTIME*
+
+== pilot21_07 ==
+
+Reference  : Elaboration
+Prediction : Alternation
+> Charlotte : what would you trade it for?
+> Charlotte :  clay or wood?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Katherine : ore?
+> Charlotte : dont have that!
+
+Reference  : Correction
+Prediction : Explanation
+> Josephine : Don't hav enay
+> Josephine : Have any...
+
+== s1-league2-game1_02 ==
+
+Reference  : Contrast
+Prediction : Comment
+> skinnylinny : No worries
+> skinnylinny : Gah, lost four resources because of the robber
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : sorry
+> skinnylinny : Not your fault :P
+
+Reference  : Correction
+Prediction : Comment
+> skinnylinny : And nobody's got wood yet - watch the top!
+> sabercat : I got it in the beginning...
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> IG : trading 1 ore for one sheep?
+> sabercat : hmm..
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> IG : trading 1 ore for one sheep?
+> sabercat : which are you offering?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> IG : ore
+> skinnylinny : I could do that
+
+Reference  : Acknowledgement
+Prediction : Comment
+> skinnylinny : I could do that
+> IG : awesome, cheers
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : awesome, cheers
+> skinnylinny : Excellent!
+
+== pilot14_10 ==
+
+Reference  : Continuation
+Prediction : Result
+> Ash : no thanks
+> Ash : sheep?
+
+Reference  : Question-answer_pair
+Prediction : Parallel
+> Ash : sheep?
+> J : me too
+
+Reference  : Correction
+Prediction : Explanation
+> Ash : no
+> Ash : i want them too
+
+Reference  : Result
+Prediction : Explanation
+> mmatrtajova : but i am trading...
+> mmatrtajova : move the rubber from sheep
+
+Reference  : Correction
+Prediction : Comment
+> mmatrtajova : move the rubber from sheep
+> mmatrtajova : robber
+
+Reference  : Clarification_question
+Prediction : Continuation
+> mmatrtajova : move the rubber from sheep
+> mmatrtajova : why put it on sheep?
+
+Reference  : Elaboration
+Prediction : Explanation
+> J : i have no idea where is better,
+> J : it's literally at random where i put it
+
+Reference  : Continuation
+Prediction : Comment
+> mmatrtajova : well
+> mmatrtajova : its no good!
+
+Reference  : Parallel
+Prediction : Comment
+> Ash : lol
+> J : lol
+
+== pilot04_11 ==
+
+Reference  : Comment
+Prediction : Elaboration
+> Nancy : sure
+> Nancy : hahaha
+
+Reference  : Comment
+Prediction : Continuation
+> skinnylinny : Ah ok,
+> skinnylinny : never mind
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> skinnylinny : Chameleon:
+> skinnylinny : Want to trade a sheep for a clay?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Chameleon : no sheep left
+> skinnylinny : Ah
+
+Reference  : Question-answer_pair
+Prediction : Result
+> skinnylinny : Shall we?
+> skinnylinny : Me too
+
+== s1-league2-game2_02 ==
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> sabercat : can anyone trade wood?
+> sabercat : for ore?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> IG : need ore?
+> sabercat : am I still connected?
+
+Reference  : Q-Elab
+Prediction : Alternation
+> amycharl : nah
+> IG : or clay?
+
+Reference  : Continuation
+Prediction : Question-answer_pair
+> sabercat : am I still connected?
+> amycharl : i dont know why it isnt rolling
+
+Reference  : Comment
+Prediction : Acknowledgement
+> amycharl : i dont know why it isnt rolling
+> IG : hmm
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> amycharl : i dont know why it isnt rolling
+> dmm : is there anything else the client is wanting you to do 
+
+Reference  : Narration
+Prediction : Conditional
+> dmm : is there anything else the client is wanting you to do 
+> dmm : before you can roll, maybe?
+
+== pilot20_06 ==
+
+Reference  : Result
+Prediction : Acknowledgement
+> Kittles : i got wheat
+> Rainbow : i cn giv sheep
+
+Reference  : Result
+Prediction : Comment
+> ariachiba : Seeing as everything I have has been stolen,
+> ariachiba : no.
+
+Reference  : Continuation
+Prediction : Elaboration
+> ariachiba : anyone wants
+> ariachiba : to give wood for wheat?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Kittles : i will
+> ariachiba : Cool.
+
+Reference  : Continuation
+Prediction : Conditional
+> inca : you shuold see coloured boxes
+> inca : you can tick
+
+Reference  : Continuation
+Prediction : Comment
+> ariachiba : Ah ha!
+> ariachiba : Thanks.
+
+== pilot21_05 ==
+
+Reference  : Clarification_question
+Prediction : Elaboration
+> Charlotte : same!
+> Charlotte :  can you not see your own?
+
+Reference  : Continuation
+Prediction : Parallel
+> Charlotte : same!
+> Katherine : anyone selling ore or clay
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Katherine : hey whaqt is trade with bank or port?
+> Amanda : you can swap 4 of one type of card for 1 of your choice
+
+Reference  : Comment
+Prediction : Continuation
+> Amanda : with 10 cards you have to discard.
+> Amanda : how annoying.
+
+Reference  : Elaboration
+Prediction : Continuation
+> Charlotte : still wanting clay??
+> Charlotte :  Will swap for ore?
+
+Reference  : Explanation
+Prediction : Comment
+> Amanda : nope,
+> Amanda : serious lack of clay.
+
+== pilot03_10 ==
+
+Reference  : Comment
+Prediction : Elaboration
+> Cardlinger : the ore is mining at last
+> Cardlinger : you've hit a seam
+
+Reference  : Elaboration
+Prediction : Contrast
+> Cardlinger : no,
+> Cardlinger : i have a robber sitting in my wheat field
+
+Reference  : Q-Elab
+Prediction : Correction
+> Joel : haha
+> Joel : no one has wheat?
+
+Reference  : Clarification_question
+Prediction : Comment
+> Joel : no one has wheat?
+> Joel : darn
+
+Reference  : Comment
+Prediction : Contrast
+> Euan : Set fire to the robber!
+> Cardlinger : with my GM fire-proof grain that's a fine idea
+
+Reference  : Alternation
+Prediction : Result
+> Cardlinger : would offer 1 wood for 1 sheep /
+> Cardlinger : 1 wood for 1 wheat
+
+Reference  : Comment
+Prediction : Result
+> Euan : Not just now
+> Cardlinger : or 1 ore for 1 sheep/wheat?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Cardlinger : snake eyessss
+> Euan : Yep
+
+Reference  : Parallel
+Prediction : Elaboration
+> Euan : Yep
+> Euan : Anyone got a sheep?
+
+Reference  : Background
+Prediction : Result
+> Cardlinger : none
+> Joel : i have 10min left
+
+Reference  : Q-Elab
+Prediction : Continuation
+> Euan : Meh.
+> Euan : Any wood for an ore?
+
+Reference  : Contrast
+Prediction : Explanation
+> Joel : nothing
+> Cardlinger : i can do that
+
+Reference  : Explanation
+Prediction : Result
+> Euan : Ooh!
+> Euan : Clay
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Euan : I like this "getting resources" business.
+> Cardlinger : :(
+
+== pilot02_03 ==
+
+Reference  : Correction
+Prediction : Contrast
+> william : i can give you wood!
+> Cat : I can echange ore for wood though
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Cat : I can echange ore for wood though
+> william : give or want ore?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Cat : I can echange ore for wood though
+> william : i'm in
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> william : give or want ore?
+> Cat : give ore, receive wood
+
+Reference  : Acknowledgement
+Prediction : Q-Elab
+> Cat : give ore, receive wood
+> william : i'm in
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : i'm in
+> Cat : great
+
+Reference  : Correction
+Prediction : Comment
+> william : i'm in
+> william : oh, sorry. 
+
+Reference  : Explanation
+Prediction : Conditional
+> william : oh, sorry. 
+> william : i thought you were talking about yourself when you said give ore
+
+Reference  : Elaboration
+Prediction : Comment
+> william : i thought you were talking about yourself when you said give ore
+> william : ? i  am confused
+
+Reference  : Explanation
+Prediction : Comment
+> william : ok. 
+> william : i just got the speech bubble message wrong...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : done
+> Cat : thanks
+
+Reference  : Clarification_question
+Prediction : Continuation
+> Cat : where do i press?
+> william : to build?
+
+Reference  : Conditional
+Prediction : Elaboration
+> Thomas : if you have 1 wood, 1 clay, 
+> Thomas : it is at the bottom of the screen
+
+Reference  : Elaboration
+Prediction : Alternation
+> Cat : anyone wants an ore?
+> Cat : for a wood
+
+== s1-league1-game3_06 ==
+
+Reference  : Q-Elab
+Prediction : Result
+> tomas.kostan : i do
+> tomas.kostan : what can you offer for a wood?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : sound good
+> gotwood4sheep : kerching!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : sound good
+> william : ah, finally
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : nooooooo 5!
+> gotwood4sheep : nooooooooo
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : nooooooooo
+> gotwood4sheep : nooooooo!
+
+Reference  : Elaboration
+Prediction : Contrast
+> gotwood4sheep : just going afk
+> gotwood4sheep : but have no trades to offer this turn,
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : just going afk
+> gotwood4sheep : back in 2 mins tops!
+
+Reference  : Explanation
+Prediction : Comment
+> gotwood4sheep : afraid I'm a bit fallow
+> gotwood4sheep : but have no trades to offer this turn,
+
+Reference  : Continuation
+Prediction : Q-Elab
+> tomas.kostan : yes yes yes
+> tomas.kostan : what do you want?
+
+Reference  : Continuation
+Prediction : Elaboration
+> william : yes
+> william : i have ore for you
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : what do you want?
+> ljaybrad123 : ore and sheep?
+
+Reference  : Question-answer_pair
+Prediction : Clarification_question
+> william : i have ore for you
+> ljaybrad123 : ore and sheep?
+
+Reference  : Result
+Prediction : Q-Elab
+> tomas.kostan : ok
+> ljaybrad123 : 1 clay?
+
+Reference  : Correction
+Prediction : Q-Elab
+> ljaybrad123 : 1 clay?
+> tomas.kostan : 2 clay? :)
+
+Reference  : Result
+Prediction : Contrast
+> ljaybrad123 : that leave me not enough to build with :(
+> tomas.kostan : ok one will do
+
+== pilot02_07 ==
+
+Reference  : Elaboration
+Prediction : Correction
+> Cat : i can exchange wood
+> Cat : one wood though
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Cat : I have one wood to exchange
+> Cat : any takers?
+
+Reference  : Parallel
+Prediction : Explanation
+> william : have none
+> Cat : no sheep
+
+== pilot03_06 ==
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Joel : these 7s arent helping
+> Euan : Yep.
+
+Reference  : Elaboration
+Prediction : Explanation
+> Euan : Yep.
+> Euan : Killing our resource production.
+
+Reference  : Q-Elab
+Prediction : Alternation
+> Joel : does anyone have clay?
+> Joel : or sheep?
+
+Reference  : Parallel
+Prediction : Question-answer_pair
+> Cardlinger : nope,
+> jon : no
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Joel : or sheep?
+> Euan : I've traded all my mutton
+
+Reference  : Elaboration
+Prediction : Contrast
+> Euan : Woo!
+> Cardlinger : now you have sheep, joel
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : now you have sheep, joel
+> Joel : i feel so loved
+
+Reference  : Contrast
+Prediction : Explanation
+> Joel : i feel so loved
+> Joel : don't take that the wrong way
+
+Reference  : Result
+Prediction : Continuation
+> Euan : Anyone have an ore for a wheat?
+> Euan : Anyone got clay?
+
+Reference  : Parallel
+Prediction : Question-answer_pair
+> Euan : Anyone got clay?
+> Joel : i want clay
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Joel : no
+> Euan : Oh well...
+
+Reference  : Comment
+Prediction : Result
+> Joel : i want clay
+> Cardlinger : we all do!
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Cardlinger : we all do!
+> Euan : Oh well...
+
+Reference  : Elaboration
+Prediction : Parallel
+> jon : yeah
+> jon : me too
+
+Reference  : Acknowledgement
+Prediction : Comment
+> jon : yeah
+> Euan : Oh well...
+
+Reference  : Explanation
+Prediction : Elaboration
+> Cardlinger : lol
+> Cardlinger : now i start rolling bad
+
+Reference  : Parallel
+Prediction : Comment
+> Joel : that hurt
+> Euan : oocher!
+
+Reference  : Elaboration
+Prediction : Explanation
+> Euan : yeah,
+> Euan : noone has clay
+
+== pilot01_02 ==
+
+Reference  : Elaboration
+Prediction : Background
+> Tomm : Not
+> Tomm : until people start rolling 8's :P
+
+Reference  : Background
+Prediction : Explanation
+> Dave : does the robber do anything
+> Dave : after you put him 
+
+Reference  : Conditional
+Prediction : Elaboration
+> Dave : will you not get it or something?
+> Dave : like, if that resource comes up
+
+Reference  : Conditional
+Prediction : Comment
+> Tomm : When he is in a hex
+> Tomm : you can't get resources
+
+Reference  : Explanation
+Prediction : Elaboration
+> Tomm : yeah,
+> Tomm : so 8 won't get you wheat now
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> Tomm : I wasn't expected to roll 7 to be honest :p
+> rennoc1 : any got any wood they can trade
+
+Reference  : Narration
+Prediction : Explanation
+> Tomm : I played the card,
+> Tomm : moved the robber
+
+Reference  : Narration
+Prediction : Continuation
+> Tomm : moved the robber
+> Tomm : and THEN rolled a 7 as well
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Tomm : so I moved him twice
+> Dave : aah
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Dave : :D
+> Tomm : Oh...
+
+Reference  : Result
+Prediction : Q-Elab
+> Tomm : well that's unkind
+> Tomm : Do you get a random one of my resources then?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Dave : sorry
+> Tomm : It's okay,
+
+Reference  : Elaboration
+Prediction : Continuation
+> Tomm : It's okay,
+> Tomm : name of the game and all that.
+
+Reference  : Conditional
+Prediction : Elaboration
+> Tomm : If someone rolls a 7,
+> Tomm : I think, you lose cards
+
+Reference  : Clarification_question
+Prediction : Elaboration
+> rennoc1 : got some clay.
+> rennoc1 : how many do you need
+
+Reference  : Elaboration
+Prediction : Explanation
+> Dave : Yeah,
+> Dave : that's the robber isn'tit
+
+Reference  : Continuation
+Prediction : Q-Elab
+> Tomm : Well, what would you like for clay
+> Tomm : and/or how many do you want to give?
+
+Reference  : Background
+Prediction : Elaboration
+> Dave : While we're talking about trading,
+> Dave : does anyone have sheep
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> Dave : Need ore or wheat?
+> Tomm : Sheep for an ore and sheep for a clay?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Tomm : Sheep for an ore and sheep for a clay?
+> Dave : sure
+
+Reference  : Continuation
+Prediction : Clarification_question
+> Dave : sure
+> Tomm : soo... how do we do this?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Tomm : soo... how do we do this?
+> Dave : ok,
+
+Reference  : Narration
+Prediction : Contrast
+> Dave : click register a trade
+> Dave : then I'm not sure
+
+Reference  : Result
+Prediction : Elaboration
+> Tomm : so I give a sheep to red,
+> Tomm : I get an ore, right?
+
+Reference  : Continuation
+Prediction : Comment
+> Dave : it did, yeah
+> Dave : thanks
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> Dave : Is there a reason I can't buy a settlement now?
+> Dave : I have the resources
+
+Reference  : Continuation
+Prediction : Clarification_question
+> rennoc1 : ok
+> rennoc1 : how do I accept a trade
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Dave : also you tried to trade with me there tomm, not rennoc
+> rennoc1 : thanks
+
+Reference  : Explanation
+Prediction : Continuation
+> Tomm : Oh, you don't have anywhere you can BUILD a settlement
+> Tomm : they have to be two sides away from a settlement, connected by road
+
+Reference  : Comment
+Prediction : Continuation
+> Dave : right,
+> Dave : thanks
+
+== s1-league2-game2_01 ==
+
+Reference  : Clarification_question
+Prediction : Continuation
+> dmm : hello!
+> dmm : are we still waiting for one more?
+
+Reference  : Continuation
+Prediction : Comment
+> amycharl : i made it
+> amycharl : i assume so
+
+Reference  : Result
+Prediction : Elaboration
+> sabercat : yes, the two guys from yesterday said they could
+> sabercat : (so I guess one of them will come
+
+Reference  : Continuation
+Prediction : Comment
+> amycharl : at 9 tho, not half 9
+> amycharl : ?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> amycharl : well its only just 9
+> dmm : we could at least wait a little longer
+
+Reference  : Elaboration
+Prediction : Comment
+> amycharl : well its only just 9
+> amycharl : we could wait a few mins
+
+Reference  : Acknowledgement
+Prediction : Result
+> dmm : we could at least wait a little longer
+> amycharl : we could wait a few mins
+
+Reference  : Explanation
+Prediction : Result
+> dmm : we could at least wait a little longer
+> dmm : since 9:30 was the original time
+
+Reference  : Explanation
+Prediction : Comment
+> amycharl : we could wait a few mins
+> dmm : since 9:30 was the original time
+
+Reference  : Continuation
+Prediction : Narration
+> amycharl : we could wait a few mins
+> amycharl : ill send a quick email
+
+Reference  : Continuation
+Prediction : Comment
+> IG : Hello all
+> amycharl : yey
+
+Reference  : Result
+Prediction : Explanation
+> amycharl : look 4 people, 
+> amycharl : it finally happened
+
+Reference  : Comment
+Prediction : Acknowledgement
+> amycharl : nope
+> dmm : oh well!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> sabercat : nope
+> dmm : oh well!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> IG : sorry
+> dmm : oh well!
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> amycharl : damn you
+> IG : haha sorry
+
+Reference  : Q-Elab
+Prediction : Continuation
+> amycharl : you got wheat?
+> amycharl : give me two for a wood?
+
+Reference  : Q-Elab
+Prediction : Result
+> IG : yes
+> amycharl : give me two for a wood?
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> amycharl : give me two for a wood?
+> sabercat : I will give you wheat and ore for wood
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> amycharl : give me two for a wood?
+> amycharl : coz you stole my sheep
+
+Reference  : Background
+Prediction : Result
+> sabercat : I will give you wheat and ore for wood
+> sabercat : when its my turn...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : harsh but alright
+> IG : cheers
+
+== pilot14_05 ==
+
+Reference  : Contrast
+Prediction : Continuation
+> mmatrtajova : then trade:)
+> Ash : i think you are trading with j
+
+Reference  : Explanation
+Prediction : Comment
+> mmatrtajova : nope,
+> mmatrtajova : taking IT... :)
+
+== pilot20_09 ==
+
+Reference  : Explanation
+Prediction : Elaboration
+> Rainbow : y cnt i buy a stlmnt?
+> Rainbow : i hv evrythng
+
+Reference  : Comment
+Prediction : Q-Elab
+> ariachiba : Anyone willing to give ore for sheep?
+> Rainbow : hw long du thnk ths game will last?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Kittles : ok
+> ariachiba : Thx!
+
+Reference  : Clarification_question
+Prediction : Question-answer_pair
+> inca : Is it stuck again?
+> Rainbow : we all do tht?
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Rainbow : we all do tht?
+> ariachiba : ADDTIME
+
+Reference  : Continuation
+Prediction : Comment
+> ariachiba : ADDTIME
+> Rainbow : ADDTIME
+
+Reference  : Explanation
+Prediction : Comment
+> Rainbow : omg!
+> Rainbow : i hv to b sumwher at 630
+
+Reference  : Correction
+Prediction : Result
+> Rainbow : i hv to b sumwher at 630
+> inca : We'll be done before then surely
+
+Reference  : Acknowledgement
+Prediction : Comment
+> inca : We'll be done before then surely
+> Rainbow : k
+
+Reference  : Comment
+Prediction : Continuation
+> Rainbow : k
+> Rainbow : i hope so
+
+Reference  : Comment
+Prediction : Explanation
+> ariachiba : Yeah,
+> ariachiba : I hope so!
+
+Reference  : Background
+Prediction : Narration
+> inca : How did we fix it last time
+> inca : when the dice wouldn't roll?
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Rainbow : markus?
+> ariachiba : Kittles, are you there?
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> ariachiba : Kittles, are you there?
+> inca : Kittles isn't responding
+
+== pilot02_09 ==
+
+Reference  : Continuation
+Prediction : Elaboration
+> Cat : i need clay
+> Cat : I can give wheat
+
+Reference  : Explanation
+Prediction : Result
+> william : nope
+> william : there is just no market for sheep...
+
+Reference  : Explanation
+Prediction : Result
+> Thomas : n
+> william : there is just no market for sheep...
+
+== s1-league1-game1_04 ==
+
+Reference  : Continuation
+Prediction : Q-Elab
+> gotwood4sheep : i have wood, 
+> gotwood4sheep : what you got?
+
+Reference  : Alternation
+Prediction : Q-Elab
+> tomas.kostan : sheep?
+> tomas.kostan : wheat?
+
+Reference  : Result
+Prediction : Continuation
+> gotwood4sheep : i'll take your first offer
+> gotwood4sheep : i have literally got wood for sheep
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : i'll take your first offer
+> tomas.kostan : thx!
+
+Reference  : Result
+Prediction : Elaboration
+> gotwood4sheep : i have literally got wood for sheep
+> gotwood4sheep : joy!
+
+Reference  : Result
+Prediction : Contrast
+> gotwood4sheep : i have literally got wood for sheep
+> gotwood4sheep : i will never tire of that
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : what about an ore?
+> gotwood4sheep : again, what do you have? 
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : again, what do you have? 
+> gotwood4sheep :  I'm not as sold on this trade 
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> gotwood4sheep : again, what do you have? 
+> tomas.kostan : sheep or wheat?
+
+Reference  : Correction
+Prediction : Q-Elab
+> tomas.kostan : sheep or wheat?
+> tomas.kostan : sheep or wheat + wood?
+
+Reference  : Result
+Prediction : Q-Elab
+> gotwood4sheep : one for one doesn't really work for me, sorry
+> tomas.kostan : sheep or wheat + wood?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> tomas.kostan : sheep or wheat + wood?
+> gotwood4sheep : i didn't need the wood i just gave you, alas
+
+Reference  : Result
+Prediction : Comment
+> gotwood4sheep : i didn't need the wood i just gave you, alas
+> gotwood4sheep : think i'll pass :)
+
+Reference  : Result
+Prediction : Comment
+> tomas.kostan : not again william :D
+> tomas.kostan : just one turn. just one :D
+
+== s1-league1-game3_15 ==
+
+Reference  : Parallel
+Prediction : Question-answer_pair
+> tomas.kostan : anyone got some ore?
+> gotwood4sheep : i was hoping for ore
+
+Reference  : Elaboration
+Prediction : Contrast
+> gotwood4sheep : i was hoping for ore
+> gotwood4sheep : can offer wheat
+
+Reference  : Elaboration
+Prediction : Parallel
+> ljaybrad123 : yep
+> gotwood4sheep : can offer wheat
+
+Reference  : Alternation
+Prediction : Q-Elab
+> gotwood4sheep : can offer wheat
+> gotwood4sheep : 1 wood 2 wheat?
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> ljaybrad123 : for one wood?
+> gotwood4sheep : 1 wood 2 wheat?
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> ljaybrad123 : for one wood?
+> william : dont do it
+
+Reference  : Alternation
+Prediction : Q-Elab
+> gotwood4sheep : 1 wood 2 wheat?
+> gotwood4sheep : 1 wood 4 wheat?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : need ore for wheat
+> ljaybrad123 : no
+
+Reference  : Result
+Prediction : Q-Elab
+> tomas.kostan : need ore for wheat
+> gotwood4sheep : 1 wood 4 wheat?
+
+Reference  : Comment
+Prediction : Contrast
+> tomas.kostan : sry don't want to end this game :)
+> ljaybrad123 : im confused
+
+Reference  : Continuation
+Prediction : Comment
+> tomas.kostan : sry don't want to end this game :)
+> gotwood4sheep : gg all
+
+Reference  : Acknowledgement
+Prediction : Comment
+> gotwood4sheep : gg all
+> ljaybrad123 : well done
+
+Reference  : Continuation
+Prediction : Elaboration
+> ljaybrad123 : well done
+> ljaybrad123 : taht was close
+
+Reference  : Comment
+Prediction : Background
+> ljaybrad123 : well done
+> tomas.kostan : congrats :)
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : taht was close
+> gotwood4sheep : ty close game.
+
+Reference  : Continuation
+Prediction : Explanation
+> ljaybrad123 : taht was close
+> ljaybrad123 : ill win next time :D
+
+Reference  : Background
+Prediction : Comment
+> gotwood4sheep : ty close game.
+> gotwood4sheep : battling those roads :D
+
+Reference  : Result
+Prediction : Explanation
+> gotwood4sheep : it's been on 30mins
+> gotwood4sheep : won't make it in time :D
+
+Reference  : Question-answer_pair
+Prediction : Result
+> william : ^^ they'll let you in won't they
+> gotwood4sheep : nah, I'll skip it. 
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : I'll speak to Markus about this 5th person who doesn't email
+> william : thx
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : so we can get some games on next week maybe
+> william : see you next week then
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : see you next week then
+> gotwood4sheep : for sure.
+
+Reference  : Comment
+Prediction : Background
+> gotwood4sheep : thanks all, was fun!
+> gotwood4sheep : well played lj
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> tomas.kostan : good game :)
+> tomas.kostan : see you all next week
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : good game :)
+> gotwood4sheep : well played lj
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : well played lj
+> gotwood4sheep : close run
+
+Reference  : Continuation
+Prediction : Explanation
+> gotwood4sheep : am off now -
+> gotwood4sheep : see you next week!!
+
+Reference  : Result
+Prediction : Acknowledgement
+> ljaybrad123 : this is a long game guys....
+> gotwood4sheep : bye bye steve zissou :(
+
+Reference  : Background
+Prediction : Comment
+> gotwood4sheep : sorry I said no clay,
+> gotwood4sheep : I was yupping lj
+
+== pilot02_04 ==
+
+Reference  : Parallel
+Prediction : Continuation
+> william : no
+> william : n
+
+Reference  : Continuation
+Prediction : Clarification_question
+> Cat : is the robber robbing me?
+> Cat : can I move him?
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> Cat : can I move him?
+> Thomas : if you roll a 7
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> william : wheat or wood
+> william : which?
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Thomas : sure
+> william : which?
+
+Reference  : Continuation
+Prediction : Comment
+> Thomas : sorry 
+> Thomas : retry
+
+Reference  : Explanation
+Prediction : Elaboration
+> Thomas : retry
+> Thomas : couldn't see it
+
+== pilot20_01 ==
+
+Reference  : Narration
+Prediction : Background
+> inca : When everyone has sat down
+> inca : Press "sit down" though
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> inca : Press "sit down" though
+> Rainbow : kittles
+
+Reference  : Elaboration
+Prediction : Explanation
+> inca : Press "sit down" though
+> inca : Press the "sit here" button in the lower right of the screen
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> inca : Are you here Kittles?
+> Rainbow : ?
+
+Reference  : Conditional
+Prediction : Elaboration
+> inca : if I started too soon
+> inca : Apologies
+
+Reference  : Elaboration
+Prediction : Continuation
+> ariachiba : It's all,
+> ariachiba : good
+
+Reference  : Narration
+Prediction : Continuation
+> Rainbow : ok
+> Rainbow : so anybody wana trade sumthng?
+
+Reference  : Narration
+Prediction : Result
+> Kittles : ok
+> Rainbow : so anybody wana trade sumthng?
+
+Reference  : Elaboration
+Prediction : Comment
+> Kittles : i dont know
+> Kittles : what i have
+
+Reference  : Elaboration
+Prediction : Continuation
+> inca : It says
+> inca : what you have in your portion of the screen
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> ariachiba : I can give you sheep in exchange for wood...
+> Rainbow : i dnt have wood
+
+Reference  : Contrast
+Prediction : Result
+> Rainbow : i dnt have wood
+> inca : I have wood
+
+Reference  : Parallel
+Prediction : Elaboration
+> Rainbow : i have clay
+> Rainbow : sheep
+
+Reference  : Explanation
+Prediction : Elaboration
+> Kittles : sorry,
+> Kittles : wood for clay
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Rainbow : ok
+> Rainbow : so kittles ile giv u clay?
+
+Reference  : Result
+Prediction : Continuation
+> Kittles : please
+> Kittles : and ill give you wood
+
+Reference  : Result
+Prediction : Continuation
+> Rainbow : ok
+> Rainbow : ive ticked it
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Rainbow : ive ticked it
+> inca : haha
+
+Reference  : Narration
+Prediction : Clarification_question
+> Rainbow : ugh
+> Rainbow : now?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Rainbow : now?
+> Kittles : cool
+
+== pilot02_01 ==
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : ok
+> Thomas : that's ok, I not on a schedule
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Thomas : *I'm
+> william : nope
+
+Reference  : Narration
+Prediction : Elaboration
+> Thomas : first
+> Thomas : u roll later
+
+== pilot03_09 ==
+
+Reference  : Elaboration
+Prediction : Explanation
+> Cardlinger : oh joel,
+> Cardlinger : you imp
+
+Reference  : Comment
+Prediction : Continuation
+> Euan : Anyone got clay or wood for wheat?
+> Euan : Hm.
+
+Reference  : Explanation
+Prediction : Comment
+> Cardlinger : i'm fresh out again
+> Cardlinger : joel nicked my wood tho
+
+Reference  : Result
+Prediction : Continuation
+> Euan : ~looks at j and j~
+> jon : I can do that -
+
+Reference  : Q-Elab
+Prediction : Continuation
+> jon : I can do that -
+> jon : 1 for 1?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> jon : 1 for 1?
+> Euan : Sure.
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Euan : Or 2 wheat for 1 of each
+> jon : Just got wood for wheat..
+
+Reference  : Elaboration
+Prediction : Explanation
+> Joel : strange
+> Joel : as many cities as i have,
+
+Reference  : Contrast
+Prediction : Comment
+> Joel : as many cities as i have,
+> Joel : i havent been generating manycards
+
+Reference  : Elaboration
+Prediction : Comment
+> Cardlinger : i got nowt
+> Cardlinger : literally
+
+Reference  : Comment
+Prediction : Contrast
+> jon : none
+> jon : oops
+
+Reference  : Continuation
+Prediction : Comment
+> Euan : That robber needs to go back to the desert.
+> Euan : ~attempts to roll a 7~
+
+Reference  : Result
+Prediction : Continuation
+> Cardlinger : i put him there once
+> Cardlinger : i did my bit
+
+Reference  : Explanation
+Prediction : Result
+> Euan : fraid
+> Euan : not
+
+Reference  : Continuation
+Prediction : Comment
+> Cardlinger : sorry
+> Cardlinger : no ore
+
+Reference  : Comment
+Prediction : Elaboration
+> Cardlinger : insane,
+> Cardlinger : lol
+
+Reference  : Elaboration
+Prediction : Continuation
+> Cardlinger : insane,
+> Cardlinger : 11 11
+
+Reference  : Continuation
+Prediction : Elaboration
+> Cardlinger : insane,
+> Cardlinger : outrage
+
+Reference  : Elaboration
+Prediction : Continuation
+> jon : ok
+> jon : I know it's my fault
+
+Reference  : Result
+Prediction : Explanation
+> Cardlinger : joel and euan have marked you
+> Cardlinger : no birthday card for you!!
+
+Reference  : Continuation
+Prediction : Clarification_question
+> Euan : I...don't think
+> Euan : I can actually do anything this turn.
+
+== s1-league1-game2_07 ==
+
+Reference  : Parallel
+Prediction : Q-Elab
+> ljaybrad123 : anyone have wheat for ore or sheep?
+> ljaybrad123 : anyone have another wheat?
+
+Reference  : Q-Elab
+Prediction : Result
+> william : i need ore yes
+> ljaybrad123 : anyone have another wheat?
+
+Reference  : Q-Elab
+Prediction : Result
+> tomas.kostan : no
+> ljaybrad123 : anyone have another wheat?
+
+Reference  : Alternation
+Prediction : Q-Elab
+> ljaybrad123 : anyone have another wheat?
+> ljaybrad123 : clay?
+
+Reference  : Explanation
+Prediction : Comment
+> ljaybrad123 : yes, sorry
+> ljaybrad123 : misread colours at bottom
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> ljaybrad123 : yes, sorry
+> tomas.kostan : i do not have any
+
+Reference  : Q-Elab
+Prediction : Result
+> tomas.kostan : i do not have any
+> ljaybrad123 : anyone have sheep for ore?
+
+Reference  : Comment
+Prediction : Continuation
+> william : ^^ sry. lj will win soon
+> ljaybrad123 : *hugs*
+
+Reference  : Comment
+Prediction : Continuation
+> william : ^^ sry. lj will win soon
+> tomas.kostan : yes lj you deserve it today :)
+
+Reference  : Continuation
+Prediction : Contrast
+> ljaybrad123 : thankyou :$
+> ljaybrad123 : I feel kinda bad though
+
+Reference  : Continuation
+Prediction : Question-answer_pair
+> tomas.kostan : for what?
+> tomas.kostan : my only chance was the wood port and i lost it
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> ljaybrad123 : anyone have clay for sheep or ore?
+> tomas.kostan : only for wheat
+
+Reference  : Continuation
+Prediction : Result
+> ljaybrad123 : sorry i need wheat
+> ljaybrad123 : can do one sheep one ore?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : congrats!!!
+> william : good game!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : good game!
+> ljaybrad123 : nice game guys
+
+== pilot01_08 ==
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> rennoc1 : so dave, what did you have to trade for clay?
+> Tomm : I covert rennoc's clay.
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> rennoc1 : so dave, what did you have to trade for clay?
+> Dave : wood?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> rennoc1 : so dave, what did you have to trade for clay?
+> Dave : clay rennoc
+
+Reference  : Q-Elab
+Prediction : Result
+> Tomm : I covert rennoc's clay.
+> Tomm : I could offer things?
+
+Reference  : Elaboration
+Prediction : Alternation
+> Tomm : I could offer things?
+> Tomm : Ore?
+
+Reference  : Parallel
+Prediction : Q-Elab
+> Dave : wood?
+> Tomm : Ore?
+
+Reference  : Question-answer_pair
+Prediction : Elaboration
+> Dave : clay rennoc
+> Dave : I have ore to trade (or wheat, always wheat)
+
+Reference  : Continuation
+Prediction : Comment
+> rennoc1 : tomm, do you have ore?
+> Tomm : 8!
+
+Reference  : Continuation
+Prediction : Comment
+> Tomm : 8!
+> Tomm : 8!
+
+Reference  : Comment
+Prediction : Continuation
+> Tomm : Not 8.
+> Dave : any wood around?
+
+Reference  : Q-Elab
+Prediction : Conditional
+> rennoc1 : if only...
+> rennoc1 : I have clay?
+
+Reference  : Clarification_question
+Prediction : Continuation
+> Tomm : Sorry, back
+> Tomm : what did I miss?
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Tomm : yeah, we'll see
+> Tomm : Right, anyway...
+
+Reference  : Continuation
+Prediction : Explanation
+> Tomm : Right, anyway...
+> Tomm : so I have bugger all... annnnd... yes.
+
+== pilot04_02 ==
+
+Reference  : Explanation
+Prediction : Contrast
+> Nancy : sorry
+> Nancy : dont have wood
+
+Reference  : Continuation
+Prediction : Contrast
+> Chameleon : sorry that took so long...
+> Nancy : either of you want to trade ore for clay?
+
+== pilot04_06 ==
+
+Reference  : Result
+Prediction : Continuation
+> skinnylinny : I have too many wheat...
+> skinnylinny : Chameleon, do you have any ore going spare?
+
+Reference  : Q-Elab
+Prediction : Continuation
+> Nancy : yeah
+> skinnylinny : What do you need?
+
+Reference  : Result
+Prediction : Question-answer_pair
+> Nancy : wood
+> skinnylinny : wood I can offer
+
+Reference  : Continuation
+Prediction : Clarification_question
+> skinnylinny : You're the only person
+> skinnylinny : who is on clay tiles
+
+Reference  : Contrast
+Prediction : Continuation
+> Nancy : but im not getting any
+> Nancy : :0
+
+Reference  : Correction
+Prediction : Comment
+> Nancy : :0
+> Nancy : :)
+
+Reference  : Continuation
+Prediction : Comment
+> Chameleon : not now,
+> Chameleon : no
+
+== s1-league2-game1_08 ==
+
+Reference  : Acknowledgement
+Prediction : Comment
+> skinnylinny : I don't have wood
+> IG : haha i see
+
+Reference  : Comment
+Prediction : Continuation
+> skinnylinny : I don't like this die
+> sabercat : :D well... its biased
+
+Reference  : Contrast
+Prediction : Acknowledgement
+> skinnylinny : Was about to offer IG a wood for an ore
+> skinnylinny : Never mind
+
+Reference  : Correction
+Prediction : Clarification_question
+> IG : two ores for a wood from my end...
+> skinnylinny : How about an ore and a sheep for a wood?
+
+== pilot02_06 ==
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : on the arrow
+> Cat : ok, 
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : yup
+> Cat : ooops, 
+
+Reference  : Continuation
+Prediction : Clarification_question
+> Cat : sorry, 
+> Cat : which things?
+
+Reference  : Continuation
+Prediction : Parallel
+> william : no every other number just produces ressources
+> Thomas : robber is the only exception
+
+Reference  : Result
+Prediction : Contrast
+> Cat : ok, 
+> Cat : so i don't need to play special actions
+
+Reference  : Continuation
+Prediction : Result
+> Cat : so i don't need to play special actions
+> Cat : anyone would like to receive a wood for an ore?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Cat : so i don't need to play special actions
+> william : no,
+
+Reference  : Elaboration
+Prediction : Continuation
+> william : no,
+> william : dev.  cards are the only other special action
+
+Reference  : Continuation
+Prediction : Conditional
+> william : i will only take two wood, 
+> william : and give 1 ore
+
+== s1-league1-game5_02 ==
+
+Reference  : Result
+Prediction : Elaboration
+> gotwood4sheep : lol another 10
+> gotwood4sheep : another 4 clay
+
+Reference  : Comment
+Prediction : Clarification_question
+> gotwood4sheep : another 4 clay
+> william : clay clay clay
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : what a surprise,
+> gotwood4sheep : i stole a clay
+
+Reference  : Explanation
+Prediction : Contrast
+> gotwood4sheep : there will be lots of clay this game i think ;)
+> gotwood4sheep : that's 4 in one roll!!
+
+Reference  : Correction
+Prediction : Comment
+> gotwood4sheep : you hit thr ground running
+> gotwood4sheep : the*
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> gotwood4sheep : anyone have a sheep they would part with?
+> ljaybrad123 : 9 rescourse....
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> ljaybrad123 : 9 rescourse....
+> gotwood4sheep : and no baaaaaa
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : I hate that button!
+> gotwood4sheep : ouch
+
+== pilot01_09 ==
+
+Reference  : Comment
+Prediction : Q-Elab
+> rennoc1 : brb
+> Tomm : Fancy some tasty ore?
+
+Reference  : Continuation
+Prediction : Question-answer_pair
+> Tomm : For... you know... sculpture?
+> Dave : and pots
+
+Reference  : Contrast
+Prediction : Result
+> Tomm : Bah. Philistine :P
+> Dave : hey, the people of Davetopia make very nice pots
+
+Reference  : Result
+Prediction : Narration
+> Dave : ooh, wood
+> Dave : trade?
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Dave : ooh, wood
+> rennoc1 : ok im back
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Dave : we are a fickle people
+> Tomm : Where was all this decorum when we talked before?
+
+Reference  : Alternation
+Prediction : Result
+> Dave : wheat?:D
+> Dave : or clay
+
+Reference  : Question-answer_pair
+Prediction : Parallel
+> rennoc1 : anone have sheep
+> Tomm : Sadly still no sheep :(
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Tomm : Pfft, your pots are of no use.
+> Dave : wheat then?
+
+Reference  : Background
+Prediction : Question-answer_pair
+> Dave : wheat then?
+> Tomm : Talk to rennoc first,
+
+Reference  : Result
+Prediction : Acknowledgement
+> Tomm : Talk to rennoc first,
+> rennoc1 : yeah sure, could do with some wheat
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> rennoc1 : yeah sure, could do with some wheat
+> Dave : got wood?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> rennoc1 : nope
+> Dave : heh
+
+Reference  : Explanation
+Prediction : Comment
+> Dave : heh
+> Dave : that's all I'm interested in, sorry :(
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> Tomm : Dave - how many wheat would you give for 1 wood?
+> rennoc1 : i would give you 2 clay?
+
+Reference  : Correction
+Prediction : Acknowledgement
+> Dave : I will give you one whole wheat
+> Tomm : I must demand 2.
+
+Reference  : Explanation
+Prediction : Continuation
+> Tomm : I must demand 2.
+> Tomm : For the good of my people you understand
+
+Reference  : Correction
+Prediction : Comment
+> Dave : I must refuse, on principle
+> Dave : well, it depends
+
+Reference  : Continuation
+Prediction : Elaboration
+> Dave : well, it depends
+> Dave : we'll see
+
+Reference  : Conditional
+Prediction : Elaboration
+> Tomm : although I could offer you ore, Rennoc?
+> Tomm : depending on what you have
+
+Reference  : Conditional
+Prediction : Elaboration
+> Dave : also if anyone rolls a seven
+> Dave : I will never forgive them
+
+== pilot04_03 ==
+
+Reference  : Continuation
+Prediction : Comment
+> Chameleon : oh
+> Chameleon : well
+
+Reference  : Q-Elab
+Prediction : Narration
+> skinnylinny : Clay for sheep,
+> skinnylinny : anyone?
+
+== pilot21_11 ==
+
+Reference  : Comment
+Prediction : Elaboration
+> Josephine : Most point,
+> Josephine : Let's just make use of remaining 7 mins
+
+Reference  : Background
+Prediction : Comment
+> Josephine : no
+> Katherine : boob
+
+Reference  : Explanation
+Prediction : Elaboration
+> Katherine : boob
+> Katherine : (sorry that was my friend)
+
+Reference  : Conditional
+Prediction : Continuation
+> Josephine : It ends
+> Josephine : and whoever has most cards wins
+
+== s1-league1-game5_01 ==
+
+Reference  : Continuation
+Prediction : Narration
+> gotwood4sheep : buona sera
+> gotwood4sheep : let's hope william finds us well
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : brb
+> gotwood4sheep : np
+
+Reference  : Continuation
+Prediction : Comment
+> ljaybrad123 : back :)
+> gotwood4sheep : aloha
+
+Reference  : Explanation
+Prediction : Continuation
+> gotwood4sheep : still waiting on william
+> gotwood4sheep : who has disappeared
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : fewer 7s,
+> gotwood4sheep : more resources :D
+
+Reference  : Comment
+Prediction : Continuation
+> ljaybrad123 : you too
+> ljaybrad123 : hopefully
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : hopefully
+> gotwood4sheep : absolutely :D
+
+Reference  : Continuation
+Prediction : Correction
+> gotwood4sheep : hi william!
+> gotwood4sheep : sorry we were 15mins late
+
+Reference  : Explanation
+Prediction : Continuation
+> gotwood4sheep : sorry we were 15mins late
+> gotwood4sheep : tomas arrived about 7.25/7.30
+
+Reference  : Continuation
+Prediction : Result
+> gotwood4sheep : sorry we were 15mins late
+> gotwood4sheep : played 3 last night for Markus's other project!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : absolutely :D
+> ljaybrad123 : :
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> gotwood4sheep : absolutely :D
+> ljaybrad123 : yep
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> gotwood4sheep : gl all!
+> ljaybrad123 : gl
+
+Reference  : Elaboration
+Prediction : Comment
+> ljaybrad123 : tomas
+> gotwood4sheep : he was a sly devil, he had a hand full of victory point cards
+
+Reference  : Continuation
+Prediction : Correction
+> gotwood4sheep : deal
+> gotwood4sheep : thx
+
+== s1-league1-game5_06 ==
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : gent
+> gotwood4sheep : that's chivalry
+
+Reference  : Result
+Prediction : Continuation
+> ljaybrad123 : thankyou
+> gotwood4sheep : build!!
+
+Reference  : Acknowledgement
+Prediction : Comment
+> gotwood4sheep : build!!
+> ljaybrad123 : finally...
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> gotwood4sheep : kk
+> gotwood4sheep : ty ty
+
+Reference  : Explanation
+Prediction : Elaboration
+> gotwood4sheep : none, sorry
+> gotwood4sheep : just traded and william's sitting on it
+
+Reference  : Contrast
+Prediction : Explanation
+> gotwood4sheep : just traded and william's sitting on it
+> william : i need it though...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : you could roll a 7 though....
+> gotwood4sheep : true dat :D
+
+Reference  : Explanation
+Prediction : Continuation
+> william : my bad.
+> william : i meant the bank
+
+== pilot01_06 ==
+
+Reference  : Elaboration
+Prediction : Contrast
+> Dave : can anyone trade clay for ore
+> Dave : as in, I give you the clay
+
+Reference  : Comment
+Prediction : Parallel
+> Tomm : Ah. Sheep.
+> Dave : You basically control the sheep
+
+Reference  : Comment
+Prediction : Contrast
+> Dave : Still cooler than being a wheat baron
+> Tomm : I don't know, you've got 'baron' right there in the title
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> Dave : I thought that was the number ones
+> Tomm : the 3:1 means you can trade 3 of anything to 1 of anything
+
+Reference  : Clarification_question
+Prediction : Continuation
+> Tomm : the 3:1 means you can trade 3 of anything to 1 of anything
+> Dave : what about the other ones
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Dave : what about the other ones
+> Tomm : The resource ones -I think- mean you can trade 2 of any of that item to 1 of anything else
+
+Reference  : Comment
+Prediction : Explanation
+> Dave : nope, sorry
+> Tomm : I think we are all looking for it!
+
+== pilot03_01 ==
+
+Reference  : Explanation
+Prediction : Elaboration
+> Joel : uh oh
+> Joel : it's all water
+
+Reference  : Comment
+Prediction : Result
+> Joel : it's all water
+> Cardlinger : thats ok for now
+
+Reference  : Result
+Prediction : Continuation
+> Cardlinger : then someone can hit start
+> Cardlinger : and it'll populate
+
+Reference  : Comment
+Prediction : Continuation
+> Cardlinger : and it'll populate
+> Cardlinger : and _fingers crossed_
+
+Reference  : Elaboration
+Prediction : Comment
+> Joel : fingers crossed
+> Joel : that this works this time
+
+Reference  : Elaboration
+Prediction : Continuation
+> Euan : Right then.
+> Euan : Here goes nothing.
+
+Reference  : Result
+Prediction : Comment
+> Euan : Here goes nothing.
+> Cardlinger : yay!!!!!
+
+Reference  : Explanation
+Prediction : Comment
+> Cardlinger : i don't care who wins now,
+> Cardlinger : we get to playyyy!!!
+
+Reference  : Comment
+Prediction : Background
+> Cardlinger : good luck all
+> Euan : Here's to a fun game
+
+Reference  : Contrast
+Prediction : Elaboration
+> Cardlinger : nope
+> Cardlinger : euan bagged a bit
+
+Reference  : Explanation
+Prediction : Background
+> Cardlinger : euan bagged a bit
+> Cardlinger : i rolled an 11 for him
+
+Reference  : Clarification_question
+Prediction : Comment
+> Euan : And I alt tab back from the tutorial.
+> Euan : What's up?
+
+Reference  : Result
+Prediction : Contrast
+> Joel : wheat
+> Euan : I can wheat for clay.
+
+Reference  : Result
+Prediction : Elaboration
+> Joel : awesome
+> Joel : I just sent the trade request
+
+Reference  : Result
+Prediction : Acknowledgement
+> Joel : I just sent the trade request
+> Euan : I accepted.
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Euan : I accepted.
+> Joel : cool
+
+Reference  : Explanation
+Prediction : Comment
+> Joel : cool
+> Joel : it worked
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Joel : it worked
+> Joel : thanks
+
+Reference  : Acknowledgement
+Prediction : Background
+> Joel : thanks
+> Euan : Indeed.
+
+Reference  : Comment
+Prediction : Continuation
+> Euan : Indeed.
+> Euan : Shiny.
+
+== s1-league2-game1_03 ==
+
+Reference  : Comment
+Prediction : Continuation
+> sabercat : well done!
+> IG : More clay!
+
+Reference  : Question-answer_pair
+Prediction : Parallel
+> IG : Need sheep. Have ore/clay
+> sabercat : sheep for ore
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : right right
+> sabercat : thanks
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : right right
+> skinnylinny : thank you
+
+Reference  : Alternation
+Prediction : Contrast
+> skinnylinny : I'll give you a clay for a wheat
+> skinnylinny : or two for two if you want
+
+== pilot20_02 ==
+
+Reference  : Q-Elab
+Prediction : Continuation
+> Rainbow : trade wheat?
+> Rainbow : sheep any1?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Kittles : no wheat
+> inca : Sorry,
+
+Reference  : Elaboration
+Prediction : Explanation
+> inca : Sorry guys,
+> inca : I think
+
+Reference  : Elaboration
+Prediction : Continuation
+> inca : I think
+> inca : I might have had internet problems
+
+Reference  : Parallel
+Prediction : Clarification_question
+> ariachiba : Thank you!
+> inca : You too!
+
+== s1-league2-game1_12 ==
+
+Reference  : Q-Elab
+Prediction : Alternation
+> skinnylinny : Anyone need any clay? :P
+> IG : so I need wood...
+
+Reference  : Parallel
+Prediction : Continuation
+> skinnylinny : Sorry, not got any
+> sabercat : nope... none here :(
+
+Reference  : Acknowledgement
+Prediction : Comment
+> skinnylinny : Sorry, not got any
+> IG : oh well
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : nope... none here :(
+> IG : oh well
+
+== pilot20_05 ==
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Rainbow : y do we discard?
+> Rainbow : the robber took it?
+
+Reference  : Conditional
+Prediction : Elaboration
+> inca : Every time a 7 gets rolled,
+> inca : that happens
+
+Reference  : Narration
+Prediction : Continuation
+> ariachiba : You had more than 7 reseources
+> ariachiba : and I rolled the robber.
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Rainbow : oh wood shud b good
+> inca : wheat in return?
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> inca : wheat in return?
+> Rainbow : ok
+
+== s1-league1-game3_13 ==
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : too precious...
+> gotwood4sheep : no worries :D
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : nope
+> gotwood4sheep : no worries :D
+
+Reference  : Question-answer_pair
+Prediction : Elaboration
+> tomas.kostan : i will trade for ore
+> gotwood4sheep : had no ore, sorry :(
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : noooooo
+> william : street wars
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : The Life Aquatic
+> gotwood4sheep : won 2 tix for it
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : ouch
+> gotwood4sheep : nice steal
+
+Reference  : Continuation
+Prediction : Result
+> gotwood4sheep : nice steal
+> gotwood4sheep : trade it back for a wheat?
+
+Reference  : Contrast
+Prediction : Result
+> tomas.kostan : need sheep
+> gotwood4sheep : sorry, can't help there
+
+Reference  : Alternation
+Prediction : Q-Elab
+> william : i need ore or clay.
+> tomas.kostan : for wood?
+
+Reference  : Result
+Prediction : Elaboration
+> william : hmm. no
+> tomas.kostan : ok clay will work too
+
+Reference  : Q-Elab
+Prediction : Result
+> ljaybrad123 : ill do sheep for wood
+> tomas.kostan : will you give me sheep for wood?
+
+Reference  : Comment
+Prediction : Continuation
+> ljaybrad123 : no actually
+> ljaybrad123 : sorry
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : any wheat to spare?
+> gotwood4sheep : whatcha got
+
+Reference  : Comment
+Prediction : Clarification_question
+> tomas.kostan : omg..
+> gotwood4sheep : what a gent
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> gotwood4sheep : what a gent
+> william : first a cad, now a gent ;D
+
+Reference  : Comment
+Prediction : Contrast
+> william : first a cad, now a gent ;D
+> tomas.kostan : i always get that wrong...
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : lol not much between them!
+> ljaybrad123 : lj and all the guys :p
+
+== pilot03_02 ==
+
+Reference  : Elaboration
+Prediction : Alternation
+> jon : anyone got clay?
+> jon : For ore perhaps?
+
+Reference  : Elaboration
+Prediction : Narration
+> Euan : So I get to say the legendary line.
+> Euan : "Anyone got wood for sheep?"
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Euan : "Anyone got wood for sheep?"
+> Cardlinger : lamentably I am sheepless
+
+Reference  : Continuation
+Prediction : Comment
+> Joel : oh boy
+> Joel : haha
+
+Reference  : Continuation
+Prediction : Comment
+> Euan : Ah well.
+> Euan : I think
+
+Reference  : Continuation
+Prediction : Elaboration
+> Euan : I think
+> Euan : I actually meant the other way around,
+
+Reference  : Explanation
+Prediction : Elaboration
+> Euan : I actually meant the other way around,
+> Euan : jumped too quickly on the legendary line.
+
+Reference  : Continuation
+Prediction : Comment
+> Euan : Hm.
+> Euan : I can give you wheat for wood.
+
+Reference  : Continuation
+Prediction : Elaboration
+> Joel : wood
+> Joel : ore
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Cardlinger : but you're next, Joel
+> Joel : thanks
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> Cardlinger : Niko
+> Cardlinger : quicker to type
+
+Reference  : Continuation
+Prediction : Comment
+> Cardlinger : sorry dude
+> Cardlinger : :(
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> Cardlinger : unlucky 7
+> Euan : tch,
+
+Reference  : Continuation
+Prediction : Elaboration
+> Euan : tch,
+> Euan : yeah
+
+Reference  : Comment
+Prediction : Elaboration
+> Cardlinger : well
+> Cardlinger : I'll be a sport
+
+Reference  : Elaboration
+Prediction : Continuation
+> Cardlinger : I'll be a sport
+> Cardlinger : and move the robber back to the desert
+
+Reference  : Elaboration
+Prediction : Comment
+> Cardlinger : lol
+> Cardlinger : sorry
+
+Reference  : Continuation
+Prediction : Comment
+> Cardlinger : no
+> Cardlinger : sorry
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : no
+> Euan : Oh well
+
+Reference  : Comment
+Prediction : Continuation
+> jon : too late -
+> jon : doh!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> jon : too late -
+> Cardlinger : next time
+
+== s1-league2-game2_06 ==
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> IG : what are you offering?
+> sabercat : how much do you have?
+
+Reference  : Continuation
+Prediction : Q-Elab
+> amycharl : anyone want sheep
+> amycharl : ?
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> sabercat : anyone has ore?
+> sabercat : amy? do you have ore?
+
+Reference  : Elaboration
+Prediction : Contrast
+> amycharl : oh
+> amycharl : no i mean i want to give a sheep
+
+Reference  : Correction
+Prediction : Contrast
+> sabercat : sorry
+> amycharl : no i mean i want to give a sheep
+
+Reference  : Q-Elab
+Prediction : Continuation
+> dmm : i have a wood
+> dmm : would that be enough for you?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> dmm : would that be enough for you?
+> IG : cheers
+
+== pilot20_04 ==
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> Kittles : anyone want some ore for wheat
+> ariachiba : Yes!
+
+Reference  : Explanation
+Prediction : Narration
+> Kittles : anyone want some ore for wheat
+> Kittles : got a ton of the stuff
+
+Reference  : Continuation
+Prediction : Elaboration
+> Rainbow : ok
+> Rainbow : i dnt hva any
+
+Reference  : Elaboration
+Prediction : Explanation
+> ariachiba : she could do two trades,
+> ariachiba : one with each of us.
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Kittles : i could do one more trade of ore fro wheat
+> Rainbow : me plz
+
+Reference  : Elaboration
+Prediction : Continuation
+> ariachiba : it shows the different options.
+> ariachiba : Only ones that you have the materials for will be available.
+
+Reference  : Result
+Prediction : Continuation
+> Rainbow : i need clay
+> Rainbow : any1 have?
+
+Reference  : Clarification_question
+Prediction : Elaboration
+> Kittles : oh yeah me
+> Kittles : ore for wheat again?
+
+== pilot14_03 ==
+
+Reference  : Elaboration
+Prediction : Continuation
+> J : why won't it let me build a road again?
+> J : i have the resources now
+
+Reference  : Question-answer_pair
+Prediction : Clarification_question
+> J : why won't it let me build a road again?
+> mmatrtajova : because you dont have clay?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Ash : it should say buy at the bottom next to the road?
+> mmatrtajova : yes!
+
+Reference  : Acknowledgement
+Prediction : Comment
+> mmatrtajova : yes!
+> J : aha!
+
+Reference  : Comment
+Prediction : Continuation
+> J : aha!
+> Ash : yey
+
+Reference  : Correction
+Prediction : Result
+> J : i don't have wood either
+> J : ...or do i
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Ash : i just dont have 4 of anything yet
+> mmatrtajova : move on
+
+Reference  : Clarification_question
+Prediction : Correction
+> Ash : i just dont have 4 of anything yet
+> Ash : is there a way you can see what resourses other people have?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> mmatrtajova : move on
+> J : oh yeah,
+
+== s1-league1-game5_04 ==
+
+Reference  : Contrast
+Prediction : Continuation
+> ljaybrad123 : some resources would be lovely...
+> ljaybrad123 : no
+
+Reference  : Continuation
+Prediction : Explanation
+> ljaybrad123 : niko i thought you couldnt build there....
+> ljaybrad123 : I wish i had known that
+
+Reference  : Comment
+Prediction : Clarification_question
+> william : no
+> gotwood4sheep : no 6s or 8s this game eh?
+
+Reference  : Continuation
+Prediction : Result
+> gotwood4sheep : as long as you're >1 hex point from a settlement
+> ljaybrad123 : anyone have wood?
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> william : eh?
+> ljaybrad123 : i just cant buy anything....
+
+== pilot02_11 ==
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Cat : let's do the clay
+> Thomas : k
+
+== pilot21_04 ==
+
+Reference  : Result
+Prediction : Explanation
+> Josephine : Sorry about that...
+> Josephine : You had more...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Josephine : get a soldier card.
+> Katherine : ohh
+
+Reference  : Continuation
+Prediction : Elaboration
+> Katherine : amanda?
+> Katherine : 1 for 1
+
+Reference  : Explanation
+Prediction : Contrast
+> Amanda : oh no
+> Amanda : i meant
+
+Reference  : Explanation
+Prediction : Continuation
+> Amanda : i meant
+> Amanda : i want clay too
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> Katherine : 1  4  1
+> Josephine : Not right now
+
+== s1-league1-game3_07 ==
+
+Reference  : Comment
+Prediction : Explanation
+> gotwood4sheep : anyone got ore?
+> gotwood4sheep : would have had ore, but...
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : would have had ore, but...
+> ljaybrad123 : ah robber...
+
+Reference  : Explanation
+Prediction : Comment
+> william : oh, sorry no.
+> william : too low right now
+
+Reference  : Contrast
+Prediction : Result
+> gotwood4sheep : greedy :D
+> gotwood4sheep : spend it wisely then
+
+Reference  : Continuation
+Prediction : Elaboration
+> ljaybrad123 : :)
+> ljaybrad123 : 13! :o
+
+Reference  : Contrast
+Prediction : Comment
+> william : it won't let me trade 4 wheat with the bank!
+> ljaybrad123 : you just did....
+
+Reference  : Contrast
+Prediction : Comment
+> william : it won't let me trade 4 wheat with the bank!
+> william : oh. never mind, now it did
+
+Reference  : Result
+Prediction : Acknowledgement
+> william : oh. never mind, now it did
+> gotwood4sheep : now you're on 3sy street
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : nope
+> gotwood4sheep : work those looks, tomas
+
+Reference  : Comment
+Prediction : Contrast
+> gotwood4sheep : work those looks, tomas
+> ljaybrad123 : got... thats an interesting one :p
+
+== s1-league2-game1_06 ==
+
+Reference  : Comment
+Prediction : Continuation
+> IG : done
+> IG : cool
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> IG : what are you offering?
+> sabercat : for ore? sheep?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> sabercat : for ore? sheep?
+> IG : wood only im afraid
+
+Reference  : Q-Elab
+Prediction : Continuation
+> sabercat : for ore? sheep?
+> sabercat : ore and sheep?
+
+Reference  : Result
+Prediction : Clarification_question
+> IG : wood only im afraid
+> sabercat : ore and sheep?
+
+== pilot14_08 ==
+
+Reference  : Contrast
+Prediction : Conditional
+> J : i have enough to build a settlement too now...
+> J : and it won't let me
+
+Reference  : Elaboration
+Prediction : Explanation
+> Ash : youre like me
+> Ash : you need to build another road
+
+Reference  : Continuation
+Prediction : Correction
+> Ash : you need to build another road
+> Ash : it needs to be at least 2 roads away from another of your settlements
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> mmatrtajova : then you lack sth obviously!
+> Ash : i have everything!
+
+Reference  : Contrast
+Prediction : Result
+> Ash : i have everything!
+> mmatrtajova : then you have no place to build it!
+
+Reference  : Continuation
+Prediction : Result
+> mmatrtajova : but you have to have a road to build it
+> mmatrtajova : on
+
+== s1-league2-game1_01 ==
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> IG : What are you offering?
+> skinnylinny : Sheep?
+
+Reference  : Contrast
+Prediction : Result
+> IG : wood
+> skinnylinny : I don't have any, sorry. Never mind.
+
+Reference  : Narration
+Prediction : Result
+> IG : Maybe give till ten past 
+> IG : and then just go for it?
+
+Reference  : Elaboration
+Prediction : Background
+> skinnylinny : Sorry about that
+> skinnylinny : Had trouble getting the client to start
+
+Reference  : Clarification_question
+Prediction : Result
+> skinnylinny : Sorry about that
+> sabercat : who is the last one?
+
+Reference  : Acknowledgement
+Prediction : Clarification_question
+> IG : That's me
+> skinnylinny : Right, so, who're we waiting for?
+
+Reference  : Clarification_question
+Prediction : Narration
+> skinnylinny : Sure
+> skinnylinny : Are we waiting for Amy?
+
+Reference  : Question-answer_pair
+Prediction : Clarification_question
+> IG : Shall we?
+> skinnylinny : Right, it's quarter past
+
+Reference  : Continuation
+Prediction : Result
+> sabercat : everyone got it now :D
+> IG : Anyone got wood to trade?
+
+== s1-league1-game1_02 ==
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : ouch
+> gotwood4sheep : aww
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> william : tomas, I will give you 2 wood for a sheep...
+> tomas.kostan : i just discarded all of my sheep... :/
+
+Reference  : Elaboration
+Prediction : Continuation
+> gotwood4sheep : ore anymore,
+> gotwood4sheep : good rhyme :D
+
+Reference  : Result
+Prediction : Q-Elab
+> gotwood4sheep : i have a bounty crop
+> william : how about a wood then?
+
+Reference  : Result
+Prediction : Question-answer_pair
+> gotwood4sheep : clay or sheep are my primary desires
+> william : alright a clay
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : ok!
+> william : thanks a bunch
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> tomas.kostan : can i get a wood?
+> gotwood4sheep : um i just gave you one ;)
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> tomas.kostan : ore? :D
+> gotwood4sheep : next time maybe!
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : i have a man on my ore pile...
+> gotwood4sheep : and the man isn't me :(
+
+Reference  : Comment
+Prediction : Elaboration
+> gotwood4sheep : still no furry beasties here
+> gotwood4sheep : methinks I missed the sheep train earlier
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> gotwood4sheep : methinks I missed the sheep train earlier
+> william : yeah me too
+
+== pilot20_11 ==
+
+Reference  : Result
+Prediction : Question-answer_pair
+> ariachiba : I will give wheat for anything else...
+> inca : I'll give wood
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> inca : OK
+> Rainbow : i need to leave soon too
+
+Reference  : Q-Elab
+Prediction : Continuation
+> Rainbow : i need to leave soon too
+> Rainbow : sheep?
+
+Reference  : Explanation
+Prediction : Correction
+> Rainbow : sheep?
+> Rainbow : nd sheep
+
+Reference  : Comment
+Prediction : Explanation
+> inca : i have like nothing now
+> inca : Sorry,
+
+Reference  : Comment
+Prediction : Contrast
+> inca : Not me
+> inca : We must all have like the same resources
+
+Reference  : Comment
+Prediction : Contrast
+> ariachiba : not a lot of clay or ore in this game apparently!
+> Kittles : ove got 1 ore 2 sheep 1 wheat 3 wood
+
+Reference  : Comment
+Prediction : Elaboration
+> Kittles : gotta go all,
+> Kittles : have fun
+
+Reference  : Acknowledgement
+Prediction : Clarification_question
+> Kittles : gotta go all,
+> ariachiba : Ooooooook?
+
+Reference  : Conditional
+Prediction : Explanation
+> inca : We better wait for Markus
+> inca : before we do anything
+
+== s1-league2-game1_09 ==
+
+Reference  : Elaboration
+Prediction : Comment
+> sabercat : :D
+> sabercat : well... you did it!
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : well... you did it!
+> skinnylinny : I did!
+
+Reference  : Continuation
+Prediction : Elaboration
+> skinnylinny : I did!
+> skinnylinny : Now, let's get that pesky robber out of the way
+
+Reference  : Comment
+Prediction : Acknowledgement
+> skinnylinny : Now, let's get that pesky robber out of the way
+> sabercat : yeah, your 11 seemed to be... stuck... for a while
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> IG : which?
+> sabercat : ore?
+
+Reference  : Explanation
+Prediction : Elaboration
+> sabercat : ore?
+> sabercat : I dont have wood...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : cheers
+> skinnylinny : No worries :D
+
+Reference  : Conditional
+Prediction : Continuation
+> skinnylinny : No worries :D
+> skinnylinny : Now hope that I don't roll a 7!
+
+== s1-league1-game5_03 ==
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : agreed
+> gotwood4sheep : thanks!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : LJ building an army there...
+> ljaybrad123 : so you think
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> ljaybrad123 : so you think
+> gotwood4sheep : *death star music*
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : alas, alack, i am stolen from.
+> gotwood4sheep : twice!
+
+Reference  : Contrast
+Prediction : Comment
+> gotwood4sheep : go easy, friends ;)
+> william : you have the victory points...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : you have the victory points...
+> gotwood4sheep : truth :)
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : you have the victory points...
+> gotwood4sheep : I appreciate I'm a moving target :D
+
+Reference  : Continuation
+Prediction : Explanation
+> gotwood4sheep : 3 in a row!
+> gotwood4sheep : 4 in 1,000
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> ljaybrad123 : anyone have wood or heep?
+> william : niko, is it still possible for you to build a settlement in the middle of the mountain?
+
+Reference  : Correction
+Prediction : Alternation
+> william : clay!
+> william : or for 1 ore?
+
+Reference  : Explanation
+Prediction : Result
+> gotwood4sheep : hmm, i'd need 1 other too
+> gotwood4sheep : with so much clay on the board
+
+Reference  : Comment
+Prediction : Elaboration
+> gotwood4sheep : and so the run ends
+> gotwood4sheep : kerching
+
+== s1-league1-game5_05 ==
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> gotwood4sheep : now i could trade
+> gotwood4sheep : one clay for a wood?
+
+Reference  : Parallel
+Prediction : Question-answer_pair
+> gotwood4sheep : now i could trade
+> ljaybrad123 : me too :p
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> gotwood4sheep : one clay for a wood?
+> ljaybrad123 : id love some wood
+
+Reference  : Correction
+Prediction : Question-answer_pair
+> ljaybrad123 : id love some wood
+> gotwood4sheep : no sorry I have a wood
+
+Reference  : Explanation
+Prediction : Continuation
+> gotwood4sheep : no sorry I have a wood
+> gotwood4sheep : i was looking for 2s
+
+Reference  : Explanation
+Prediction : Continuation
+> gotwood4sheep : noooooo!
+> gotwood4sheep : 8s :(
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : noooooo!
+> ljaybrad123 : anyone have wood? :p
+
+Reference  : Question-answer_pair
+Prediction : Correction
+> ljaybrad123 : anyone have wood? :p
+> gotwood4sheep : zero
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> ljaybrad123 : anyone have wood? :p
+> ljaybrad123 : or ore?
+
+Reference  : Comment
+Prediction : Result
+> gotwood4sheep : sorry, that doesn't get me anywhere
+> gotwood4sheep : apologies :(
+
+Reference  : Acknowledgement
+Prediction : Comment
+> gotwood4sheep : sorry, that doesn't get me anywhere
+> ljaybrad123 : :I(
+
+Reference  : Explanation
+Prediction : Comment
+> ljaybrad123 : :I(
+> ljaybrad123 : id love to build omething :p
+
+Reference  : Explanation
+Prediction : Elaboration
+> gotwood4sheep : oh william. this again.
+> gotwood4sheep : you have no luck 7-ing your own pile
+
+Reference  : Narration
+Prediction : Result
+> gotwood4sheep : oh william. this again.
+> ljaybrad123 : ive had one chance to build all game and then there was no where to build
+
+Reference  : Explanation
+Prediction : Comment
+> ljaybrad123 : ive had one chance to build all game and then there was no where to build
+> gotwood4sheep : you've been boxed in rather
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> ljaybrad123 : sheep?
+> gotwood4sheep : ok go on then :)
+
+Reference  : Result
+Prediction : Conditional
+> gotwood4sheep : yeah the new build has a 'counter offer' button
+> gotwood4sheep : so you can negotiate on the fly
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : so you can negotiate on the fly
+> gotwood4sheep : rather than just reject
+
+Reference  : Continuation
+Prediction : Comment
+> william : ^^
+> ljaybrad123 : wood anyone?
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> ljaybrad123 : wood anyone?
+> gotwood4sheep : lj gets ore!
+
+Reference  : Contrast
+Prediction : Result
+> gotwood4sheep : oucho
+> william : you can have it back for some ore
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : you can have it back for some ore
+> gotwood4sheep : no ore just yet
+
+Reference  : Contrast
+Prediction : Elaboration
+> gotwood4sheep : no ore just yet
+> gotwood4sheep : waiting to reap now the robber has sauntered off with it
+
+== pilot03_11 ==
+
+Reference  : Explanation
+Prediction : Comment
+> Cardlinger : neither
+> Cardlinger : that robber is eating all my wheat
+
+Reference  : Comment
+Prediction : Continuation
+> Cardlinger : that robber is eating all my wheat
+> Euan : He's a hungry robber
+
+Reference  : Continuation
+Prediction : Explanation
+> Euan : He's a hungry robber
+> Euan : I'm glad he's not eating sheep
+
+Reference  : Elaboration
+Prediction : Comment
+> Cardlinger : he sure is,
+> Cardlinger : ravenous
+
+Reference  : Comment
+Prediction : Continuation
+> Cardlinger : and oddly prefers veg to meat
+> Cardlinger : great minds !!
+
+Reference  : Narration
+Prediction : Contrast
+> Euan : My sheep army rebuilds!
+> Euan : Soon, I shall have new zealand.
+
+Reference  : Alternation
+Prediction : Q-Elab
+> Cardlinger : anyone want clay?
+> Cardlinger : for wheat/sheep?
+
+Reference  : Narration
+Prediction : Continuation
+> Euan : Soon, I shall have new zealand.
+> Euan : And then we'll giggle, manically.
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Cardlinger : euan?
+> Cardlinger : can offer 2 clay for a sheep?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : ty ty
+> Euan : No worries
+
+Reference  : Elaboration
+Prediction : Comment
+> Cardlinger : ok
+> Cardlinger : we'll call it a day
+
+Reference  : Elaboration
+Prediction : Comment
+> jon : ok
+> jon : think
+
+Reference  : Elaboration
+Prediction : Comment
+> jon : think
+> jon : I lose!
+
+Reference  : Elaboration
+Prediction : Comment
+> Cardlinger : yeah
+> Cardlinger : lot of fun
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Joel : yep!
+> Cardlinger : ho ho
+
+Reference  : Comment
+Prediction : Continuation
+> Euan : Back to the desert, foul robber!
+> Cardlinger : well done Euan
+
+Reference  : Comment
+Prediction : Explanation
+> Cardlinger : my people will be fed!!
+> Cardlinger : I hope
+
+Reference  : Continuation
+Prediction : Comment
+> Cardlinger : sorry
+> Cardlinger : no wheat,
+
+Reference  : Contrast
+Prediction : Narration
+> Cardlinger : no wheat,
+> Cardlinger : soon!!
+
+== pilot02_10 ==
+
+Reference  : Continuation
+Prediction : Q-Elab
+> Thomas : 2 ore for a wheat?
+> Thomas : can I buy wood for 1 ore?
+
+Reference  : Conditional
+Prediction : Question-answer_pair
+> william : are you givinig 2 ore?
+> william : then yes
+
+Reference  : Elaboration
+Prediction : Question-answer_pair
+> william : does someone need clay?
+> william : i will take sheep or ore
+
+== pilot04_01 ==
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> skinnylinny : Hello Nancy
+> Nancy : Hi
+
+Reference  : Comment
+Prediction : Explanation
+> skinnylinny : Ahh
+> skinnylinny : ok
+
+== s1-league1-game3_04 ==
+
+Reference  : Alternation
+Prediction : Q-Elab
+> gotwood4sheep : anyone want to trade some clay for me
+> tomas.kostan : want any wood?
+
+Reference  : Continuation
+Prediction : Contrast
+> ljaybrad123 : i need wheat...
+> ljaybrad123 : can offer sheep or wood
+
+Reference  : Continuation
+Prediction : Alternation
+> ljaybrad123 : i need wheat...
+> ljaybrad123 : anyone have wheat?
+
+Reference  : Contrast
+Prediction : Result
+> gotwood4sheep : yup
+> gotwood4sheep : at the right price :)
+
+Reference  : Correction
+Prediction : Question-answer_pair
+> ljaybrad123 : 2 sheep?
+> gotwood4sheep : 1 wood 1 sheep?
+
+Reference  : Result
+Prediction : Acknowledgement
+> ljaybrad123 : can do
+> gotwood4sheep : deal
+
+Reference  : Contrast
+Prediction : Continuation
+> gotwood4sheep : deal
+> gotwood4sheep : um i have no clay
+
+Reference  : Correction
+Prediction : Clarification_question
+> gotwood4sheep : um i have no clay
+> gotwood4sheep : did you mean wheat?
+
+Reference  : Result
+Prediction : Comment
+> ljaybrad123 : sorry yeah
+> gotwood4sheep : retry¬!
+
+Reference  : Result
+Prediction : Continuation
+> gotwood4sheep : retry¬!
+> gotwood4sheep : no problem ;)
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : no problem ;)
+> gotwood4sheep : worried I was wheeling and dealing!
+
+Reference  : Comment
+Prediction : Explanation
+> gotwood4sheep : worried I was wheeling and dealing!
+> ljaybrad123 : its been a ong day
+
+Reference  : Narration
+Prediction : Explanation
+> gotwood4sheep : worried I was wheeling and dealing!
+> gotwood4sheep : tomas that's your sheep there, watch it well
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> ljaybrad123 : its been a ong day
+> gotwood4sheep : where were you?
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : where were you?
+> gotwood4sheep :  you said w/o internat
+
+Reference  : Correction
+Prediction : Continuation
+> gotwood4sheep :  you said w/o internat
+> gotwood4sheep : internet*
+
+Reference  : Correction
+Prediction : Continuation
+> gotwood4sheep : nice country
+> ljaybrad123 : not really :p
+
+Reference  : Elaboration
+Prediction : Continuation
+> gotwood4sheep : nice country
+> gotwood4sheep : some of it is lovely
+
+Reference  : Clarification_question
+Prediction : Comment
+> ljaybrad123 : not really :p
+> gotwood4sheep : aww what bit?
+
+Reference  : Correction
+Prediction : Comment
+> ljaybrad123 : not really :p
+> gotwood4sheep : some of it is lovely
+
+Reference  : Elaboration
+Prediction : Continuation
+> ljaybrad123 : york leeds
+> ljaybrad123 : its pretty
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : im from lancashire...
+> gotwood4sheep : ah ha lol! rival
+
+Reference  : Contrast
+Prediction : Continuation
+> gotwood4sheep : my brother is in leeds.
+> gotwood4sheep :  it's no edinburgh :)
+
+Reference  : Elaboration
+Prediction : Result
+> william : anything really.
+> william : ore? wood?
+
+Reference  : Comment
+Prediction : Explanation
+> gotwood4sheep : neither, i'm afraid, only a wheat.  Sorry!
+> william : hmm. maybe later
+
+== pilot21_09 ==
+
+Reference  : Explanation
+Prediction : Elaboration
+> Katherine : i dont have forever though..
+> Katherine : i need to leave in like 40 mins..
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Katherine : ive got a sheep
+> Katherine : for clay?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> Katherine : for clay?
+> Charlotte : for wheat or wood i can trade for?
+
+Reference  : Result
+Prediction : Alternation
+> Amanda : only have one
+> Amanda : no
+
+== pilot14_11 ==
+
+Reference  : Comment
+Prediction : Parallel
+> Ash : lol
+> mmatrtajova : wont trade!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> mmatrtajova : wont trade!
+> Ash : jealous
+
+Reference  : Explanation
+Prediction : Elaboration
+> mmatrtajova : move on!
+> mmatrtajova : i have a lecture at 12
+
+Reference  : Continuation
+Prediction : Contrast
+> J : chill
+> J : let me have my turn!
+
+Reference  : Continuation
+Prediction : Elaboration
+> mmatrtajova : well
+> mmatrtajova : i have a lecture at 12
+
+== s1-league2-game1_07 ==
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : thanks!
+> skinnylinny : You're welcome :)
+
+Reference  : Continuation
+Prediction : Q-Elab
+> sabercat : skinnylinny : trade wheat
+> sabercat : ?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : same
+> skinnylinny : Hmmm, oh well.
+
+== s1-league1-game3_01 ==
+
+Reference  : Elaboration
+Prediction : Continuation
+> william : does anyone need sheep or wheat?
+> william : i need ore or wood
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : sorry -
+> gotwood4sheep : more 6s and I can oblige then :)
+
+Reference  : Conditional
+Prediction : Continuation
+> ljaybrad123 : move the robber
+> ljaybrad123 : and sure :p
+
+Reference  : Comment
+Prediction : Continuation
+> william : hi
+> ljaybrad123 : Hi :)
+
+Reference  : Comment
+Prediction : Continuation
+> william : hi
+> gotwood4sheep : Hi folks!
+
+Reference  : Comment
+Prediction : Continuation
+> ljaybrad123 : Hi :)
+> gotwood4sheep : Hi folks!
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : Hi folks!
+> ljaybrad123 : hi :)
+
+Reference  : Continuation
+Prediction : Contrast
+> gotwood4sheep : Hi folks!
+> gotwood4sheep : I have some good/bad news :S
+
+Reference  : Clarification_question
+Prediction : Comment
+> gotwood4sheep : I have some good/bad news :S
+> ljaybrad123 : oh?
+
+Reference  : Narration
+Prediction : Clarification_question
+> ljaybrad123 : evening tomas
+> ljaybrad123 : are we ready to start?
+
+Reference  : Background
+Prediction : Comment
+> gotwood4sheep : I just got an email about winning a competition for movie tickets
+> gotwood4sheep : tonight. at 9pm :(
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : ready
+> tomas.kostan : ready
+
+Reference  : Result
+Prediction : Explanation
+> gotwood4sheep : tonight. at 9pm :(
+> gotwood4sheep : reckon we can get thru this in 45mins?!
+
+Reference  : Question-answer_pair
+Prediction : Result
+> gotwood4sheep : reckon we can get thru this in 45mins?!
+> ljaybrad123 : should be able to
+
+Reference  : Question-answer_pair
+Prediction : Result
+> gotwood4sheep : reckon we can get thru this in 45mins?!
+> william : let's just try
+
+Reference  : Result
+Prediction : Correction
+> ljaybrad123 : should be able to
+> gotwood4sheep : sweet.  good luck all :)
+
+Reference  : Continuation
+Prediction : Clarification_question
+> ljaybrad123 : should be able to
+> ljaybrad123 : how many points is it to win in this version?
+
+Reference  : Result
+Prediction : Acknowledgement
+> william : let's just try
+> gotwood4sheep : sweet.  good luck all :)
+
+Reference  : Continuation
+Prediction : Explanation
+> gotwood4sheep : sweet.  good luck all :)
+> gotwood4sheep : fwiw i blitz these in 9mins against Markus's bots
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : i think it is 10
+> ljaybrad123 : awesome
+
+Reference  : Acknowledgement
+Prediction : Result
+> tomas.kostan : i think it is 10
+> gotwood4sheep : 10 to win
+
+Reference  : Continuation
+Prediction : Explanation
+> ljaybrad123 : awesome
+> ljaybrad123 : ive been playing the extensions :p
+
+Reference  : Continuation
+Prediction : Result
+> gotwood4sheep : 10 to win
+> gotwood4sheep : in the league we get 2 for a win,
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : in the league we get 2 for a win,
+> gotwood4sheep : 1 for playing :)
+
+== pilot02_12 ==
+
+Reference  : Conditional
+Prediction : Contrast
+> Cat : so if i want to put a settlement down
+> Cat : where can i do so?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Thomas : on one of your roads
+> Cat : thx
+
+Reference  : Comment
+Prediction : Explanation
+> Cat : thx
+> Cat : well done
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Cat : well done
+> Thomas : 3 knights?
+
+Reference  : Correction
+Prediction : Elaboration
+> william : yiu
+> william : yup
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> william : k
+> Thomas : ok
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Thomas : ok
+> Cat : ok
+
+Reference  : Continuation
+Prediction : Narration
+> Cat : ok
+> Cat : bye then
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Cat : bye then
+> Cat : ok
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Cat : ok
+> Cat : ok, I'll come by
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Cat : ok, I'll come by
+> Thomas : ok, thanks
+
+== pilot14_02 ==
+
+Reference  : Comment
+Prediction : Elaboration
+> mmatrtajova : well how did you?
+> mmatrtajova : nice
+
+Reference  : Acknowledgement
+Prediction : Comment
+> mmatrtajova : probably
+> J : cool
+
+Reference  : Result
+Prediction : Continuation
+> mmatrtajova : i have monopolized and used all the wood!
+> mmatrtajova : there is no wood!
+
+== pilot02_05 ==
+
+Reference  : Conditional
+Prediction : Clarification_question
+> Cat : so to move the robber 
+> Cat : i need to roll the dice?
+
+Reference  : Alternation
+Prediction : Parallel
+> Cat : i can offer ore for sheep or clay
+> Cat : or wheet for the same
+
+Reference  : Elaboration
+Prediction : Comment
+> william : can i get a sheep or a wheat? 
+> william : i have too much wood
+
+== s1-league1-game3_14 ==
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : william, you are wheatylicious over there
+> gotwood4sheep : so much wheat you're getting bloated :D
+
+Reference  : Result
+Prediction : Acknowledgement
+> ljaybrad123 : i has not enough
+> tomas.kostan : ok no trade then
+
+Reference  : Conditional
+Prediction : Explanation
+> gotwood4sheep : if i saw a 7...
+> gotwood4sheep :  I have to admit I wouldn't weep
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> william : for 2 wheat?
+> gotwood4sheep : hard bargains at this table!
+
+Reference  : Q-Elab
+Prediction : Alternation
+> ljaybrad123 : william 1 wheat
+> ljaybrad123 : 1 ore 1 wheat?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : william 1 wheat
+> gotwood4sheep : hard bargains at this table!
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> ljaybrad123 : 1 ore 1 wheat?
+> gotwood4sheep : hard bargains at this table!
+
+Reference  : Acknowledgement
+Prediction : Correction
+> william : k
+> ljaybrad123 : oh yes
+
+Reference  : Elaboration
+Prediction : Correction
+> gotwood4sheep : hard bargains at this table!
+> gotwood4sheep : Is this the theme we are setting?
+
+Reference  : Clarification_question
+Prediction : Continuation
+> ljaybrad123 : oh yes
+> ljaybrad123 : what happened?
+
+Reference  : Elaboration
+Prediction : Explanation
+> ljaybrad123 : what happened?
+> ljaybrad123 : it just stopped my go...
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> gotwood4sheep : william, you are rich!
+> william : lj you still want to trade now?
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : william, you are rich!
+> gotwood4sheep : haha
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : it just stopped my go...
+> gotwood4sheep : oh hmm
+
+Reference  : Result
+Prediction : Background
+> ljaybrad123 : noope
+> gotwood4sheep : talk to Markus :D
+
+Reference  : Acknowledgement
+Prediction : Result
+> gotwood4sheep : talk to Markus :D
+> ljaybrad123 : i will
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : i have loads of ore
+> william : later...
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : aww that 7 was 3 rolls late :)
+> ljaybrad123 : anyone have sheep for clay?
+
+== s1-league1-game2_02 ==
+
+Reference  : Elaboration
+Prediction : Continuation
+> ljaybrad123 : I have clay
+> ljaybrad123 : wood and a wheat?
+
+Reference  : Result
+Prediction : Q-Elab
+> william : fine
+> ljaybrad123 : I'm red :)
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> ljaybrad123 : yay sheep :p
+> william : can i get a sheep for a wheat from someone?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : cheers
+> ljaybrad123 : thanks too :)
+
+== pilot01_07 ==
+
+Reference  : Elaboration
+Prediction : Continuation
+> rennoc1 : so i see.
+> rennoc1 : i am now utterly wheatless
+
+Reference  : Continuation
+Prediction : Explanation
+> Tomm : Oh, that's harsh.
+> Tomm : one sec
+
+Reference  : Continuation
+Prediction : Contrast
+> Dave : hey, I know where you can get some good wheat
+> Dave : but seriously, want to trade for some wheat?
+
+Reference  : Background
+Prediction : Comment
+> Dave : hasn't been moved yet
+> Tomm : bah, phone, brb.
+
+Reference  : Result
+Prediction : Continuation
+> Tomm : bah, phone, brb.
+> Tomm : Hey!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Tomm : :p
+> Dave : heh
+
+Reference  : Explanation
+Prediction : Elaboration
+> Dave : wheat
+> Dave : I stole your wheat
+
+Reference  : Correction
+Prediction : Alternation
+> Dave : anyone got clay or ore they can swap for wheat?
+> Dave : clay or wood, rather
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> Dave : could you, by any chance, use some fine high quality wheat
+> Dave : guaranteed to be 100% more edible than clay
+
+Reference  : Conditional
+Prediction : Acknowledgement
+> Tomm : If I get more clay,
+> Tomm : perhaps...
+
+Reference  : Elaboration
+Prediction : Result
+> Tomm : I can eat the sheep for now.
+> Tomm : Cook them in my lovely new tandoor oven I made out of the clay!
+
+Reference  : Contrast
+Prediction : Elaboration
+> rennoc1 : maybe
+> rennoc1 : but I have almost nothing but wheat to trade back
+
+Reference  : Elaboration
+Prediction : Question-answer_pair
+> Dave : clay or wood rennoc?
+> Dave : either one
+
+Reference  : Contrast
+Prediction : Continuation
+> rennoc1 : unfortunately, neither one
+> rennoc1 : tomm, could I give you 3 sheep for a clay and an ore?
+
+Reference  : Continuation
+Prediction : Result
+> Tomm : I don't have ore, I'm afraid!
+> Tomm : Plus... I'm basically rolling in sheep
+
+Reference  : Elaboration
+Prediction : Comment
+> Tomm : Well, as I say, don't have any ore at all
+> Tomm : I think Dave is the only one who does
+
+Reference  : Result
+Prediction : Q-Elab
+> Tomm : I think Dave is the only one who does
+> rennoc1 : do you have any ores, dave?
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Tomm : *whispers*horder!
+> Dave : lo
+
+Reference  : Contrast
+Prediction : Elaboration
+> Dave : I don't, no
+> Dave : I have wheat
+
+== s1-league1-game1_07 ==
+
+Reference  : Continuation
+Prediction : Elaboration
+> gotwood4sheep : great monopolizing
+> gotwood4sheep : no no, respect!
+
+Reference  : Contrast
+Prediction : Comment
+> gotwood4sheep : I admire your dastardly nature
+> william : i dont choose which cards i draw :p
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> tomas.kostan : i can give you your wood for wheat :)
+> gotwood4sheep : wood for wheat tomas?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> gotwood4sheep : good game though
+> tomas.kostan : good game :)
+
+Reference  : Comment
+Prediction : Elaboration
+> william : LJ
+> gotwood4sheep : ahh, she was very very close in the first game too
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : lj won on sunday
+> gotwood4sheep : ahh, she was very very close in the first game too
+
+Reference  : Explanation
+Prediction : Clarification_question
+> gotwood4sheep : we'll get LJ in the loop, 
+> gotwood4sheep : as she's playing both right?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : we finished just in time for football ;)
+> gotwood4sheep : indeed, result!
+
+Reference  : Result
+Prediction : Explanation
+> gotwood4sheep : cool well I'll defer to you both on your preferred times 
+> gotwood4sheep : so you're not stuck all the time
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> tomas.kostan : ok see you on thursday :)
+> gotwood4sheep : see you then :)
+
+Reference  : Background
+Prediction : Continuation
+> gotwood4sheep : I have played a lot 
+> gotwood4sheep : since Markus first contacted ;)
+
+== s1-league1-game3_10 ==
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> ljaybrad123 : tomas ore for clay?
+> tomas.kostan : but mine is very expensive :)
+
+Reference  : Comment
+Prediction : Result
+> tomas.kostan : but mine is very expensive :)
+> gotwood4sheep : clay made of gold
+
+Reference  : Elaboration
+Prediction : Alternation
+> tomas.kostan : any sheep for sale?
+> tomas.kostan : i can give you clay or wood
+
+Reference  : Question-answer_pair
+Prediction : Result
+> william : i have a sheep to give
+> tomas.kostan : i can give you clay or wood
+
+Reference  : Explanation
+Prediction : Comment
+> gotwood4sheep : got the wrong guy!
+> gotwood4sheep : william is white
+
+== s1-league1-game5_07 ==
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : nice work
+> william : my big coup ;)
+
+Reference  : Contrast
+Prediction : Comment
+> william : my big coup ;)
+> william : let
+
+Reference  : Correction
+Prediction : Result
+> william : let
+> william : let's see how long it holds
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : that's all folks
+> ljaybrad123 : well done
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> gotwood4sheep : well played william!
+> ljaybrad123 : well done
+
+Reference  : Comment
+Prediction : Result
+> william : phew
+> ljaybrad123 : i played awful tonight
+
+Reference  : Contrast
+Prediction : Result
+> william : i guess so
+> gotwood4sheep : i won 2
+
+Reference  : Question-answer_pair
+Prediction : Elaboration
+> ljaybrad123 : then4 player?
+> ljaybrad123 : I think the plan was to just count 3 player...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : I think the plan was to just count 3 player...
+> william : hmm
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : yup
+> ljaybrad123 : well thanks guys
+
+Reference  : Comment
+Prediction : Parallel
+> ljaybrad123 : well thanks guys
+> william : i am off to get a haircut now ;)
+
+Reference  : Comment
+Prediction : Explanation
+> ljaybrad123 : well thanks guys
+> ljaybrad123 : im gonna go sleep off these painkillers
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> ljaybrad123 : well thanks guys
+> william : thanks for playing
+
+Reference  : Comment
+Prediction : Elaboration
+> gotwood4sheep : gg all well played!
+> gotwood4sheep : was a close league!!!
+
+Reference  : Continuation
+Prediction : Result
+> gotwood4sheep : indeed, gl :D
+> ljaybrad123 : anyone have sheep or wood for clay?
+
+== s1-league1-game3_05 ==
+
+Reference  : Contrast
+Prediction : Result
+> ljaybrad123 : this die is not in my favour tonight....
+> gotwood4sheep : we have 4 games laura,
+
+Reference  : Result
+Prediction : Acknowledgement
+> gotwood4sheep : we have 4 games laura,
+> gotwood4sheep : I'm sure it will even out :)
+
+Reference  : Elaboration
+Prediction : Question-answer_pair
+> gotwood4sheep : how about 2 sheep, tomas?
+> gotwood4sheep : (1 and the one i owe you)
+
+Reference  : Result
+Prediction : Acknowledgement
+> tomas.kostan : yeah deal
+> gotwood4sheep : happy to make even
+
+Reference  : Explanation
+Prediction : Result
+> gotwood4sheep : happy to make even
+> gotwood4sheep : I am a man of my word
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : no clay
+> gotwood4sheep : no worries :)
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : no
+> gotwood4sheep : no worries :)
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : nothing...
+> gotwood4sheep : no worries :)
+
+Reference  : Result
+Prediction : Acknowledgement
+> william : no
+> gotwood4sheep : ok...ore?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> ljaybrad123 : ore for sheep and wheat or wood
+> gotwood4sheep : one or tother?
+
+Reference  : Result
+Prediction : Explanation
+> gotwood4sheep : afraid I can't pay 2 for 1...
+> gotwood4sheep : apologies!
+
+Reference  : Question-answer_pair
+Prediction : Result
+> gotwood4sheep : afraid I can't pay 2 for 1...
+> ljaybrad123 : then sorry no
+
+Reference  : Continuation
+Prediction : Explanation
+> gotwood4sheep : don't have any
+> gotwood4sheep : afraid i haven't seen it rolled either :(
+
+Reference  : Result
+Prediction : Elaboration
+> william : ok laura
+> william : did i get the trade right?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> ljaybrad123 : being called laura is odd :p
+> gotwood4sheep : are you ljay?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> ljaybrad123 : being called laura is odd :p
+> william : sorry. what do you want to be called?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : lj works
+> gotwood4sheep : lj cool
+
+== s1-league2-game1_14 ==
+
+Reference  : Continuation
+Prediction : Elaboration
+> sabercat : skinny
+> sabercat : I need 2 sheep...
+
+Reference  : Continuation
+Prediction : Q-Elab
+> skinnylinny : Yes?
+> skinnylinny : What do you want for them?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> skinnylinny : What do you want for them?
+> sabercat : can you trade for 3 clays
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> sabercat : can you trade for 3 clays
+> skinnylinny : I'll give you two sheep for 2 clay or for a clay and a wheat or a clay and a wood
+
+Reference  : Contrast
+Prediction : Comment
+> skinnylinny : I'll give you two sheep for 2 clay or for a clay and a wheat or a clay and a wood
+> sabercat : dont have the other...
+
+Reference  : Elaboration
+Prediction : Result
+> sabercat : dont have the other...
+> skinnylinny : 2 sheep for 2 clay?
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> skinnylinny : 2 sheep for 2 clay?
+> sabercat : okay :D
+
+Reference  : Background
+Prediction : Elaboration
+> sabercat : okay :D
+> sabercat : btw... originally, I was offering 3 clay..
+
+Reference  : Background
+Prediction : Comment
+> sabercat : thanks
+> skinnylinny : Congrats!
+
+Reference  : Background
+Prediction : Comment
+> sabercat : thanks
+> IG : anyway, good game guys.
+
+Reference  : Background
+Prediction : Comment
+> skinnylinny : Congrats!
+> IG : anyway, good game guys.
+
+Reference  : Background
+Prediction : Result
+> IG : anyway, good game guys.
+> sabercat : I hve built the buildings really badly in the beginning
+
+Reference  : Result
+Prediction : Explanation
+> sabercat : I hve built the buildings really badly in the beginning
+> sabercat : so... a surprise here too..
+
+Reference  : Parallel
+Prediction : Result
+> sabercat : so... a surprise here too..
+> sabercat : so... a surprise here too..
+
+Reference  : Background
+Prediction : Acknowledgement
+> sabercat : so... a surprise here too..
+> skinnylinny : Right
+
+Reference  : Continuation
+Prediction : Clarification_question
+> skinnylinny : Amy said she can do tomorrow night
+> skinnylinny : Can either of you?
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> IG : yea
+> sabercat : yeah
+
+Reference  : Acknowledgement
+Prediction : Comment
+> skinnylinny : OK, I'll send out a group email
+> sabercat : thanks guys
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> skinnylinny : OK, I'll send out a group email
+> skinnylinny : What time?
+
+Reference  : Background
+Prediction : Comment
+> sabercat : thanks guys
+> IG : good stuff. see you guys tomorrow :)
+
+Reference  : Background
+Prediction : Acknowledgement
+> IG : good stuff. see you guys tomorrow :)
+> skinnylinny : Indeed, thanks all
+
+Reference  : Parallel
+Prediction : Continuation
+> skinnylinny : Indeed, thanks all
+> skinnylinny : Indeed, thanks all
+
+== s1-league1-game3_11 ==
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> william : i am giving wood for ore
+> ljaybrad123 : stupid robber means no ore
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> tomas.kostan : looking for some sheep and wheat
+> gotwood4sheep : will for clay
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> tomas.kostan : looking for some sheep and wheat
+> william : i will give you a shepp for ore
+
+Reference  : Result
+Prediction : Question-answer_pair
+> gotwood4sheep : will for clay
+> tomas.kostan : deal
+
+Reference  : Result
+Prediction : Comment
+> tomas.kostan : i give you clay you give me sheep and wheat
+> gotwood4sheep : pricey clay
+
+Reference  : Explanation
+Prediction : Result
+> gotwood4sheep : pricey clay
+> tomas.kostan : i can offer just one
+
+Reference  : Explanation
+Prediction : Continuation
+> gotwood4sheep : ah go on
+> gotwood4sheep : interest on that delayed sheep trade
+
+Reference  : Result
+Prediction : Q-Elab
+> gotwood4sheep : no clay sorry
+> ljaybrad123 : or a sheep for something?
+
+Reference  : Result
+Prediction : Comment
+> william : sry
+> ljaybrad123 : or a sheep for something?
+
+Reference  : Result
+Prediction : Q-Elab
+> tomas.kostan : no
+> ljaybrad123 : or a sheep for something?
+
+Reference  : Conditional
+Prediction : Parallel
+> ljaybrad123 : yes
+> william : if you give me ore
+
+Reference  : Narration
+Prediction : Result
+> gotwood4sheep : no problem
+> gotwood4sheep : let's roll some 5s now!
+
+== s1-league1-game1_03 ==
+
+Reference  : Explanation
+Prediction : Q-Elab
+> gotwood4sheep : william, you're a true diplomat
+> william : ^^ it might just pay off in the long run
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> tomas.kostan : clay to spare? :)
+> william : yup
+
+Reference  : Continuation
+Prediction : Elaboration
+> william : yup
+> william : i need ore or wood
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : ouch :(
+> gotwood4sheep : robbed
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> gotwood4sheep : ouch :(
+> tomas.kostan : what was that? :D
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : i have 0 sheep,
+> gotwood4sheep : I know they are in high demand too
+
+Reference  : Continuation
+Prediction : Explanation
+> gotwood4sheep : I know they are in high demand too
+> gotwood4sheep : i appreciate we're all sheepless
+
+Reference  : Explanation
+Prediction : Continuation
+> tomas.kostan : no clay
+> tomas.kostan : robber steals it all!
+
+Reference  : Comment
+Prediction : Contrast
+> tomas.kostan : no clay
+> gotwood4sheep : i wanted y'all to make clay too... ...
+
+Reference  : Acknowledgement
+Prediction : Comment
+> tomas.kostan : robber steals it all!
+> gotwood4sheep : so he does, 
+
+Reference  : Acknowledgement
+Prediction : Contrast
+> gotwood4sheep : i wanted y'all to make clay too... ...
+> tomas.kostan : i know
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> tomas.kostan : i will give you sheep for a clay!
+> gotwood4sheep : i have no clay :(
+
+Reference  : Contrast
+Prediction : Acknowledgement
+> gotwood4sheep : i have no clay :(
+> william : here
+
+Reference  : Correction
+Prediction : Comment
+> william : none left to trade
+> gotwood4sheep : c'est pas vrai
+
+Reference  : Elaboration
+Prediction : Continuation
+> william : none left to trade
+> william : to trade ;)
+
+Reference  : Correction
+Prediction : Continuation
+> gotwood4sheep : c'est pas vrai
+> william : to trade ;)
+
+Reference  : Alternation
+Prediction : Comment
+> gotwood4sheep : william, can you spare another clay for another wood?
+> gotwood4sheep : or are you now wooded up
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : ore to spare william?
+> william : ^^ i need sheep as always
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : 3s are treating you well
+> gotwood4sheep : kerching
+
+== s1-league1-game2_05 ==
+
+Reference  : Q-Elab
+Prediction : Result
+> tomas.kostan : can i get a sheep for a wood?
+> tomas.kostan : and some wheat to spare for a friend? :)
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> ljaybrad123 : i has no sheep :p
+> ljaybrad123 : I has ore/...
+
+Reference  : Q-Elab
+Prediction : Continuation
+> william : yes here
+> tomas.kostan : and some wheat to spare for a friend? :)
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> ljaybrad123 : wood?
+> tomas.kostan : noooo :D
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> william : but i really dont need sheep
+> ljaybrad123 : william for a sheep?
+
+Reference  : Correction
+Prediction : Q-Elab
+> ljaybrad123 : william for a sheep?
+> ljaybrad123 : 2 sheep?
+
+Reference  : Continuation
+Prediction : Result
+> ljaybrad123 : yay sheep :D
+> tomas.kostan : can i get wheet from someone?
+
+Reference  : Alternation
+Prediction : Q-Elab
+> william : clay?
+> william : ore?
+
+== pilot01_05 ==
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> Tomm : Dave: Wheat for a clay?
+> Dave : sure, can you do 2 for 2,
+
+Reference  : Q-Elab
+Prediction : Alternation
+> Dave : sure, can you do 2 for 2,
+> Dave : or do you just want 1 for 1
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Dave : but it's not ideal
+> Tomm : That's true...
+
+Reference  : Explanation
+Prediction : Continuation
+> Tomm : That's true...
+> Tomm : 4 -> 1
+
+Reference  : Correction
+Prediction : Result
+> Dave : 10 10 10
+> Dave : :9
+
+Reference  : Comment
+Prediction : Correction
+> Dave : :9
+> Dave : *:(
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Dave : :9
+> Tomm : Yeah.
+
+Reference  : Elaboration
+Prediction : Explanation
+> Dave : also 7's,
+> Dave : we've had about half the rolls as sevens
+
+Reference  : Continuation
+Prediction : Comment
+> Tomm : 7 is the most likely to be fair
+> Tomm : from what I remember
+
+Reference  : Comment
+Prediction : Continuation
+> Dave : more wheat,
+> Dave : great
+
+Reference  : Result
+Prediction : Narration
+> Dave : more wheat,
+> Dave : anyone need wheat?
+
+Reference  : Comment
+Prediction : Explanation
+> Tomm : well... sigh.
+> Dave : least you didn't have to lose half your resrouces this time
+
+Reference  : Contrast
+Prediction : Elaboration
+> Tomm : true.
+> Tomm : I'd rather like to roll an 8 though :P
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Tomm : Oh... now I get wheat(!)
+> Dave : heh
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Tomm : Oh... now I get wheat(!)
+> rennoc1 : any spare ores anyone?
+
+== pilot20_08 ==
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> Rainbow : i still need clay
+> inca : i still have none,
+
+Reference  : Q-Elab
+Prediction : Continuation
+> Rainbow : i still need clay
+> Rainbow : ores?
+
+Reference  : Alternation
+Prediction : Comment
+> ariachiba : Trade 3 of any one resource for another frin the bank.
+> ariachiba : Otherwise it's 4:1/
+
+Reference  : Explanation
+Prediction : Elaboration
+> inca : Oh hold on,
+> inca : I don't even have a settlement on the port
+
+Reference  : Narration
+Prediction : Result
+> Kittles : nope
+> Kittles : wood for clay?
+
+Reference  : Clarification_question
+Prediction : Result
+> Kittles : wood for clay?
+> Rainbow : u nd wood?
+
+Reference  : Comment
+Prediction : Continuation
+> ariachiba : no
+> ariachiba : Sorry,
+
+Reference  : Continuation
+Prediction : Result
+> Rainbow : ya
+> Rainbow : u nd wood?
+
+Reference  : Elaboration
+Prediction : Result
+> Kittles : no
+> Kittles : clay or ore
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> Kittles : no, i need clay or ore
+> inca : don't have either,
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> Kittles : no, i need clay or ore
+> ariachiba : I have none.
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> Kittles : no, i need clay or ore
+> Rainbow : i dny hv
+
+== pilot14_12 ==
+
+Reference  : Comment
+Prediction : Elaboration
+> J : sure
+> J : ummm...
+
+Reference  : Elaboration
+Prediction : Continuation
+> J : sure
+> J : sheep please
+
+== pilot21_01 ==
+
+Reference  : Clarification_question
+Prediction : Explanation
+> Katherine : we're waiting for 2 other players
+> Katherine : right
+
+Reference  : Comment
+Prediction : Correction
+> Katherine : we're waiting for 2 other players
+> Katherine : somethings not working...
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> Katherine : right
+> Katherine : ok
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> Katherine : right
+> Charlotte : yep
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> Katherine : right
+> Amanda : yeh
+
+Reference  : Elaboration
+Prediction : Continuation
+> Katherine : ok
+> Katherine : sure
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> Charlotte : yep
+> Amanda : yeh
+
+Reference  : Elaboration
+Prediction : Explanation
+> Josephine : You don't have to press it,
+> Josephine : just press done at the end
+
+== pilot21_03 ==
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Amanda : anyone got any ore?
+> Amanda : in exhange for some sheep
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Josephine : How many before discarding?
+> Amanda : :O katherine!
+
+Reference  : Elaboration
+Prediction : Continuation
+> Amanda : :O katherine!
+> Amanda : how could you?
+
+Reference  : Explanation
+Prediction : Comment
+> Katherine : im sorry
+> Katherine : im not even sure
+
+Reference  : Continuation
+Prediction : Comment
+> Katherine : im not even sure
+> Katherine : whats going on...
+
+== s1-league1-game3_09 ==
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : she's back!
+> gotwood4sheep : no worries
+
+Reference  : Explanation
+Prediction : Comment
+> gotwood4sheep : she's back!
+> ljaybrad123 : interet died
+
+Reference  : Result
+Prediction : Acknowledgement
+> ljaybrad123 : interet died
+> gotwood4sheep : we were talking with out you,
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> ljaybrad123 : interet died
+> gotwood4sheep : do you lose the chat log?
+
+Reference  : Clarification_question
+Prediction : Comment
+> gotwood4sheep : we were talking with out you,
+> gotwood4sheep : do you lose the chat log?
+
+Reference  : Elaboration
+Prediction : Continuation
+> gotwood4sheep : we were talking with out you,
+> gotwood4sheep : we were negotiating a truce
+
+Reference  : Narration
+Prediction : Elaboration
+> gotwood4sheep : I can offer about 10mins more,
+> gotwood4sheep : we'll see where we're at
+
+Reference  : Comment
+Prediction : Explanation
+> william : yup, just hurry everyone...
+> ljaybrad123 : ill try
+
+Reference  : Narration
+Prediction : Explanation
+> ljaybrad123 : ill try
+> ljaybrad123 : anyone have wheat or clay for sheep?
+
+Reference  : Contrast
+Prediction : Elaboration
+> gotwood4sheep : afraid not :(
+> gotwood4sheep : i could do wheat for 1 sheep 1 clay
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> william : i need clay or ore. i have lots of wood
+> gotwood4sheep : apologies :(
+
+Reference  : Explanation
+Prediction : Parallel
+> gotwood4sheep : apologies :(
+> gotwood4sheep : no help here
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : nope
+> gotwood4sheep : it may prove a prudent trade, lj...
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> gotwood4sheep : it may prove a prudent trade, lj...
+> ljaybrad123 : nope
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : nope
+> gotwood4sheep : apologies...
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : cheeky
+> gotwood4sheep : 50/50 short
+
+Reference  : Correction
+Prediction : Comment
+> gotwood4sheep : 50/50 short
+> gotwood4sheep : shot*
+
+== pilot20_07 ==
+
+Reference  : Clarification_question
+Prediction : Comment
+> Rainbow : sheep any1?
+> ariachiba : You need sheep?
+
+Reference  : Alternation
+Prediction : Q-Elab
+> Rainbow : ore any1?
+> Rainbow : clay?
+
+== pilot01_04 ==
+
+Reference  : Result
+Prediction : Parallel
+> Tomm : ORE! :D
+> Tomm : Also... you're all gonna hate me
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Tomm : Also... you're all gonna hate me
+> Dave : oh no
+
+Reference  : Explanation
+Prediction : Elaboration
+> Tomm : Sorry,
+> Tomm : need me some clay
+
+Reference  : Explanation
+Prediction : Result
+> Tomm : It's okay Dave,
+> Tomm : so did I.
+
+Reference  : Result
+Prediction : Question-answer_pair
+> Dave : wheat for ore anyone?
+> Tomm : You just nicked my wheat :P
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Dave : wheat for ore anyone?
+> Dave : Want to buy it back? :D
+
+Reference  : Result
+Prediction : Continuation
+> Tomm : You just nicked my wheat :P
+> Tomm : Not going to buy it back
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Tomm : Not going to buy it back
+> Dave : aw
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Dave : discard?
+> Tomm : Well that was upsetting.
+
+Reference  : Clarification_question
+Prediction : Question-answer_pair
+> Tomm : Well that was upsetting.
+> Dave : did you just lose four resources?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Tomm : yes
+> Dave : how?
+
+Reference  : Continuation
+Prediction : Question-answer_pair
+> rennoc1 : rolled a 7
+> Tomm : Had too many cards when a 7 came up
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Dave : but
+> Dave : oh
+
+Reference  : Explanation
+Prediction : Contrast
+> Dave : but
+> Dave : didn't know that was a thing
+
+Reference  : Comment
+Prediction : Elaboration
+> Tomm : I think it's over 7?
+> Tomm : Anyway. Bah.
+
+Reference  : Background
+Prediction : Explanation
+> Tomm : Anyone want anything for wood?
+> Tomm : seeing as no one is rolling 8's despite it being really likely.
+
+Reference  : Contrast
+Prediction : Continuation
+> Dave : equally likely for all numbers?
+> Dave : Although I guess it depends on how the rolls are simulated
+
+Reference  : Result
+Prediction : Contrast
+> Tomm : You are rolling 2 dice...
+> Tomm : so there are more ways of rolling say an 8, rather than a 2
+
+Reference  : Question-answer_pair
+Prediction : Background
+> Tomm : So no wood anyone?
+> Tomm : okay
+
+Reference  : Elaboration
+Prediction : Comment
+> Dave : really
+> Dave : reallllly
+
+Reference  : Elaboration
+Prediction : Continuation
+> Tomm : Oh great.
+> Tomm : Sheep.
+
+Reference  : Clarification_question
+Prediction : Continuation
+> Tomm : Sorry,
+> Tomm : what did you roll Rennoc?
+
+== pilot04_09 ==
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> skinnylinny : Nancy:
+> skinnylinny : Yes please
+
+Reference  : Q-Elab
+Prediction : Result
+> skinnylinny : Yes please
+> Nancy : do u have ore or sheep?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> Nancy : do u have ore or sheep?
+> skinnylinny : Nope,
+
+Reference  : Elaboration
+Prediction : Explanation
+> skinnylinny : Nope,
+> skinnylinny : wheat and clay
+
+Reference  : Result
+Prediction : Q-Elab
+> skinnylinny : wheat and clay
+> Nancy : so whst do u want to give me for the clay?
+
+Reference  : Question-answer_pair
+Prediction : Alternation
+> Nancy : so whst do u want to give me for the clay?
+> skinnylinny : wheat?
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> skinnylinny : wheat?
+> Nancy : yeah i need ore
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Nancy : yeah i need ore
+> skinnylinny : oh well
+
+Reference  : Comment
+Prediction : Elaboration
+> skinnylinny : oh well
+> skinnylinny : Shouldn't have put the robber on the ore space, then
+
+Reference  : Parallel
+Prediction : Comment
+> skinnylinny : Shouldn't have put the robber on the ore space, then
+> Chameleon : seconded
+
+Reference  : Correction
+Prediction : Comment
+> Nancy : that wasnt me
+> skinnylinny : Shouldn't have put the robber on the ore space, then
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Chameleon : not me
+> skinnylinny : Shouldn't have put the robber on the ore space, then
+
+Reference  : Correction
+Prediction : Comment
+> Chameleon : seconded
+> Nancy : that wasnt me
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> Nancy : that wasnt me
+> Chameleon : not me
+
+Reference  : Parallel
+Prediction : Contrast
+> Chameleon : not me
+> skinnylinny : Nor me
+
+Reference  : Explanation
+Prediction : Acknowledgement
+> skinnylinny : Nor me
+> Chameleon : I put it on 11
+
+Reference  : Result
+Prediction : Explanation
+> Nancy : thinking
+> Nancy : i want to trade with the port
+
+Reference  : Result
+Prediction : Contrast
+> Nancy : i want to trade with the port
+> Chameleon : then you need to build there
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> Chameleon : then you need to build there
+> Nancy : ok
+
+== pilot03_04 ==
+
+Reference  : Background
+Prediction : Continuation
+> Cardlinger : snake eyess
+> Cardlinger : anyone want wheat or wood for a clay?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> jon : I'm out too
+> Cardlinger : ah dommage
+
+Reference  : Comment
+Prediction : Background
+> Joel : Euan - trade you a wheat for a sheep?
+> Cardlinger : joel gets more wheat for the weetos and wheat crunchie producers
+
+Reference  : Parallel
+Prediction : Result
+> Cardlinger : joel gets more wheat for the weetos and wheat crunchie producers
+> Euan : And I get more mutton.
+
+Reference  : Comment
+Prediction : Result
+> Euan : And I get more mutton.
+> Cardlinger : i'm hungry
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Euan : Sure, Joel.
+> Joel : thx
+
+== pilot03_07 ==
+
+Reference  : Result
+Prediction : Elaboration
+> Cardlinger : quick expansion
+> Cardlinger : I think our clay dearth is solved
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Joel : here's hoping
+> Euan : Mhm.
+
+Reference  : Continuation
+Prediction : Explanation
+> Cardlinger : soooooon
+> Cardlinger : soooooon
+
+Reference  : Result
+Prediction : Continuation
+> Euan : ...nope
+> Euan : Anyone got any ore?
+
+Reference  : Explanation
+Prediction : Comment
+> Joel : havent had it in awhile
+> Joel : actually the robber is on my ore
+
+Reference  : Continuation
+Prediction : Result
+> Cardlinger : afraid
+> Cardlinger : I can't help -
+
+Reference  : Explanation
+Prediction : Result
+> Cardlinger : I can't help -
+> Cardlinger : if it trade my ore for the sheep
+
+Reference  : Conditional
+Prediction : Elaboration
+> Cardlinger : if it trade my ore for the sheep
+> Cardlinger : i can't buy a card
+
+Reference  : Explanation
+Prediction : Conditional
+> Cardlinger : if i*
+> Cardlinger :  typo
+
+Reference  : Result
+Prediction : Comment
+> Cardlinger : phew
+> Euan : And so people gain clay
+
+Reference  : Narration
+Prediction : Continuation
+> Cardlinger : phew
+> Cardlinger : anyone want wheat or wood for an ore?
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> Euan : I think
+> Euan : we want a 7
+
+Reference  : Result
+Prediction : Explanation
+> Euan : we want a 7
+> Euan : just to move the robber away again
+
+Reference  : Result
+Prediction : Contrast
+> Joel : i have no ore
+> Euan : Reactivate our ore
+
+Reference  : Elaboration
+Prediction : Continuation
+> Euan : Reactivate our ore
+> Euan : There's a bunch of 8s, after all
+
+Reference  : Continuation
+Prediction : Comment
+> Cardlinger : hey markus
+> Euan : Hi Markus
+
+Reference  : Continuation
+Prediction : Comment
+> Euan : Hi Markus
+> Joel : man
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Joel : this lack of clay is a real problem
+> Euan : Happens sometimes
+
+Reference  : Comment
+Prediction : Elaboration
+> Euan : I guess
+> Euan : Happens sometimes
+
+== s1-league1-game3_02 ==
+
+Reference  : Acknowledgement
+Prediction : Comment
+> tomas.kostan : no sry
+> gotwood4sheep : no worries, I'll keep asking :D
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> william : i will give you 1 clay for 1 ore
+> gotwood4sheep : have no ore, william, sorry
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> gotwood4sheep : i have an abundance :)
+> ljaybrad123 : just like last time?
+
+Reference  : Q-Elab
+Prediction : Continuation
+> tomas.kostan : i will give you 1 clay for 1 sheep :)
+> tomas.kostan : anyone?
+
+Reference  : Continuation
+Prediction : Elaboration
+> gotwood4sheep : i'll do that
+> gotwood4sheep : i can improve :)
+
+Reference  : Explanation
+Prediction : Comment
+> gotwood4sheep : I'll give you a free sheep in my turn :)
+> gotwood4sheep : as you registered hastily :)
+
+Reference  : Parallel
+Prediction : Comment
+> ljaybrad123 : i dunno how to make trades work :(
+> william : i also forgot
+
+Reference  : Continuation
+Prediction : Result
+> gotwood4sheep : ljay, once you agree your prices,
+> gotwood4sheep : click "register a trade".
+
+Reference  : Continuation
+Prediction : Elaboration
+> gotwood4sheep : click "register a trade".
+> gotwood4sheep :  Plug in what you give and get,
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep :  Plug in what you give and get,
+> gotwood4sheep : check th
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> gotwood4sheep : tomas remember I'm on the hook for a sheep to you
+> tomas.kostan : i will keep that that in mind no worries :)
+
+Reference  : Result
+Prediction : Question-answer_pair
+> ljaybrad123 : anyone have wheat for sheep?
+> gotwood4sheep : I'll have my sheep back :D
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : yep :)
+> gotwood4sheep : pleasure doing business
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> gotwood4sheep : dammit it won't let me trade for nothing
+> tomas.kostan : no problem :D
+
+Reference  : Result
+Prediction : Explanation
+> gotwood4sheep : dammit it won't let me trade for nothing
+> gotwood4sheep : tomas, next trade add in a sheep
+
+Reference  : Continuation
+Prediction : Elaboration
+> ljaybrad123 : i have clay
+> ljaybrad123 : would like wood
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : sure
+> gotwood4sheep : ty ty :)
+
+Reference  : Explanation
+Prediction : Comment
+> gotwood4sheep : sorry laura
+> gotwood4sheep : needed clay the mean way :D
+
+== s1-league2-game2_03 ==
+
+Reference  : Explanation
+Prediction : Elaboration
+> sabercat : sorry guys... its crazy, 
+> sabercat : it just froze for a while
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> dmm : by the way, does anybody want a sheep? 
+> dmm : i'm looking for one wood.
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : sorryt
+> dmm : ahh, oh well
+
+Reference  : Explanation
+Prediction : Comment
+> dmm : Nope, 
+> dmm :  i'm okay now
+
+Reference  : Continuation
+Prediction : Explanation
+> amycharl : ill give you a couple
+> amycharl : ill take wheat
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> sabercat : can anyone trade wheat for clay?
+> IG : which do you want?
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> IG : hey, giving wheat/sheep for wood
+> sabercat : both?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> sabercat : okay, thanks!
+> IG : cheers
+
+== pilot21_08 ==
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Katherine : this is going to take forever..
+> Amanda : :(
+
+Reference  : Explanation
+Prediction : Elaboration
+> Josephine : Not that long,
+> Josephine : it gets quicker
+
+Reference  : Continuation
+Prediction : Elaboration
+> Josephine : it gets quicker
+> Josephine : as people build more
+
+Reference  : Elaboration
+Prediction : Continuation
+> Josephine : Wood for clay
+> Josephine : 1 4 1
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> Josephine : Okay,
+> Josephine : yes
+
+== pilot21_10 ==
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> Charlotte : do you mean
+> Charlotte : you want wheat??
+
+Reference  : Elaboration
+Prediction : Contrast
+> Katherine : no
+> Katherine : i want to get rid of it
+
+Reference  : Comment
+Prediction : Explanation
+> Charlotte : don't haveit
+> Charlotte : sorry
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Amanda : does anyone want sheep?
+> Amanda : i want clay or ore
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Josephine : yup
+> Charlotte : yes
+
+Reference  : Contrast
+Prediction : Continuation
+> Charlotte : yes
+> Charlotte : but what do you want in return again?
+
+Reference  : Elaboration
+Prediction : Alternation
+> Amanda : anyone else want some more sheeep?
+> Amanda : i need ore!
+
+Reference  : Continuation
+Prediction : Comment
+> Amanda : i've just realised
+> Amanda : that i totally sabotaged myself with that robber
+
+== pilot04_05 ==
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> skinnylinny : Oh right,
+> skinnylinny : ok
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Nancy : im trying th trade with the bank
+> Chameleon : ah
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Nancy : im trying th trade with the bank
+> skinnylinny : ah.
+
+Reference  : Continuation
+Prediction : Elaboration
+> Nancy : im trying th trade with the bank
+> Nancy : not sure how many u need to trade
+
+Reference  : Continuation
+Prediction : Clarification_question
+> skinnylinny : ah.
+> skinnylinny : no joy?
+
+Reference  : Contrast
+Prediction : Q-Elab
+> Nancy : not sure how many u need to trade
+> Nancy : unless either of you want some sheep?
+
+Reference  : Question-answer_pair
+Prediction : Clarification_question
+> Nancy : not sure how many u need to trade
+> Chameleon : you need 4 of something dont you?
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> Nancy : unless either of you want some sheep?
+> Chameleon : I do....
+
+Reference  : Q-Elab
+Prediction : Contrast
+> Nancy : ok
+> Nancy : want can u give
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> Nancy : want can u give
+> Chameleon : wheat?
+
+Reference  : Continuation
+Prediction : Result
+> Chameleon : (hence 3:1 and 2:1 on the colourde ports)
+> skinnylinny : And to trade with the bank you need to give them 4 items for them to give you one
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Chameleon : wheat?
+> Nancy : brillant
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Nancy : brillant
+> Chameleon : :)
+
+Reference  : Result
+Prediction : Acknowledgement
+> skinnylinny : yup
+> Chameleon : done
+
+== s1-league1-game3_12 ==
+
+Reference  : Alternation
+Prediction : Comment
+> gotwood4sheep : lol 4 nooo!
+> ljaybrad123 : or not :p
+
+Reference  : Comment
+Prediction : Clarification_question
+> ljaybrad123 : or not :p
+> gotwood4sheep : how prescient
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : how prescient
+> gotwood4sheep : great move of the robber!
+
+Reference  : Alternation
+Prediction : Elaboration
+> ljaybrad123 : anyone got ore?
+> ljaybrad123 : anyone got shee?p
+
+Reference  : Result
+Prediction : Comment
+> tomas.kostan : no ore in here either
+> ljaybrad123 : anyone got shee?p
+
+Reference  : Alternation
+Prediction : Elaboration
+> ljaybrad123 : anyone got shee?p
+> ljaybrad123 : anyone got wood?
+
+Reference  : Result
+Prediction : Narration
+> gotwood4sheep : nope sorry
+> ljaybrad123 : anyone got wood?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> ljaybrad123 : anyone got wood?
+> gotwood4sheep : for what
+
+Reference  : Acknowledgement
+Prediction : Comment
+> ljaybrad123 : 2 wheat
+> gotwood4sheep : ah hmm
+
+Reference  : Contrast
+Prediction : Result
+> ljaybrad123 : 2 wheat
+> gotwood4sheep : I'll pass
+
+Reference  : Result
+Prediction : Question-answer_pair
+> ljaybrad123 : 2 wheat
+> william : i will give you a wood for 2 wheat then
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : sorry,
+> gotwood4sheep : just counted your road,
+
+Reference  : Comment
+Prediction : Result
+> ljaybrad123 : awesome :P
+> gotwood4sheep : lol i just got out traded :D
+
+Reference  : Comment
+Prediction : Result
+> ljaybrad123 : :) I may have fibbed a little...
+> ljaybrad123 : thats scary
+
+Reference  : Explanation
+Prediction : Result
+> gotwood4sheep : *ADDTIME*
+> gotwood4sheep : let's be on the safe side
+
+== pilot03_05 ==
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Euan : I'm repeatedly being distracted by CSS
+> jon : maybe there's another css emergency?
+
+Reference  : Acknowledgement
+Prediction : Contrast
+> Euan : I can give some sheep for some wood
+> Cardlinger : coool
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Euan : Sounds good
+> Cardlinger : ty Euan
+
+Reference  : Continuation
+Prediction : Explanation
+> Cardlinger : sorry i have wheat,
+> Cardlinger : it's clay i fancy
+
+Reference  : Comment
+Prediction : Acknowledgement
+> jon : sorry
+> Cardlinger : no worries,
+
+Reference  : Explanation
+Prediction : Elaboration
+> Joel : yeah
+> Joel : you have 10 cards!
+
+Reference  : Continuation
+Prediction : Elaboration
+> Cardlinger : yeah
+> Cardlinger : i'm producing.
+
+Reference  : Contrast
+Prediction : Explanation
+> Cardlinger : i'm producing.
+> Cardlinger :  just watch me roll a 7 tho
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Joel : havent had clay in awhile
+> Euan : Ah well.
+
+Reference  : Result
+Prediction : Comment
+> Cardlinger : no ore,
+> Cardlinger : i lament
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : considering my burgeoning resources
+> Euan : hehe
+
+Reference  : Comment
+Prediction : Elaboration
+> Cardlinger : i'm wheaty and woody presently
+> Cardlinger : like a good cigar, perhaps
+
+Reference  : Contrast
+Prediction : Continuation
+> Euan : Ah well.
+> Euan : Maybe next turn things'll've changed.
+
+== pilot20_03 ==
+
+Reference  : Elaboration
+Prediction : Question-answer_pair
+> inca : Does anyone have a wood?
+> inca : I can give sheep or wheat
+
+Reference  : Clarification_question
+Prediction : Result
+> inca : Cool
+> inca : Did I send that to the right person?
+
+Reference  : Result
+Prediction : Clarification_question
+> ariachiba : You have two settlements on sheep-producers.
+> inca : You get 2 every time we roll a 3
+
+Reference  : Comment
+Prediction : Clarification_question
+> inca : You get 2 every time we roll a 3
+> inca : Which has happened surprisingly often
+
+Reference  : Comment
+Prediction : Continuation
+> Rainbow : nice
+> Rainbow : thnx
+
+== pilot20_12 ==
+
+Reference  : Parallel
+Prediction : Question-answer_pair
+> Rainbow : nd sheep
+> inca : Need mine,
+
+Reference  : Question-answer_pair
+Prediction : Result
+> Rainbow : nd sheep
+> ariachiba : I'll give a sheep for a wood.
+
+Reference  : Elaboration
+Prediction : Continuation
+> inca : (i hope)
+> inca : we will be finishing very soon
+
+== pilot03_03 ==
+
+Reference  : Contrast
+Prediction : Narration
+> Cardlinger : nope
+> Cardlinger : euan just picked one up
+
+Reference  : Comment
+Prediction : Explanation
+> Cardlinger : euan just picked one up
+> Cardlinger : i see
+
+Reference  : Elaboration
+Prediction : Result
+> Joel : euan?
+> Joel : i'll trade clay for ore
+
+Reference  : Explanation
+Prediction : Continuation
+> Euan : sorry,
+> Euan : was helping someone with css
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Cardlinger : we have a lot to teach the UN
+> Euan : Indeed
+
+Reference  : Elaboration
+Prediction : Comment
+> Euan : Well,
+> Euan : maybe not the UN.
+
+Reference  : Explanation
+Prediction : Result
+> Euan : maybe not the UN.
+> Euan : They're just ineffectual.
+
+Reference  : Continuation
+Prediction : Explanation
+> Euan : But many other things.
+> Euan : Now...
+
+Reference  : Elaboration
+Prediction : Continuation
+> Euan : Now...
+> Euan : anyone got any wood?
+
+Reference  : Clarification_question
+Prediction : Result
+> Cardlinger : your clay for my wood?
+> Euan : So do you want the clay or the sheep?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Cardlinger : ok then
+> Euan : So do you want the clay or the sheep?
+
+Reference  : Elaboration
+Prediction : Result
+> Cardlinger : clay
+> Cardlinger : i'll go for dolly later
+
+Reference  : Elaboration
+Prediction : Comment
+> Cardlinger : joel has 2 cities!
+> Cardlinger : wow
+
+Reference  : Elaboration
+Prediction : Contrast
+> Cardlinger : joel has 2 cities!
+> Cardlinger : metropolis
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : metropolis
+> Joel : metropols of wheat
+
+Reference  : Comment
+Prediction : Continuation
+> Joel : metropols of wheat
+> Euan : Your people are well fed
+
+Reference  : Contrast
+Prediction : Correction
+> Euan : Your people are well fed
+> Joel : fat americans though
+
+Reference  : Contrast
+Prediction : Result
+> Joel : fat americans though
+> Euan : Mine eat much mutton
+
+Reference  : Elaboration
+Prediction : Continuation
+> Cardlinger : yup
+> Cardlinger : i got lucky rolls
+
+Reference  : Elaboration
+Prediction : Comment
+> Euan : Whoa!
+> Euan : Nice one
+
+Reference  : Comment
+Prediction : Continuation
+> Euan : Nice one
+> Euan : :D
+
+Reference  : Explanation
+Prediction : Result
+> jon : no
+> jon : I'm done
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> Cardlinger : anyone got a wood
+> Cardlinger : they'd like to trade for ore?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : i'm after wood
+> Joel : hmm
+
+Reference  : Result
+Prediction : Elaboration
+> Joel : ok
+> Joel : i can do a wood for ore
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Joel : i can do a wood for ore
+> Cardlinger : good man
+
+== pilot04_12 ==
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> Chameleon : for what?
+> skinnylinny : wood or clay?
+
+Reference  : Result
+Prediction : Acknowledgement
+> skinnylinny : nope,
+> Chameleon : clay then
+
+Reference  : Comment
+Prediction : Contrast
+> skinnylinny : ok
+> Chameleon : I cant click ok
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> Chameleon : I cant click ok
+> Nancy : sent it to the wrong person
+
+Reference  : Explanation
+Prediction : Elaboration
+> Chameleon : yup,
+> Chameleon : just saw that
+
+Reference  : Comment
+Prediction : Q-Elab
+> Chameleon : just saw that
+> Nancy : again not me :P
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Nancy : again not me :P
+> skinnylinny : How do I send it to her?
+
+Reference  : Elaboration
+Prediction : Result
+> Chameleon : the coloured boxed underneath
+> Nancy : click on the red square
+
+Reference  : Clarification_question
+Prediction : Continuation
+> skinnylinny : Thank you
+> skinnylinny : Better?
+
+Reference  : Correction
+Prediction : Acknowledgement
+> Nancy : Yup
+> Chameleon : Ah
+
+Reference  : Comment
+Prediction : Explanation
+> Chameleon : cant roll after playing a card
+> Chameleon : :(#
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Chameleon : and I cant end my turn
+> skinnylinny : Ah
+
+Reference  : Clarification_question
+Prediction : Continuation
+> skinnylinny : Ah
+> skinnylinny : Can't click "Done"?
+
+Reference  : Comment
+Prediction : Continuation
+> skinnylinny : ADDTIME
+> Nancy : anyone want wood?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Nancy : do u want twoo wood?
+> Chameleon : :)
+
+Reference  : Acknowledgement
+Prediction : Parallel
+> Nancy : sure
+> skinnylinny : sounds good to me
+
+Reference  : Comment
+Prediction : Elaboration
+> skinnylinny : sounds good to me
+> skinnylinny : Gah, I messed that up.
+
+Reference  : Explanation
+Prediction : Continuation
+> skinnylinny : Gah, I messed that up.
+> skinnylinny : I thought light green was wood.
+
+Reference  : Comment
+Prediction : Acknowledgement
+> skinnylinny : I thought light green was wood.
+> skinnylinny : Oh well
+
+== s1-league2-game1_04 ==
+
+Reference  : Comment
+Prediction : Clarification_question
+> IG : Sorry bout that
+> skinnylinny : Should've known, shouldn't I?
+
+Reference  : Q-Elab
+Prediction : Comment
+> skinnylinny : Now I just need to roll elevens
+> sabercat : will you trade wood?
+
+Reference  : Contrast
+Prediction : Comment
+> skinnylinny : Oi! No stealing! :P
+> sabercat : (I didnt!)
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> IG : Clay, ore, sheep?
+> skinnylinny : Hmmmm
+
+Reference  : Contrast
+Prediction : Elaboration
+> IG : sorry
+> IG : can give you2:1 on clay and ore
+
+Reference  : Result
+Prediction : Comment
+> IG : aye
+> skinnylinny : Thanking you
+
+Reference  : Acknowledgement
+Prediction : Comment
+> skinnylinny : Done
+> IG : awesome
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : you are so lucky to have wood!
+> skinnylinny : Hehehehe
+
+== s1-league1-game3_03 ==
+
+Reference  : Explanation
+Prediction : Elaboration
+> gotwood4sheep : anyone want to trade wheat or sheep for a clay? 
+> gotwood4sheep : I need clay
+
+Reference  : Elaboration
+Prediction : Comment
+> gotwood4sheep : I need clay
+> gotwood4sheep : Guess what I am short of lol,
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> gotwood4sheep : I need clay
+> ljaybrad123 : I have sheep
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : no clay in here
+> gotwood4sheep : no worries! 
+
+Reference  : Comment
+Prediction : Acknowledgement
+> william : no, sry
+> gotwood4sheep : no worries! 
+
+Reference  : Contrast
+Prediction : Q-Elab
+> ljaybrad123 : I have sheep
+> gotwood4sheep : sorry, I want clay,
+
+Reference  : Continuation
+Prediction : Elaboration
+> gotwood4sheep : sorry, I want clay,
+> gotwood4sheep : will offer sheep/wheat
+
+Reference  : Result
+Prediction : Question-answer_pair
+> gotwood4sheep : will offer sheep/wheat
+> ljaybrad123 : ahhh sorry nope
+
+Reference  : Result
+Prediction : Comment
+> gotwood4sheep : loads
+> gotwood4sheep : I'm a grain factory
+
+Reference  : Explanation
+Prediction : Elaboration
+> gotwood4sheep : afraid not lol
+> gotwood4sheep : it's clay my heart desires!
+
+Reference  : Parallel
+Prediction : Question-answer_pair
+> gotwood4sheep : it's clay my heart desires!
+> ljaybrad123 : I need clay too
+
+Reference  : Alternation
+Prediction : Continuation
+> gotwood4sheep : it's clay my heart desires!
+> gotwood4sheep : maybe ore...
+
+Reference  : Result
+Prediction : Comment
+> ljaybrad123 : I need clay too
+> gotwood4sheep : sorry ljay
+
+Reference  : Comment
+Prediction : Acknowledgement
+> ljaybrad123 : no ore sorry
+> gotwood4sheep : ah dommage
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> ljaybrad123 : or do i need a building there to trade 2:1
+> gotwood4sheep : you need a building first
+
+Reference  : Comment
+Prediction : Result
+> gotwood4sheep : you need a building first
+> ljaybrad123 : ahhh :(
+
+Reference  : Narration
+Prediction : Continuation
+> ljaybrad123 : ahhh :(
+> ljaybrad123 : anyone have wheat for sheep?
+
+Reference  : Narration
+Prediction : Elaboration
+> ljaybrad123 : bloody sheep :p
+> ljaybrad123 : anyone want sheep for clay?
+
+Reference  : Continuation
+Prediction : Q-Elab
+> gotwood4sheep : so how do people know about the league?
+> gotwood4sheep : and Markus, etc?
+
+Reference  : Elaboration
+Prediction : Explanation
+> ljaybrad123 : i did the trails
+> ljaybrad123 : trials even
+
+Reference  : Explanation
+Prediction : Continuation
+> gotwood4sheep : afraid not :(
+> gotwood4sheep : my single wood is precious
+
+Reference  : Contrast
+Prediction : Explanation
+> ljaybrad123 : no, Im about to start maths,
+> ljaybrad123 : I just hang around appleton a lot
+
+Reference  : Elaboration
+Prediction : Continuation
+> gotwood4sheep : a cad is a devious man,
+> gotwood4sheep : usually trying to seduce/impress ladies
+
+== pilot14_01 ==
+
+Reference  : Narration
+Prediction : Explanation
+> Ash : sorry
+> Ash : i have click one
+
+Reference  : Result
+Prediction : Acknowledgement
+> mmatrtajova : click again
+> Ash : nothing
+
+Reference  : Explanation
+Prediction : Comment
+> Ash : nothing
+> mmatrtajova : well then
+
+Reference  : Continuation
+Prediction : Elaboration
+> mmatrtajova : well then
+> mmatrtajova : choose a number that actually is on the map!
+
+Reference  : Explanation
+Prediction : Elaboration
+> Ash : i see sotty
+> Ash : i am new at this
+
+Reference  : Explanation
+Prediction : Elaboration
+> mmatrtajova : thats okay,
+> mmatrtajova : i have only done it once as well
+
+Reference  : Comment
+Prediction : Acknowledgement
+> mmatrtajova : i have only done it once as well
+> Ash : cool
+
+Reference  : Comment
+Prediction : Clarification_question
+> Ash : cool
+> J : what do i do now?
+
+== pilot01_10 ==
+
+Reference  : Continuation
+Prediction : Question-answer_pair
+> Tomm : You crafty gender non-specific pronoun!
+> Dave : I can give you one wheat and ore for wood
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> Dave : I can give you one wheat and ore for wood
+> Tomm : Don't want ore.
+
+Reference  : Continuation
+Prediction : Q-Elab
+> Tomm : Don't want ore.
+> Tomm : Rennoc what can you offer me for wood?
+
+Reference  : Comment
+Prediction : Q-Elab
+> rennoc1 : how about 4 clay for 1 wood and 1 ore?
+> Tomm : Wow, you are clay tastic, eh?
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Tomm : Wow, you are clay tastic, eh?
+> Dave : (make sure it's not the bath clay he gives you)
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Dave : (make sure it's not the bath clay he gives you)
+> Tomm : eww. Fair point. Fresh clay if you please
+
+Reference  : Result
+Prediction : Acknowledgement
+> Tomm : eww. Fair point. Fresh clay if you please
+> rennoc1 : my bath has been demoted to a sink
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Tomm : Dave... wood for a wheat?
+> Dave : wrong player
+
+Reference  : Continuation
+Prediction : Comment
+> Dave : sure
+> Dave : thanks
+
+Reference  : Correction
+Prediction : Acknowledgement
+> Dave : thanks
+> Tomm : No... thank you all!
+
+Reference  : Explanation
+Prediction : Continuation
+> Tomm : No... thank you all!
+> Tomm : Tommville is now Tommopolis!
+
+Reference  : Continuation
+Prediction : Comment
+> Dave : :O
+> Tomm : Wow, nice roll Rennoc :D
+
+Reference  : Result
+Prediction : Elaboration
+> Dave : :O
+> Dave : ok, rennoc, listen to me
+
+Reference  : Elaboration
+Prediction : Contrast
+> Dave : ok, rennoc, listen to me
+> Dave : don't give tomm wheat
+
+Reference  : Comment
+Prediction : Explanation
+> Dave : don't give tomm wheat
+> Dave : sorry tomm
+
+Reference  : Result
+Prediction : Continuation
+> Dave : don't give tomm wheat
+> rennoc1 : can you give wheat to me, dave?
+
+Reference  : Conditional
+Prediction : Continuation
+> Dave : if he gets wheat
+> Dave : but he can win the game
+
+Reference  : Elaboration
+Prediction : Explanation
+> Tomm : Aww. :(
+> Tomm : Sadly, the man does have a point.
+
+Reference  : Continuation
+Prediction : Q-Elab
+> rennoc1 : can you give wheat to me, dave?
+> rennoc1 : any one have sheep?
+
+Reference  : Comment
+Prediction : Continuation
+> Dave : 3 sheep
+> Dave : really
+
+Reference  : Continuation
+Prediction : Q-Elab
+> Dave : 3 sheep
+> Tomm : Rennoc... I have sheep now?
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Tomm : Rennoc... I have sheep now?
+> Tomm : Got any wheat? :P
+
+Reference  : Elaboration
+Prediction : Continuation
+> Dave : nooooooo
+> Dave : don't give him wheat,
+
+Reference  : Parallel
+Prediction : Conditional
+> Dave : don't give him wheat,
+> Dave : also, if you get the robber
+
+Reference  : Conditional
+Prediction : Background
+> Dave : also, if you get the robber
+> Dave : put it on that wheat tile in the middle
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Tomm : 1 clay for 1 sheep?
+> rennoc1 : thanks
+
+Reference  : Comment
+Prediction : Correction
+> rennoc1 : thanks
+> Dave : uh no
+
+Reference  : Elaboration
+Prediction : Acknowledgement
+> Dave : uh no
+> rennoc1 : we're doomed
+
+Reference  : Contrast
+Prediction : Explanation
+> Dave : uh no
+> Dave : that got you less points than I thought
+
+== pilot01_11 ==
+
+Reference  : Continuation
+Prediction : Comment
+> Tomm : Settlement is worth 2, city 3
+> Dave : anyone got wood or sheep to trade?
+
+Reference  : Q-Elab
+Prediction : Explanation
+> Dave : anyone got wood or sheep to trade?
+> rennoc1 : so before I do does anyone want any of my resources
+
+Reference  : Result
+Prediction : Explanation
+> rennoc1 : well, I am going to have to go in 5-10 mins,
+> rennoc1 : so before I do does anyone want any of my resources
+
+Reference  : Clarification_question
+Prediction : Comment
+> rennoc1 : so before I do does anyone want any of my resources
+> Dave : you have to go?
+
+Reference  : Q-Elab
+Prediction : Comment
+> rennoc1 : so before I do does anyone want any of my resources
+> Dave : I'll add time shall I?
+
+Reference  : Explanation
+Prediction : Contrast
+> Tomm : I'm confused...
+> Tomm : I think I should have won?
+
+Reference  : Continuation
+Prediction : Explanation
+> rennoc1 : yes.
+> rennoc1 : unfortunately,
+
+Reference  : Explanation
+Prediction : Narration
+> Dave : I'll add time shall I?
+> Dave : We can always end it when we want anyway
+
+Reference  : Alternation
+Prediction : Result
+> Dave : We can always end it when we want anyway
+> rennoc1 : or that.
+
+Reference  : Comment
+Prediction : Q-Elab
+> rennoc1 : or that.
+> Dave : do you have any wood or sheep rennoc?
+
+Reference  : Result
+Prediction : Question-answer_pair
+> rennoc1 : or that.
+> Dave : addtime
+
+Reference  : Q-Elab
+Prediction : Correction
+> Dave : 1 ore and 1 wheat for 1 wood and 1 sheep?
+> rennoc1 : how about this.
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> rennoc1 : how about this.
+> Dave : addtime
+
+Reference  : Explanation
+Prediction : Comment
+> Dave : don't have 2 wheat
+> Dave : would have offered it otherwise
+
+Reference  : Clarification_question
+Prediction : Continuation
+> Dave : would have offered it otherwise
+> Dave : rennoc, you there?
+
+Reference  : Result
+Prediction : Q-Elab
+> rennoc1 : I really need to head off,
+> rennoc1 : what do you need guys?
+
+Reference  : Background
+Prediction : Elaboration
+> rennoc1 : what do you need guys?
+> rennoc1 : i have 5 clay, 1 ore, 2 sheep, 1 wood.
+
+Reference  : Continuation
+Prediction : Q-Elab
+> Dave : sheep, wood
+> Dave : a clay?
+
+Reference  : Result
+Prediction : Question-answer_pair
+> Tomm : Feel free to fire me the clay
+> rennoc1 : ok it turns out you have to give me something in a trade
+
+Reference  : Acknowledgement
+Prediction : Comment
+> rennoc1 : ok , thanks guys and good luck!
+> Tomm : cheers, was good playing!
+
+Reference  : Result
+Prediction : Q-Elab
+> rennoc1 : ok , thanks guys and good luck!
+> Dave : so what happens if he quits?
+
+Reference  : Clarification_question
+Prediction : Conditional
+> Dave : so what happens if he quits?
+> Dave : will the game remove him?
+
+Reference  : Question-answer_pair
+Prediction : Continuation
+> Dave : will the game remove him?
+> Tomm : press done on his go :P
+
+Reference  : Comment
+Prediction : Elaboration
+> Tomm : lets finish this up!
+> Tomm : SHEEP!
+
+Reference  : Question-answer_pair
+Prediction : Correction
+> Dave : null needs to discard?
+> Dave : I'm guessing that's rennoc
+
+Reference  : Clarification_question
+Prediction : Question-answer_pair
+> Dave : you've moved it already?
+> Tomm : No, that was for a soldier card
+
+Reference  : Comment
+Prediction : Contrast
+> Dave : it says null needs to discard,
+> Dave : I think it's a bug
+
+Reference  : Explanation
+Prediction : Contrast
+> Dave : I think it's a bug
+> Dave : it's still counting rennoc as having over 7 resources
+
+== s1-league2-game2_05 ==
+
+Reference  : Continuation
+Prediction : Clarification_question
+> amycharl : anyone want a sheep
+> amycharl : ?
+
+Reference  : Contrast
+Prediction : Acknowledgement
+> amycharl : wheat preferably
+> amycharl : anything else is fine
+
+Reference  : Result
+Prediction : Acknowledgement
+> sabercat : dont have that :D
+> amycharl : anything else is fine
+
+Reference  : Elaboration
+Prediction : Explanation
+> sabercat : nope
+> sabercat : (I would, but I have nothing...)
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> amycharl : or a wheat actually
+> sabercat : (I would, but I have nothing...)
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> amycharl : or a wheat actually
+> IG : sorry
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : (I would, but I have nothing...)
+> amycharl : true :)
+
+Reference  : Contrast
+Prediction : Continuation
+> amycharl : oops
+> sabercat : where is my sheep??
+
+Reference  : Q-Elab
+Prediction : Conditional
+> sabercat : I will trade with you when its my turn, 
+> sabercat :  okay?
+
+Reference  : Conditional
+Prediction : Comment
+> amycharl : ill giv you ore for clay
+> sabercat : if I had it...
+
+== s1-league1-game2_08 ==
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> ljaybrad123 : can we sort with niko for more games soon?
+> tomas.kostan : so when is the next one?
+
+Reference  : Question-answer_pair
+Prediction : Elaboration
+> tomas.kostan : so when is the next one?
+> william : it would be great if we could have another one before friday
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> william : it would be great if we could have another one before friday
+> ljaybrad123 : when is you you guys are away?
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> ljaybrad123 : when is you you guys are away?
+> william : i leave on friday for two trips...
+
+Reference  : Result
+Prediction : Acknowledgement
+> william : i leave on friday for two trips...
+> ljaybrad123 : ok, so we could do with playing all games before thursday
+
+Reference  : Contrast
+Prediction : Continuation
+> ljaybrad123 : ok, so we could do with playing all games before thursday
+> ljaybrad123 : taht could be tough
+
+Reference  : Elaboration
+Prediction : Result
+> ljaybrad123 : ok, so we could do with playing all games before thursday
+> william : tuesday night works for me
+
+Reference  : Result
+Prediction : Continuation
+> tomas.kostan : and then back here again on monday
+> tomas.kostan : ok why not
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> william : tuesday night works for me
+> ljaybrad123 : no
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> ljaybrad123 : no
+> william : no?
+
+Reference  : Explanation
+Prediction : Continuation
+> ljaybrad123 : I cant do thursday....
+> ljaybrad123 : ill sit out that one?
+
+Reference  : Result
+Prediction : Question-answer_pair
+> ljaybrad123 :  but maybe niko could?
+> william : hmm. sure. we'll email him them
+
+Reference  : Acknowledgement
+Prediction : Result
+> william : fine
+> tomas.kostan : i can too so it should be fine
+
+Reference  : Result
+Prediction : Continuation
+> tomas.kostan : me too :)
+> tomas.kostan : we just need to email niko
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : i will do it
+> ljaybrad123 : thankyou
+
+Reference  : Comment
+Prediction : Acknowledgement
+> tomas.kostan : i will do it
+> william : thx
+
+Reference  : Narration
+Prediction : Explanation
+> ljaybrad123 : thankyou
+> ljaybrad123 : ok I should go make some food
+
+Reference  : Comment
+Prediction : Background
+> ljaybrad123 : thanks for a great game guys
+> tomas.kostan : thx see you later
+
+Reference  : Narration
+Prediction : Continuation
+> ljaybrad123 : please CC markus in
+> ljaybrad123 : bye
+
+Reference  : Comment
+Prediction : Continuation
+> ljaybrad123 : bye
+> tomas.kostan : bb
+
+== s1-league2-game1_11 ==
+
+Reference  : Continuation
+Prediction : Parallel
+> IG : um not really?
+> sabercat : anyone has wheat?
+
+Reference  : Continuation
+Prediction : Parallel
+> sabercat : thanks
+> IG : need sheep...
+
+Reference  : Comment
+Prediction : Continuation
+> sabercat : theres your sheep :)
+> skinnylinny : Does anyone have any wood?
+
+Reference  : Continuation
+Prediction : Q-Elab
+> skinnylinny : Does anyone have any wood?
+> skinnylinny : Or does anyone have any ore they'd give me for a clay or a sheep?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> sabercat : nope
+> skinnylinny : *sigh*
+
+Reference  : Acknowledgement
+Prediction : Q-Elab
+> IG : nah
+> skinnylinny : *sigh*
+
+Reference  : Clarification_question
+Prediction : Continuation
+> skinnylinny : Argh
+> skinnylinny : How do I trade with a port?
+
+Reference  : Clarification_question
+Prediction : Question-answer_pair
+> skinnylinny : How do I trade with a port?
+> sabercat : trade with bank/port
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> skinnylinny : How do I trade with a port?
+> skinnylinny : I can't get it to accept
+
+Reference  : Elaboration
+Prediction : Explanation
+> skinnylinny : How do I trade with a port?
+> skinnylinny : wood port
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> sabercat : trade with bank/port
+> skinnylinny : Yes
+
+Reference  : Explanation
+Prediction : Result
+> skinnylinny : I can't get it to accept
+> sabercat : you have to have four resources of a kind
+
+Reference  : Acknowledgement
+Prediction : Result
+> skinnylinny : wood port
+> sabercat : hm...
+
+Reference  : Comment
+Prediction : Correction
+> skinnylinny : wood port
+> skinnylinny : Ah
+
+Reference  : Q-Elab
+Prediction : Comment
+> sabercat : hm...
+> sabercat : 3:1 maybe?
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> skinnylinny : Did it
+> sabercat : good :D
+
+== s1-league2-game1_10 ==
+
+Reference  : Continuation
+Prediction : Comment
+> IG : no worries
+> sabercat : anyone has ore? :D
+
+Reference  : Question-answer_pair
+Prediction : Clarification_question
+> sabercat : anyone has ore? :D
+> IG : yea, you got sheep?
+
+Reference  : Question-answer_pair
+Prediction : Clarification_question
+> sabercat : anyone has ore? :D
+> sabercat : nope... wood?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> IG : go on then
+> IG : cheers
+
+Reference  : Comment
+Prediction : Acknowledgement
+> skinnylinny : I have ore, would trade for wood
+> IG : cheers
+
+Reference  : Parallel
+Prediction : Result
+> sabercat : *ADDTIME*
+> skinnylinny : ADDTIME
+
+Reference  : Elaboration
+Prediction : Comment
+> sabercat : :D
+> sabercat : nice
+
+Reference  : Comment
+Prediction : Contrast
+> sabercat : nice
+> sabercat : hope its not necessary though
+
+Reference  : Continuation
+Prediction : Clarification_question
+> skinnylinny : Right
+> skinnylinny : Who wanted wood?
+
+Reference  : Q-Elab
+Prediction : Continuation
+> IG : i got that]
+> IG : ore for wood
+
+Reference  : Continuation
+Prediction : Parallel
+> IG : i got that]
+> sabercat : got ore too
+
+Reference  : Q-Elab
+Prediction : Result
+> IG : ore for wood
+> skinnylinny : Ore for wood... One each?
+
+Reference  : Clarification_question
+Prediction : Result
+> skinnylinny : Ore for wood... One each?
+> skinnylinny : As in, one ore per wood, one wood per person?
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> IG : sure
+> sabercat : okay
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> IG : need sheep!
+> skinnylinny : Sorry
+
+== s1-league1-game2_01 ==
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : anyone have some wood to spare?
+> william : for clay...
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> tomas.kostan : can only offer a sheep
+> william : got enough. sorry
+
+Reference  : Narration
+Prediction : Continuation
+> tomas.kostan : hi there
+> tomas.kostan : is the game on tonight?
+
+Reference  : Acknowledgement
+Prediction : Result
+> ljaybrad123 : yes it is,
+> tomas.kostan : ok :)
+
+Reference  : Continuation
+Prediction : Elaboration
+> ljaybrad123 : yes it is,
+> ljaybrad123 : we wait ten mins for cameron
+
+Reference  : Explanation
+Prediction : Elaboration
+> ljaybrad123 : yep
+> ljaybrad123 : it was a time he could do...
+
+Reference  : Comment
+Prediction : Clarification_question
+> ljaybrad123 : it was a time he could do...
+> tomas.kostan : ?
+
+Reference  : Result
+Prediction : Elaboration
+> ljaybrad123 : it was a time he could do...
+> ljaybrad123 : we give him til 10 past...
+
+Reference  : Result
+Prediction : Clarification_question
+> ljaybrad123 : we can't afford to wait any longer
+> william : shall i start the game now?
+
+Reference  : Continuation
+Prediction : Elaboration
+> ljaybrad123 : yep :)
+> ljaybrad123 : good luck guys
+
+Reference  : Result
+Prediction : Clarification_question
+> tomas.kostan : 10 past. 
+> tomas.kostan : do we start?
+
+== pilot14_06 ==
+
+Reference  : Continuation
+Prediction : Comment
+> mmatrtajova : ow come on,
+> mmatrtajova : take it!
+
+Reference  : Elaboration
+Prediction : Question-answer_pair
+> J : did you press the buy button??
+> J : bottom green box
+
+== s1-league1-game1_06 ==
+
+Reference  : Result
+Prediction : Q-Elab
+> gotwood4sheep : i have an ore
+> gotwood4sheep : what can you offer in return
+
+Reference  : Continuation
+Prediction : Elaboration
+> gotwood4sheep : i have but the one resource
+> gotwood4sheep : it's mathematically impossible to oblige ;)
+
+Reference  : Explanation
+Prediction : Contrast
+> gotwood4sheep : go on then
+> gotwood4sheep : it's a sunny day
+
+Reference  : Contrast
+Prediction : Comment
+> gotwood4sheep : so much clay!
+> tomas.kostan : still no ore?
+
+Reference  : Alternation
+Prediction : Result
+> gotwood4sheep : only for clay or 2 wheat, sorry
+> tomas.kostan : sheep perhaps?
+
+Reference  : Q-Elab
+Prediction : Correction
+> tomas.kostan : sheep perhaps?
+> tomas.kostan : 2 sheep? :)
+
+Reference  : Result
+Prediction : Q-Elab
+> gotwood4sheep : no sheep, sorry!
+> tomas.kostan : 2 sheep? :)
+
+== s1-league1-game1_01 ==
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : evening!
+> gotwood4sheep : hi tomas!
+
+Reference  : Result
+Prediction : Elaboration
+> william : it's so sunny, 
+> william : it barely feels like evening
+
+Reference  : Continuation
+Prediction : Comment
+> gotwood4sheep : hi tomas!
+> tomas.kostan : hi there :)
+
+Reference  : Contrast
+Prediction : Explanation
+> gotwood4sheep : it was horrible on the weekend, 
+> gotwood4sheep : now glorious
+
+Reference  : Continuation
+Prediction : Elaboration
+> gotwood4sheep : now glorious
+> gotwood4sheep : and light till after 11
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> william : yup
+> gotwood4sheep : good luck all!
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : no
+> gotwood4sheep : understood ;)
+
+Reference  : Acknowledgement
+Prediction : Comment
+> tomas.kostan : nope
+> gotwood4sheep : understood ;)
+
+== pilot01_03 ==
+
+Reference  : Comment
+Prediction : Clarification_question
+> Tomm : Sheep!
+> Dave : uh
+
+Reference  : Elaboration
+Prediction : Result
+> Dave : uh
+> Dave : should we add time>?
+
+Reference  : Correction
+Prediction : Explanation
+> Dave : should we add time>?
+> Dave : *ADDTIME*
+
+Reference  : Continuation
+Prediction : Q-Elab
+> Tomm : Wheat?
+> Tomm : Sheep?
+
+Reference  : Conditional
+Prediction : Contrast
+> Dave : I'll have something
+> Dave : possibly when my turn rolls around
+
+Reference  : Explanation
+Prediction : Elaboration
+> rennoc1 : yeah,
+> rennoc1 : ive nothing either
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Tomm : 7!
+> Dave : I've laid out my things at the start really badly
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> Dave : now I can trade you ore or wood,
+> Dave : need either?
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> rennoc1 : sheep
+> Dave : I guess I can use two sheep
+
+Reference  : Comment
+Prediction : Correction
+> Dave : I guess I can use two sheep
+> Tomm : well you have no way of getting them yourself yet
+
+Reference  : Continuation
+Prediction : Elaboration
+> Dave : yeah,
+> Dave : go ahead
+
+Reference  : Explanation
+Prediction : Elaboration
+> Dave : yeah,
+> Dave : i mean I'll still trade with tomm
+
+Reference  : Background
+Prediction : Explanation
+> Dave : i mean I'll still trade with tomm
+> Dave : after this trade
+
+Reference  : Elaboration
+Prediction : Comment
+> Tomm : little colour ticky boxes
+> Tomm : Really easy to miss,
+
+Reference  : Result
+Prediction : Comment
+> Tomm : Really easy to miss,
+> Tomm : I did that too.
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Dave : and yeah,
+> Dave : sure
+
+Reference  : Correction
+Prediction : Elaboration
+> Dave : actually, instead of sheep,
+> Dave : do you have any wood or clay?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Tomm : Ah, 'fraid not
+> Dave : hmm
+
+Reference  : Background
+Prediction : Elaboration
+> Tomm : Ah, 'fraid not
+> Tomm : Until someone rolls a 4
+
+Reference  : Result
+Prediction : Explanation
+> Tomm : Ah, 'fraid not
+> Dave : I'm actually going to hold off on the trade for now,
+
+Reference  : Acknowledgement
+Prediction : Contrast
+> Dave : I'm actually going to hold off on the trade for now,
+> Tomm : Fair enough,
+
+Reference  : Comment
+Prediction : Result
+> Dave : I'm actually going to hold off on the trade for now,
+> Tomm : You did nick that sheep after all :p
+
+Reference  : Explanation
+Prediction : Comment
+> Tomm : Fair enough,
+> Tomm : thought you might!
+
+Reference  : Explanation
+Prediction : Comment
+> Tomm : You did nick that sheep after all :p
+> Dave : well, it was revenge for earlier ^_^
+
+Reference  : Explanation
+Prediction : Result
+> Dave : well, it was revenge for earlier ^_^
+> Tomm : Which was revenge for you earlier.
+
+Reference  : Comment
+Prediction : Conditional
+> Tomm : Which was revenge for you earlier.
+> Tomm : Ah, how this game goes back :p
+
+Reference  : Narration
+Prediction : Elaboration
+> Tomm : Ah, how this game goes back :p
+> Tomm : Just gimmie the virtual dice,
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> Dave : I'm guessing there's no point in putting a city next to a desert
+> Tomm : Not
+
+Reference  : Explanation
+Prediction : Contrast
+> Tomm : Not
+> Tomm : unless the other hexes are very likely to come up
+
+Reference  : Elaboration
+Prediction : Explanation
+> Dave : anyone need ore?
+> Dave : willing to trade for clay and sheep
+
+Reference  : Question-answer_pair
+Prediction : Contrast
+> Dave : willing to trade for clay and sheep
+> rennoc1 : got some clay.
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> rennoc1 : got some clay.
+> Dave : 1 ore for 1 clay?
+
+Reference  : Question-answer_pair
+Prediction : Acknowledgement
+> Dave : 1 ore for 1 clay?
+> rennoc1 : ok
+
+== pilot01_01 ==
+
+Reference  : Continuation
+Prediction : Explanation
+> Tomm : ello
+> Tomm : Just got a connection reset
+
+Reference  : Explanation
+Prediction : Contrast
+> Tomm : Just got a connection reset
+> Tomm : Got a SocketException error appear in this chat line
+
+Reference  : Comment
+Prediction : Elaboration
+> Tomm : Got a SocketException error appear in this chat line
+> Tomm : I guess we'll see if it happens again
+
+Reference  : Clarification_question
+Prediction : Explanation
+> Tomm : I guess we'll see if it happens again
+> Tomm : I take it this is the right game to be in?
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Tomm : Excellent!
+> Tomm : Yeah,
+
+Reference  : Continuation
+Prediction : Clarification_question
+> Tomm : Yeah,
+> Tomm : well it always feels last minute when you are getting participants, doesn't it?
+
+Reference  : Comment
+Prediction : Continuation
+> Tomm : So, does this generate a random Catan board?
+> Tomm : I'm still rather impressed at a Hex grid in Java to be honest...
+
+Reference  : Comment
+Prediction : Explanation
+> Tomm : I'm still rather impressed at a Hex grid in Java to be honest...
+> Tomm : Java layout always feels like a nig
+
+Reference  : Comment
+Prediction : Contrast
+> Tomm : Ah. Fun I take it?
+> Tomm : Still, it looks very nicely laid out to be honest.
+
+Reference  : Comment
+Prediction : Continuation
+> Tomm : Still, it looks very nicely laid out to be honest.
+> Tomm : Ahh! I see.
+
+Reference  : Explanation
+Prediction : Comment
+> Tomm : Ahh! I see.
+> Tomm : One more to go, I guess.
+
+Reference  : Comment
+Prediction : Result
+> Tomm : One more to go, I guess.
+> Tomm : I'm good for a little bit longer.
+
+Reference  : Continuation
+Prediction : Contrast
+> Tomm : I'm good for a little bit longer.
+> rennoc1 : I don't mind waiting for a while.
+
+Reference  : Correction
+Prediction : Question-answer_pair
+> rennoc1 : so anyone else played this before?
+> Dave : is it still your turn rennoc?
+
+Reference  : Correction
+Prediction : Contrast
+> Tomm : Yes, a little...
+> Tomm : but I was never good at it.
+
+== pilot21_06 ==
+
+Reference  : Background
+Prediction : Question-answer_pair
+> Charlotte : anybody prepared to trade a sheep?
+> Josephine : Sorry, I got disconected
+
+Reference  : Clarification_question
+Prediction : Elaboration
+> Katherine : wow
+> Katherine : how long is this game going to take
+
+Reference  : Parallel
+Prediction : Acknowledgement
+> Katherine : wow
+> Amanda : ageeees
+
+Reference  : Result
+Prediction : Parallel
+> Josephine : Sorry, I got disconected
+> Charlotte : anyone else?
+
+Reference  : Correction
+Prediction : Continuation
+> Josephine : ni
+> Josephine : no
+
+Reference  : Contrast
+Prediction : Acknowledgement
+> Amanda : i don't have any sheep
+> Katherine : i do
+
+Reference  : Comment
+Prediction : Correction
+> Katherine : i do
+> Josephine : Sorry,
+
+Reference  : Comment
+Prediction : Continuation
+> Josephine : Tis fine.
+> Josephine : Part of the game
+
+Reference  : Comment
+Prediction : Continuation
+> Josephine : And no
+> Josephine : We should try and speed through.
+
+Reference  : Elaboration
+Prediction : Continuation
+> Katherine : no wait,
+> Katherine : other way around
+
+== pilot04_10 ==
+
+Reference  : Clarification_question
+Prediction : Result
+> skinnylinny : Chameleon: Only for wheat
+> Chameleon : no sheep free?
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Nancy : ill give u wood for it
+> Chameleon : no sheep free?
+
+Reference  : Result
+Prediction : Continuation
+> Nancy : hey chameleon do u have any sheep
+> Nancy : and ill give u wood?
+
+Reference  : Elaboration
+Prediction : Result
+> Chameleon : I was going to say,
+> Chameleon : anyone got sheep
+
+Reference  : Explanation
+Prediction : Narration
+> Nancy : u guys shd thank me
+> Nancy : moved the robber
+
+== s1-league2-game2_07 ==
+
+Reference  : Continuation
+Prediction : Comment
+> amycharl : boo
+> IG : nice one.
+
+Reference  : Continuation
+Prediction : Comment
+> IG : nice one.
+> sabercat : :D
+
+Reference  : Elaboration
+Prediction : Continuation
+> dmm : well done! 
+> dmm : i could see you were getting close
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> sabercat : I have to play two more
+> IG : do we all have to play four?
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> dmm : i have three still to play
+> IG : do we all have to play four?
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> IG : do we all have to play four?
+> amycharl : we play 4 each yer?
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> sabercat : yep
+> amycharl : i hav only played this one
+
+Reference  : Explanation
+Prediction : Question-answer_pair
+> sabercat : how about tomorrow?
+> sabercat : because I wont be able to for the rest of the week
+
+Reference  : Contrast
+Prediction : Comment
+> dmm : not sure i can do it tomorrow... 
+> dmm : well, maybe in the afternoon
+
+Reference  : Comment
+Prediction : Result
+> sabercat : thanks for the game
+> dmm : see you whenever next time is then!
+
+== pilot21_02 ==
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Amanda : how do i confirm?
+> Josephine : Email Markus?
+
+Reference  : Comment
+Prediction : Elaboration
+> Katherine : i dont know
+> Katherine : haha
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Amanda : eh?
+> Josephine : That wasn't meant to type.
+
+Reference  : Continuation
+Prediction : Conditional
+> Katherine : then i guess
+> Katherine : theres an accept button right next to it
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Amanda : where's that?
+> Josephine : Do you see a reject button?
+
+Reference  : Elaboration
+Prediction : Continuation
+> Josephine : On Katherine's screen?
+> Josephine : in a bubble
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Amanda : no
+> Amanda : oh, okay. haha
+
+Reference  : Clarification_question
+Prediction : Q-Elab
+> Amanda : oh, okay. haha
+> Josephine : Can you try another trade?
+
+Reference  : Continuation
+Prediction : Conditional
+> Amanda : then pick me, katherine,
+> Amanda : pick meee!
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Katherine : ill try
+> Amanda : are you offering sheep, katherine?
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Amanda : ok
+> Katherine : oh ok
+
+Reference  : Result
+Prediction : Comment
+> Amanda : oh, ok.
+> Amanda : sorry, not interested
+
+Reference  : Elaboration
+Prediction : Explanation
+> Josephine : I think
+> Josephine : it only went to me...
+
+== s1-league1-game2_06 ==
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> william : not for trade
+> ljaybrad123 : wheat or clay even
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> tomas.kostan : no
+> ljaybrad123 : wheat or clay even
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> ljaybrad123 : wheat or clay even
+> william : no
+
+Reference  : Continuation
+Prediction : Background
+> william : no
+> tomas.kostan : pls roll 7 ;)
+
+Reference  : Continuation
+Prediction : Narration
+> ljaybrad123 : please not 7
+> tomas.kostan : wheat for clay?
+
+Reference  : Q-Elab
+Prediction : Correction
+> tomas.kostan : can you trade clay lj?
+> tomas.kostan : 2 wood?
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> ljaybrad123 : no
+> ljaybrad123 : 1 sheep oe wheat?
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> ljaybrad123 : 1 sheep oe wheat?
+> tomas.kostan : ore + wood?
+
+Reference  : Explanation
+Prediction : Contrast
+> ljaybrad123 : sorry have those
+> ljaybrad123 : its sheep and wheat i need
+
+== pilot04_08 ==
+
+Reference  : Result
+Prediction : Continuation
+> Chameleon : I am happy to keep playing
+> Chameleon : ADDTIME
+
+Reference  : Explanation
+Prediction : Continuation
+> skinnylinny : never mind, 
+> skinnylinny : just being given food
+
+== s1-league1-game3_08 ==
+
+Reference  : Narration
+Prediction : Clarification_question
+> gotwood4sheep : no ore here sorry
+> gotwood4sheep : hey where is everyone from?
+
+Reference  : Continuation
+Prediction : Comment
+> william : no
+> gotwood4sheep : your roll, laura!
+
+Reference  : Continuation
+Prediction : Comment
+> tomas.kostan : nope
+> gotwood4sheep : your roll, laura!
+
+Reference  : Explanation
+Prediction : Contrast
+> gotwood4sheep : your roll, laura!
+> william : maybe she's disconnected...
+
+Reference  : Result
+Prediction : Correction
+> william : maybe she's disconnected...
+> gotwood4sheep : darn,
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : i have to leave very soon... ...
+> gotwood4sheep : like 12 mins tops!
+
+Reference  : Contrast
+Prediction : Result
+> gotwood4sheep : i have to leave very soon... ...
+> gotwood4sheep : let's give her a couple of mins
+
+Reference  : Comment
+Prediction : Result
+> gotwood4sheep : like 12 mins tops!
+> william : hmm. lj is about to win anyway.
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> william : hmm. lj is about to win anyway.
+> tomas.kostan : i am not so sure..
+
+Reference  : Elaboration
+Prediction : Explanation
+> gotwood4sheep : darn competitions!
+> gotwood4sheep : getting lucky in the wrong game at the wrong time, i am
+
+Reference  : Result
+Prediction : Explanation
+> tomas.kostan : i don't think this will end by then
+> gotwood4sheep : we may have to call it a practice run
+
+Reference  : Conditional
+Prediction : Acknowledgement
+> william : well. if lj can't fix her current problem,
+> william : we can't finish this game anways
+
+Reference  : Question-answer_pair
+Prediction : Result
+> tomas.kostan : then we will have to replay the game?
+> gotwood4sheep : do it in earnest next week
+
+== pilot03_12 ==
+
+Reference  : Narration
+Prediction : Continuation
+> Joel : hhaah
+> Joel : ok
+
+Reference  : Comment
+Prediction : Continuation
+> Joel : guys i have to go
+> Joel : nice playing with you!
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> Joel : nice playing with you!
+> Euan : Nice playing
+
+Reference  : Comment
+Prediction : Acknowledgement
+> Cardlinger : thanks!!
+> Cardlinger : gg
+
+Reference  : Continuation
+Prediction : Acknowledgement
+> Cardlinger : gg
+> Euan : Nice playing
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> Cardlinger : and you all
+> jon : cheers
+
+Reference  : Result
+Prediction : Elaboration
+> Euan : Good game
+> Euan : I'll have to play this again sometime
+
+Reference  : Elaboration
+Prediction : Continuation
+> Cardlinger : yeah
+> Cardlinger : lots of fun!
+
+Reference  : Elaboration
+Prediction : Explanation
+> jon : Yeah -
+> jon : let's call it quits..
+
+Reference  : Narration
+Prediction : Continuation
+> Cardlinger : kk well I'll dash,
+> Cardlinger : and fill that out tonight.
+
+== s1-league1-game2_04 ==
+
+Reference  : Correction
+Prediction : Q-Elab
+> william : can i get an ore for 1 wood
+> william : 2 wood?
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> william : :D
+> tomas.kostan : nooooo :D
+
+Reference  : Comment
+Prediction : Continuation
+> tomas.kostan : nooooo :D
+> ljaybrad123 : stupid robber
+
+Reference  : Comment
+Prediction : Contrast
+> william : it IS the most likely number...
+> ljaybrad123 : even so...
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> william : can i get ore for wood?
+> ljaybrad123 : no
+
+Reference  : Elaboration
+Prediction : Comment
+> ljaybrad123 : bloody hell...
+> ljaybrad123 :  stupid buttons
+
+Reference  : Q-Elab
+Prediction : Question-answer_pair
+> tomas.kostan : for wood?
+> ljaybrad123 : 2 sheep for 1 ore one wheat?
+
+Reference  : Contrast
+Prediction : Correction
+> tomas.kostan : sry can only offer wood
+> ljaybrad123 : sorry i has wood
+
+Reference  : Elaboration
+Prediction : Continuation
+> tomas.kostan : i think it is time for another 7 :)
+> ljaybrad123 : anyone have clay for sheep?
+
+== pilot04_07 ==
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> Nancy : i will give you wheat
+> skinnylinny : I have wheat
+
+Reference  : Acknowledgement
+Prediction : Result
+> skinnylinny : I have wheat
+> Nancy : Alright
+
+Reference  : Explanation
+Prediction : Comment
+> Chameleon : sorry
+> Chameleon : nope
+
+Reference  : Elaboration
+Prediction : Comment
+> Chameleon : actually
+> Chameleon : no
+
+Reference  : Explanation
+Prediction : Continuation
+> Chameleon : sorry,
+> Chameleon : no
+
+== pilot01_12 ==
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> Dave : wwwhat
+> Dave : oh, right
+
+Reference  : Comment
+Prediction : Explanation
+> Dave : oh, right
+> Dave : ^_^
+
+Reference  : Explanation
+Prediction : Continuation
+> Dave : ha, congrats
+> Dave : good game
+
+Reference  : Acknowledgement
+Prediction : Comment
+> Dave : good game
+> Tomm : Hehe, it was fun, thanks.
+
+Reference  : Continuation
+Prediction : Explanation
+> Tomm : Hehe, it was fun, thanks.
+> Tomm : I think I got very lucky getting to the sheep port
+
+Reference  : Elaboration
+Prediction : Result
+> Tomm : I think I got very lucky getting to the sheep port
+> Tomm : 24 sheep :o
+
+Reference  : Explanation
+Prediction : Continuation
+> Dave : I spent far too long at the start building pointless roads,
+> Dave : I wasn't 100% sure where I could build s
+
+Reference  : Elaboration
+Prediction : Comment
+> Tomm : Yeah, that is a problem...
+> Tomm : Rennoc had lost about half way through to be honest
+
+Reference  : Explanation
+Prediction : Result
+> Tomm : Rennoc had lost about half way through to be honest
+> Tomm : I sort of cut him out >.>
+
+Reference  : Acknowledgement
+Prediction : Q-Elab
+> Tomm : Rennoc had lost about half way through to be honest
+> Dave : Yeah, I noticed,
+
+Reference  : Continuation
+Prediction : Narration
+> Tomm : I sort of cut him out >.>
+> Tomm : and ore is more important in the later game too
+
+Reference  : Explanation
+Prediction : Elaboration
+> Dave : Yeah, I noticed,
+> Dave : he couldn't really expand
+
+Reference  : Elaboration
+Prediction : Continuation
+> Dave : I had just managed to take a wheat port,
+> Dave : which would have been very helpful
+
+Reference  : Continuation
+Prediction : Elaboration
+> Dave : Yeah, it's a good game
+> Dave : No problem, I'll send in the questionare in 10 minutes
+
+Reference  : Q-Elab
+Prediction : Clarification_question
+> Dave : No problem, I'll send in the questionare in 10 minutes
+> Dave : sure, where is your office?
+
+Reference  : Conditional
+Prediction : Explanation
+> Tomm : I'll get you your questionaire back tomorrow
+> Tomm : if that is okay, Markus,
+
+Reference  : Conditional
+Prediction : Q-Elab
+> Tomm : could I send a surrogate with my signed form?
+> Tomm : If you were to email me the form,
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> Dave : so I'll come in then,
+> Dave : any particular time you'd prefer?
+
+Reference  : Continuation
+Prediction : Explanation
+> Tomm : It's okay,
+> Tomm : I understand
+
+Reference  : Elaboration
+Prediction : Result
+> Tomm : I'll give it to my friend tonight,
+> Tomm : I'm heading to see him.
+
+Reference  : Continuation
+Prediction : Elaboration
+> Dave : Right,
+> Dave : I'll go fill in the form,
+
+Reference  : Comment
+Prediction : Continuation
+> Tomm : Perfect,
+> Tomm : thanks Markus.
+
+Reference  : Continuation
+Prediction : Result
+> Tomm : thanks Markus.
+> Tomm : I'll email you my response tomorrow
+
+Reference  : Continuation
+Prediction : Comment
+> Dave : ok,
+> Dave : well I'm going to head off now
+
+== pilot14_07 ==
+
+Reference  : Comment
+Prediction : Elaboration
+> Ash : yeah
+> Ash : maybe it will let me next turn
+
+Reference  : Result
+Prediction : Comment
+> mmatrtajova : maybe roll first
+> J : have done
+
+Reference  : Parallel
+Prediction : Comment
+> Ash : longest road nice
+> mmatrtajova : nicee
+
+== pilot14_09 ==
+
+Reference  : Result
+Prediction : Comment
+> J : yay!
+> mmatrtajova : go!
+
+Reference  : Contrast
+Prediction : Question-answer_pair
+> Ash : yes for wood
+> J : nopes
+
+== s1-league1-game1_05 ==
+
+Reference  : Elaboration
+Prediction : Continuation
+> gotwood4sheep : i need a clay
+> gotwood4sheep : can offer an ore
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> gotwood4sheep : if that's what you mean?
+> tomas.kostan : yes i missed "or" there
+
+Reference  : Clarification_question
+Prediction : Alternation
+> gotwood4sheep : clay
+> gotwood4sheep : which you don't have?
+
+Reference  : Result
+Prediction : Question-answer_pair
+> gotwood4sheep : which you don't have?
+> tomas.kostan : ask for anything else
+
+Reference  : Result
+Prediction : Continuation
+> tomas.kostan : clay and ore :) 
+> tomas.kostan : ask for anything else
+
+Reference  : Contrast
+Prediction : Elaboration
+> gotwood4sheep : sorry!
+> gotwood4sheep : clay is my heart's desire
+
+Reference  : Q-Elab
+Prediction : Continuation
+> tomas.kostan : ok wood then? 
+> tomas.kostan : anyone can trade wood?
+
+Reference  : Comment
+Prediction : Contrast
+> gotwood4sheep : aww, one off
+> william : close one
+
+Reference  : Narration
+Prediction : Continuation
+> gotwood4sheep : aww, one off
+> gotwood4sheep : anyone got clay?
+
+Reference  : Contrast
+Prediction : Comment
+> gotwood4sheep : I'm property rich, 
+> gotwood4sheep : cash poor
+
+Reference  : Comment
+Prediction : Continuation
+> gotwood4sheep : I'd need 2 wheat for an ore
+> gotwood4sheep : which I imagine is too pricey
+
+Reference  : Acknowledgement
+Prediction : Question-answer_pair
+> tomas.kostan : can offer just one :)
+> gotwood4sheep : sorry!
+
+Reference  : Comment
+Prediction : Acknowledgement
+> gotwood4sheep : sorry!
+> tomas.kostan : np
+
+== s1-league2-game1_05 ==
+
+Reference  : Q-Elab
+Prediction : Elaboration
+> sabercat : anyone any clay?
+> sabercat : for ore or sheep?
+
+Reference  : Acknowledgement
+Prediction : Continuation
+> sabercat : for ore or sheep?
+> sabercat : okay...
+
+== pilot02_02 ==
+
+Reference  : Elaboration
+Prediction : Question-answer_pair
+> william : when we actually want to exchange...
+> Thomas : register a trade'
+
+Reference  : Result
+Prediction : Elaboration
+> Cat : okay, 
+> Cat : let's do an exchange
+
+Reference  : Elaboration
+Prediction : Q-Elab
+> Cat : let's do an exchange
+> william : what kind?
+
+Reference  : Question-answer_pair
+Prediction : Q-Elab
+> william : what kind?
+> Cat : wood for wheat
+
+Reference  : Acknowledgement
+Prediction : Result
+> Cat : wood for wheat
+> william : yup i saw it
+
+Reference  : Correction
+Prediction : Question-answer_pair
+> Thomas : which do you want?
+> william : already traded, tom
+
+Reference  : Acknowledgement
+Prediction : Comment
+> william : yup i saw it
+> Cat : thanks
+
+Reference  : Continuation
+Prediction : Result
+> Cat : thanks
+> Cat : what else can I do during the turn? 
+
+Reference  : Explanation
+Prediction : Elaboration
+> Cat : what else can I do during the turn? 
+> Cat : (i am new to this)
+
+Reference  : Narration
+Prediction : Result
+> william : build,
+> william : trade,
+
+Reference  : Narration
+Prediction : Elaboration
+> william : trade,
+> william : "done"
+
+Reference  : Correction
+Prediction : Question-answer_pair
+> Thomas : anyone want wood?
+> Thomas : sorry clay
+
+== pilot14_04 ==
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> mmatrtajova : 7 your lucky number?
+> J : banter
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> mmatrtajova : 7 your lucky number?
+> Ash : i know insane
+
+Reference  : Continuation
+Prediction : Explanation
+> Ash : me too
+> Ash : dont worry
+
+Reference  : Explanation
+Prediction : Elaboration
+> J : nah
+> J : just used it on that road
+
+Reference  : Continuation
+Prediction : Elaboration
+> J : just used it on that road
+> J : should have saved it for a settlement really
+
+Reference  : Comment
+Prediction : Elaboration
+> mmatrtajova : though can build a city
+> mmatrtajova : guys,
+
+Reference  : Continuation
+Prediction : Comment
+> mmatrtajova : guys,
+> mmatrtajova : we may need to spees up...
+
+== s1-league2-game1_13 ==
+
+Reference  : Result
+Prediction : Continuation
+> IG : hey, I want wood as well
+> IG : offering 2 ore for one wood
+
+Reference  : Continuation
+Prediction : Question-answer_pair
+> sabercat : okay, can anyone give me clay?
+> sabercat : please
+
+Reference  : Comment
+Prediction : Question-answer_pair
+> IG : for what
+> skinnylinny : IG, on your turn
+
+Reference  : Continuation
+Prediction : Clarification_question
+> sabercat : which one?
+> sabercat : are we trading?
+
+Reference  : Comment
+Prediction : Acknowledgement
+> skinnylinny : I have no clay
+> sabercat : incredible!
+
+Reference  : Question-answer_pair
+Prediction : Comment
+> skinnylinny : Does that mean you won't trade with me, IG?
+> sabercat : :D
+
+Reference  : Correction
+Prediction : Q-Elab
+> IG : looks like it
+> IG : actually...
+
+Reference  : Correction
+Prediction : Alternation
+> sabercat : why would you throw four?
+> sabercat : or roll..
+
+Reference  : Elaboration
+Prediction : Comment
+> skinnylinny : :P
+> skinnylinny : :P
+
+Reference  : Elaboration
+Prediction : Comment
+> skinnylinny : :P
+> sabercat : !!!
+
+Reference  : Elaboration
+Prediction : Comment
+> sabercat : !!!
+> sabercat : :D
+
+Reference  : Correction
+Prediction : Question-answer_pair
+> IG : what are you offfering?
+> IG : na
+
+Reference  : Comment
+Prediction : Explanation
+> skinnylinny : Oh!
+> skinnylinny : Whoops
+
+Reference  : Continuation
+Prediction : Comment
+> skinnylinny : Whoops
+> skinnylinny : Sorry!
+
+Reference  : Acknowledgement
+Prediction : Elaboration
+> sabercat : :D
+> sabercat : thanks!
+
+== pilot20_10 ==
+
+Reference  : Continuation
+Prediction : Explanation
+> Rainbow : still need clay
+> Rainbow : ore?
+
+Reference  : Explanation
+Prediction : Continuation
+> ariachiba : Yeah,
+> ariachiba : haven't gotten clay in a while...
+

@@ -1,0 +1,582 @@
+Loading (1/???) : s1-league1-game3_14           Loading (2/???) : s1-league1-game3_12           Loading (3/???) : s1-league1-game3_06           Loading (4/???) : s1-league1-game3_09           Loading (5/???) : s1-league1-game3_13           Loading (6/???) : s1-league1-game3_10           Loading (7/???) : s1-league1-game3_02           Loading (8/???) : s1-league1-game3_05           Loading (9/???) : s1-league1-game3_03           Loading (10/???) : s1-league1-game3_04           Loading (11/???) : s1-league1-game3_01           Loading (12/???) : s1-league1-game3_08           Loading (13/???) : s1-league1-game3_11           Loading (14/???) : s1-league1-game3_15           Loading (15/???) : s1-league1-game3_07           Loading (16/???) : s1-league2-game1_12           Loading (17/???) : s1-league2-game1_11           Loading (18/???) : s1-league2-game1_02           Loading (19/???) : s1-league2-game1_03           Loading (20/???) : s1-league2-game1_09           Loading (21/???) : s1-league2-game1_06           Loading (22/???) : s1-league2-game1_13           Loading (23/???) : s1-league2-game1_08           Loading (24/???) : s1-league2-game1_07           Loading (25/???) : s1-league2-game1_10           Loading (26/???) : s1-league2-game1_05           Loading (27/???) : s1-league2-game1_14           Loading (28/???) : s1-league2-game1_01           Loading (29/???) : s1-league2-game1_04           Loading (30/???) : s1-league2-game3_04           Loading (31/???) : s1-league2-game3_01           Loading (32/???) : s1-league2-game3_05           Loading (33/???) : s1-league2-game3_02           Loading (34/???) : s1-league2-game3_03           Loading (35/???) : s1-league2-game3_06           Loading (36/???) : s1-league3-game5_03           Loading (37/???) : s1-league3-game5_02           Loading (38/???) : s1-league3-game5_01           Loading (39/???) : s1-league3-game5_05           Loading (40/???) : s1-league3-game5_04           Loading (41/???) : s1-league3-game7_04           Loading (42/???) : s1-league3-game7_03           Loading (43/???) : s1-league3-game7_01           Loading (44/???) : s1-league3-game7_02           Loading (45/???) : s1-league1-game5_04           Loading (46/???) : s1-league1-game5_02           Loading (47/???) : s1-league1-game5_05           Loading (48/???) : s1-league1-game5_07           Loading (49/???) : s1-league1-game5_03           Loading (50/???) : s1-league1-game5_06           Loading (51/???) : s1-league1-game5_01           Loading (52/???) : s1-league3-game3_05           Loading (53/???) : s1-league3-game3_03           Loading (54/???) : s1-league3-game3_06           Loading (55/???) : s1-league3-game3_08           Loading (56/???) : s1-league3-game3_02           Loading (57/???) : s1-league3-game3_07           Loading (58/???) : s1-league3-game3_04           Loading (59/???) : s1-league3-game3_09           Loading (60/???) : s1-league3-game3_01           Loading (61/???) : s1-league3-game1_01           Loading (62/???) : s1-league3-game1_03           Loading (63/???) : s1-league3-game1_02           Loading (64/???) : s1-league3-game1_04           Loading (65/???) : s1-league3-game1_05           Loading (66/???) : s1-league3-game2_02           Loading (67/???) : s1-league3-game2_03           Loading (68/???) : s1-league3-game2_01           Loading (69/???) : s1-league1-game4_05           Loading (70/???) : s1-league1-game4_09           Loading (71/???) : s1-league1-game4_03           Loading (72/???) : s1-league1-game4_01           Loading (73/???) : s1-league1-game4_02           Loading (74/???) : s1-league1-game4_07           Loading (75/???) : s1-league1-game4_04           Loading (76/???) : s1-league1-game4_08           Loading (77/???) : s1-league1-game4_11           Loading (78/???) : s1-league1-game4_10           Loading (79/???) : s1-league1-game4_06           Loading (80/???) : s1-league3-game6_02           Loading (81/???) : s1-league3-game6_03           Loading (82/???) : s1-league3-game6_01           Loading (83/???) : s1-league1-game1_03           Loading (84/???) : s1-league1-game1_02           Loading (85/???) : s1-league1-game1_06           Loading (86/???) : s1-league1-game1_01           Loading (87/???) : s1-league1-game1_05           Loading (88/???) : s1-league1-game1_07           Loading (89/???) : s1-league1-game1_04           Loading (90/???) : s1-league3-game4_01           Loading (91/???) : s1-league3-game4_03           Loading (92/???) : s1-league3-game4_02           Loading (93/???) : s1-league2-game2_07           Loading (94/???) : s1-league2-game2_01           Loading (95/???) : s1-league2-game2_02           Loading (96/???) : s1-league2-game2_06           Loading (97/???) : s1-league2-game2_04           Loading (98/???) : s1-league2-game2_03           Loading (99/???) : s1-league2-game2_05           Loading (100/???) : s1-league2-game4_02           Loading (101/???) : s1-league2-game4_03           Loading (102/???) : s1-league2-game4_04           Loading (103/???) : s1-league2-game4_01           Loading (104/???) : s1-league1-game2_03           Loading (105/???) : s1-league1-game2_08           Loading (106/???) : s1-league1-game2_01           Loading (107/???) : s1-league1-game2_05           Loading (108/???) : s1-league1-game2_02           Loading (109/???) : s1-league1-game2_07           Loading (110/???) : s1-league1-game2_04           Loading (111/???) : s1-league1-game2_06           Loading (112/???) : s2-league4-game1_06           Loading (113/???) : s2-league4-game1_03           Loading (114/???) : s2-league4-game1_04           Loading (115/???) : s2-league4-game1_07           Loading (116/???) : s2-league4-game1_01           Loading (117/???) : s2-league4-game1_02           Loading (118/???) : s2-league4-game1_05           Loading (119/???) : s2-leagueM-game2_05           Loading (120/???) : s2-leagueM-game2_01           Loading (121/???) : s2-leagueM-game2_06           Loading (122/???) : s2-leagueM-game2_04           Loading (123/???) : s2-leagueM-game2_02           Loading (124/???) : s2-leagueM-game2_03           Loading (125/???) : s2-league3-game4_01           Loading (126/???) : s2-league3-game4_02           Loading (127/???) : s2-league3-game5_02           Loading (128/???) : s2-league3-game5_04           Loading (129/???) : s2-league3-game5_01           Loading (130/???) : s2-league3-game5_03           Loading (131/???) : s2-league3-game5_05           Loading (132/???) : s2-league1-game1_03           Loading (133/???) : s2-league1-game1_05           Loading (134/???) : s2-league1-game1_04           Loading (135/???) : s2-league1-game1_06           Loading (136/???) : s2-league1-game1_07           Loading (137/???) : s2-league1-game1_01           Loading (138/???) : s2-league1-game1_02           Loading (139/???) : s2-league5-game0_01           Loading (140/???) : s2-league5-game0_02           Loading (141/???) : s2-leagueM-game4_01           Loading (142/???) : s2-leagueM-game4_02           Loading (143/???) : s2-league4-game3_09           Loading (144/???) : s2-league4-game3_08           Loading (145/???) : s2-league4-game3_04           Loading (146/???) : s2-league4-game3_05           Loading (147/???) : s2-league4-game3_07           Loading (148/???) : s2-league4-game3_02           Loading (149/???) : s2-league4-game3_10           Loading (150/???) : s2-league4-game3_06           Loading (151/???) : s2-league4-game3_01           Loading (152/???) : s2-league4-game3_03           Loading (153/???) : s2-league5-game1_02           Loading (154/???) : s2-league5-game1_01           Loading (155/???) : s2-league4-game2_06           Loading (156/???) : s2-league4-game2_07           Loading (157/???) : s2-league4-game2_01           Loading (158/???) : s2-league4-game2_05           Loading (159/???) : s2-league4-game2_11           Loading (160/???) : s2-league4-game2_02           Loading (161/???) : s2-league4-game2_09           Loading (162/???) : s2-league4-game2_04           Loading (163/???) : s2-league4-game2_10           Loading (164/???) : s2-league4-game2_08           Loading (165/???) : s2-league4-game2_03           Loading (166/???) : s2-leagueM-game3_03           Loading (167/???) : s2-leagueM-game3_07           Loading (168/???) : s2-leagueM-game3_01           Loading (169/???) : s2-leagueM-game3_05           Loading (170/???) : s2-leagueM-game3_02           Loading (171/???) : s2-leagueM-game3_04           Loading (172/???) : s2-leagueM-game3_06           Loading (173/???) : pilot04_08                    Loading (174/???) : pilot04_09                    Loading (175/???) : pilot04_01                    Loading (176/???) : pilot04_13                    Loading (177/???) : pilot04_04                    Loading (178/???) : pilot04_07                    Loading (179/???) : pilot04_05                    Loading (180/???) : pilot04_03                    Loading (181/???) : pilot04_12                    Loading (182/???) : pilot04_10                    Loading (183/???) : pilot04_11                    Loading (184/???) : pilot04_06                    Loading (185/???) : pilot04_02                    Loading (186/???) : pilot20_02                    Loading (187/???) : pilot20_08                    Loading (188/???) : pilot20_01                    Loading (189/???) : pilot20_12                    Loading (190/???) : pilot20_11                    Loading (191/???) : pilot20_09                    Loading (192/???) : pilot20_05                    Loading (193/???) : pilot20_07                    Loading (194/???) : pilot20_04                    Loading (195/???) : pilot20_10                    Loading (196/???) : pilot20_03                    Loading (197/???) : pilot20_06                    Loading (198/???) : pilot14_08                    Loading (199/???) : pilot14_06                    Loading (200/???) : pilot14_03                    Loading (201/???) : pilot14_07                    Loading (202/???) : pilot14_10                    Loading (203/???) : pilot14_11                    Loading (204/???) : pilot14_04                    Loading (205/???) : pilot14_01                    Loading (206/???) : pilot14_12                    Loading (207/???) : pilot14_05                    Loading (208/???) : pilot14_02                    Loading (209/???) : pilot14_09                    Loading (210/???) : pilot02_01                    Loading (211/???) : pilot02_07                    Loading (212/???) : pilot02_06                    Loading (213/???) : pilot02_03                    Loading (214/???) : pilot02_10                    Loading (215/???) : pilot02_09                    Loading (216/???) : pilot02_05                    Loading (217/???) : pilot02_08                    Loading (218/???) : pilot02_04                    Loading (219/???) : pilot02_11                    Loading (220/???) : pilot02_12                    Loading (221/???) : pilot02_02                    Loading (222/???) : pilot03_07                    Loading (223/???) : pilot03_02                    Loading (224/???) : pilot03_08                    Loading (225/???) : pilot03_10                    Loading (226/???) : pilot03_01                    Loading (227/???) : pilot03_03                    Loading (228/???) : pilot03_12                    Loading (229/???) : pilot03_04                    Loading (230/???) : pilot03_09                    Loading (231/???) : pilot03_06                    Loading (232/???) : pilot03_05                    Loading (233/???) : pilot03_11                    Loading (234/???) : pilot01_03                    Loading (235/???) : pilot01_10                    Loading (236/???) : pilot01_07                    Loading (237/???) : pilot01_11                    Loading (238/???) : pilot01_04                    Loading (239/???) : pilot01_05                    Loading (240/???) : pilot01_01                    Loading (241/???) : pilot01_12                    Loading (242/???) : pilot01_09                    Loading (243/???) : pilot01_08                    Loading (244/???) : pilot01_06                    Loading (245/???) : pilot01_02                    Loading (246/???) : pilot21_09                    Loading (247/???) : pilot21_05                    Loading (248/???) : pilot21_07                    Loading (249/???) : pilot21_08                    Loading (250/???) : pilot21_02                    Loading (251/???) : pilot21_01                    Loading (252/???) : pilot21_11                    Loading (253/???) : pilot21_06                    Loading (254/???) : pilot21_03                    Loading (255/???) : pilot21_04                    Loading (256/???) : pilot21_10                    
+Annotations loaded
+== Task 6 : Backward links ==
+WARNING : errors may remain
+
+= Result = s1-league3-game7_01 =
+inca : nope
+inca : sorry,
+
+= Conditional = pilot01_04 =
+Tomm : if it follows the proper game.
+Tomm : it isn't
+
+= Conditional = s1-league1-game3_14 =
+gotwood4sheep : if i saw a 7...
+gotwood4sheep :  I have to admit I wouldn't weep
+
+= Conditional = s1-league2-game2_06 =
+amycharl : if you gave me two of something
+amycharl : i have one
+
+= Result = s1-league1-game4_06 =
+gotwood4sheep : my french not so good
+gotwood4sheep : pas de problems ;)
+
+= Conditional = s1-league1-game4_06 =
+gotwood4sheep : if you have it...
+gotwood4sheep : 1 sheep is cheaper
+
+= Conditional = pilot03_05 =
+Cardlinger : if someone is rich in it?
+Cardlinger : will offer 3 wheat for 2 clay,
+
+= Explanation = s1-league1-game3_06 =
+gotwood4sheep : afraid I'm a bit fallow
+gotwood4sheep : but have no trades to offer this turn,
+
+= Conditional = s1-league3-game1_03 =
+nareik15 : if anyone has ore or clay
+nareik15 : I have sheep to trade
+
+= Conditional = s2-league4-game3_08 =
+WoodnSheep : if I wanted to
+WoodnSheep : couldn't
+
+= Background = s1-league1-game4_11 =
+gotwood4sheep : till the next 7 :D
+gotwood4sheep : we seem to be abundant
+
+= Comment = pilot03_09 =
+jon : none
+jon : oops
+
+= Comment = pilot03_09 =
+Cardlinger : insane,
+Cardlinger : lol
+
+= Conditional = pilot04_05 =
+skinnylinny : if you are still offering?
+skinnylinny : I could do with a sheep,
+
+= Comment = s2-league1-game1_07 =
+inca : no ore
+inca : sorry,
+
+= Comment = s2-league1-game1_07 =
+inca : need mine
+inca : sorry,
+
+= Comment = s1-league1-game4_07 =
+gotwood4sheep : stop that city :D
+gotwood4sheep : uh oooohhhh
+
+= Conditional = s1-league1-game4_07 =
+tomas.kostan : if you want some :)
+tomas.kostan : and wheat
+
+= Narration = pilot20_01 =
+inca : When everyone has sat down
+inca : Press "sit down" though
+
+= Conditional = pilot20_01 =
+inca : if I started too soon
+inca : Apologies
+
+= Conditional = s2-league4-game2_02 =
+Shawnus : if anyone gets some
+Shawnus : for ore..
+
+= Comment = s1-league3-game2_03 =
+Gaeilgeoir : the games have to be played by when?
+Gaeilgeoir : wait, 
+
+= Background = s2-leagueM-game3_01 =
+gotwood4sheep : when innis and LJ arrive :D
+gotwood4sheep : we'll see how the board treats us
+
+= Background = s2-leagueM-game3_01 =
+dmm : when you're last
+dmm : you can plan things out better
+
+= Conditional = pilot01_12 =
+Tomm : if you get them
+Tomm : Ports are great
+
+= Conditional = pilot01_12 =
+Tomm : could I send a surrogate with my signed form?
+Tomm : If you were to email me the form,
+
+= Conditional = pilot20_04 =
+ariachiba : if you want.
+ariachiba : You sould do one with each of us,
+
+= Result = s2-league4-game3_07 =
+Shawnus : it's got to that part of the game..
+ztime : 1 wood and 1 ore.. for a wheat..
+
+= Conditional = s2-leagueM-game3_02 =
+gotwood4sheep : if 1 will do it for ya
+gotwood4sheep : dmm will swap you a wheat for a sheep?
+
+= Conditional = s2-leagueM-game3_02 =
+gotwood4sheep : if dmm is snoozing,
+gotwood4sheep : or anyone else
+
+= Comment = s2-leagueM-game3_02 =
+inca : not me
+inca : sorry,
+
+= Comment = s2-leagueM-game3_02 =
+dmm : my internet just reset itself twice
+gotwood4sheep : I was worried it may lock you out
+
+= Conditional = s2-leagueM-game3_02 =
+gotwood4sheep : if you will take 1
+gotwood4sheep : to return, I was proposing a wheat for a sheep
+
+= Comment = s2-leagueM-game3_02 =
+inca : none here
+inca : sorry,
+
+= Comment = s2-leagueM-game3_02 =
+inca : nope
+inca : sorry,
+
+= Comment = s2-leagueM-game3_02 =
+dmm : i need mine
+dmm : sorry,
+
+= Conditional = s1-league1-game3_15 =
+gotwood4sheep : if we don't hear from them over the weekend
+gotwood4sheep : I think we should ask for the reserve to swap in
+
+= Explanation = pilot20_06 =
+ariachiba : no.
+ariachiba : Seeing as everything I have has been stolen,
+
+= Conditional = s1-league3-game6_01 =
+inca : if we're allowed to
+inca : our last hope really is that we can play it on wednesday
+
+= Comment = pilot21_04 =
+Katherine : i got 1 sheep
+Katherine : ahh
+
+= Conditional = s1-league3-game1_02 =
+nareik15 : if yiin remains absent?
+nareik15 : when do you think we should call it a day 
+
+= Conditional = pilot01_02 =
+Dave : will you not get it or something?
+Dave : like, if that resource comes up
+
+= Comment = s2-league1-game1_01 =
+inca : nope
+inca : sorry,
+
+= Result = s2-league1-game1_01 =
+CheshireCatGrin : Hi!
+gotwood4sheep : all 4, great!
+
+= Comment = s2-league5-game1_01 =
+zorburt : i mixed up the colours
+zorburt : oh MAN
+
+= Comment = s2-league3-game5_01 =
+Agnes : hi!
+sparkles : sorry,
+
+= Conditional = s2-league3-game5_01 =
+Kersti : if anyone would like to trade
+Kersti : I'm offering a wheat for a wood
+
+= Comment = s2-league3-game5_02 =
+Agnes : none here
+Agnes : sorry,
+
+= Conditional = s1-league3-game3_07 =
+inca : if so
+inca : i'll trad with both of you
+
+= Comment = pilot21_06 =
+Josephine : And no
+Josephine : We should try and speed through.
+
+= Comment = s2-league4-game1_02 =
+WoodnSheep : no
+WoodnSheep : sorry,
+
+= Comment = s2-league4-game1_02 =
+WoodnSheep : I wanted wood
+WoodnSheep : ah sorry,
+
+= Comment = s2-leagueM-game2_03 =
+inca : nope
+inca : sorry,
+
+= Result = s2-leagueM-game2_03 =
+gotwood4sheep : after being robbed hard earlier
+gotwood4sheep : i am wheatless now
+
+= Comment = s2-leagueM-game2_03 =
+inca : got a few sheep already!
+inca : sorry,
+
+= Background = s1-league1-game2_07 =
+tomas.kostan : when you know you have lost.. :(
+tomas.kostan : this game is so boring 
+
+= Comment = s1-league1-game2_07 =
+tomas.kostan : no
+tomas.kostan : this game is so boring 
+
+= Continuation = pilot01_11 =
+rennoc1 : yes.
+rennoc1 : unfortunately,
+
+= Conditional = pilot01_11 =
+rennoc1 : i could play till then though!
+rennoc1 : if we dont add time
+
+= Conditional = pilot01_10 =
+Dave : if he gets wheat
+Dave : but he can win the game
+
+= Comment = s2-leagueM-game3_05 =
+inca : need mine
+inca : sorry,
+
+= Comment = pilot20_08 =
+ariachiba : no
+ariachiba : Sorry,
+
+= Conditional = pilot20_08 =
+inca : if you need two
+inca : I can do that too
+
+= Comment = pilot20_08 =
+inca : can't
+inca : Sorry,
+
+= Comment = s2-leagueM-game2_02 =
+inca : none here either
+inca : sorry,
+
+= Conditional = s2-leagueM-game2_02 =
+gotwood4sheep : i then can't trade in to build a road next turn
+gotwood4sheep : if i trade 1
+
+= Conditional = s1-league2-game2_03 =
+dmm : if possible...
+dmm : i could do with a sheep  
+
+= Comment = pilot21_08 =
+Josephine : sorry no...
+Josephine : Actually,
+
+= Comment = s2-leagueM-game2_06 =
+inca : none
+inca : sorry,
+
+= Conditional = s2-leagueM-game2_06 =
+CheshireCatGrin : if so, then obviously no :D
+CheshireCatGrin : clay?
+
+= Background = s2-leagueM-game2_06 =
+gotwood4sheep : when you went on the card spree
+gotwood4sheep : i saw it forming
+
+= Conditional = s2-leagueM-game2_06 =
+gotwood4sheep : is matt sits that one out :D
+gotwood4sheep : ok well, see you saturday
+
+= Comment = s2-league1-game1_02 =
+inca : not any more
+inca : sorry,
+
+= Comment = s2-leagueM-game3_03 =
+inca : need mine
+inca : sorry,
+
+= Comment = s2-leagueM-game3_03 =
+inca : got some already
+inca : sorry,
+
+= Comment = s2-leagueM-game3_03 =
+ljaybrad123 : i have ore...
+ljaybrad123 : sorry
+
+= Result = s2-leagueM-game3_03 =
+gotwood4sheep : it's mining itself :D
+ljaybrad123 : llots of ore :p
+
+= Result = s2-leagueM-game3_03 =
+gotwood4sheep : it's mining itself :D
+inca : haha me too, 6 now
+
+= Elaboration = pilot04_04 =
+Nancy : are you almost done?
+Nancy : hi chameleon
+
+= Comment = pilot04_04 =
+Chameleon : forgot to click done
+Chameleon : oops,
+
+= Comment = pilot04_04 =
+Nancy : i thought so
+Nancy : hahaha
+
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : if it was work-related :/
+gotwood4sheep : you shouldn't lose pay
+
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : if they think you're pursuing legal action
+gotwood4sheep : they'll care more
+
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : if they don't respond,
+gotwood4sheep : I'd suggest a price,
+
+= Conditional = s1-league1-game4_01 =
+gotwood4sheep : whenever he was >7 resources
+gotwood4sheep : william kept rolling 7s
+
+= Contrast = s1-league1-game4_01 =
+gotwood4sheep : whenever he was >7 resources
+gotwood4sheep : william kept rolling 7s
+
+= Contrast = s1-league1-game4_01 =
+gotwood4sheep : whenever he was >7 resources
+gotwood4sheep : william kept rolling 7s
+
+= Explanation = s1-league3-game3_05 =
+inca : sorry
+inca : not any more,
+
+= Explanation = s1-league3-game3_05 =
+inca : nope
+inca : sorry,
+
+= Conditional = s1-league3-game3_01 =
+nareik15 : if anyone has any
+nareik15 : could do with some wheat though
+
+= Comment = s2-leagueM-game3_06 =
+gotwood4sheep : have just the one
+gotwood4sheep : sorry,
+
+= Comment = s2-leagueM-game3_06 =
+inca : i've got one too
+inca : sorry,
+
+= Comment = s2-leagueM-game3_06 =
+gotwood4sheep : nope
+gotwood4sheep : sorry,
+
+= Conditional = s2-league4-game2_09 =
+ztime : I can't help
+ztime : unless it's wood..
+
+= Conditional = s1-league1-game3_05 =
+gotwood4sheep : if so
+gotwood4sheep : I will trade very generously
+
+= Comment = s2-league1-game1_05 =
+inca : need my other one
+inca : sorry,
+
+= Comment = s2-league1-game1_05 =
+inca : not any more
+inca : sorry,
+
+= Comment = s2-league1-game1_05 =
+inca : none
+inca : sorry,
+
+= Comment = s1-league2-game3_06 =
+sabercat : is there anyone esle who wants to play?
+sabercat : well,
+
+= Conditional = s1-league2-game3_06 =
+amycharl : if no1 else can?
+amycharl : shud we just do anyother one
+
+= Result = s1-league2-game3_06 =
+sabercat : we were supposed to play two today, ... and well...
+sabercat : thats a problem.
+
+= Question-answer_pair = s1-league3-game2_01 =
+Gaeilgeoir : what did he say?
+inca : "ehh sry 
+
+= Conditional = s1-league3-game2_01 =
+inca : if it is
+inca : i totally understand 
+
+= Conditional = pilot01_06 =
+Tomm : you can get better trades
+Tomm : If you have a settlement on them
+
+= Conditional = pilot01_06 =
+Tomm : if I rolled a 7
+Tomm : I was going to scream
+
+= Comment = s2-league4-game1_05 =
+somdechn : yep...
+ztime : sorry..
+
+= Conditional = s2-leagueM-game4_02 =
+inca : if that's OK
+inca : 1 for 1
+
+= Result = s1-league3-game6_03 =
+inca : i don't think i can afford to make any trades with you in this situ
+inca : haha, at the risk of being rude,
+
+= Conditional = pilot02_03 =
+Cat : if you can give me wood
+Cat : I mean I can offer ore
+
+= Explanation = pilot01_03 =
+Tomm : wanted your goods
+Tomm : Sorry Rennoc,
+
+= Conditional = pilot01_03 =
+Dave : I'll have something
+Dave : possibly when my turn rolls around
+
+= Conditional = s1-league1-game2_08 =
+ljaybrad123 : if we can
+ljaybrad123 : Thurs would be great 
+
+= Result = s2-league1-game1_03 =
+gotwood4sheep : harvests are good
+gotwood4sheep : we all seem to have a surfeit.
+
+= Comment = s2-league1-game1_03 =
+inca : think i need mine
+inca : sorry,
+
+= Comment = s2-leagueM-game2_05 =
+inca : not any more
+inca : sorry dmm,
+
+= Comment = s2-leagueM-game2_05 =
+gotwood4sheep : 5 wheats me too
+gotwood4sheep : sorry,
+
+= Comment = s1-league2-game3_01 =
+skinnylinny : there are three of us, at least...
+skinnylinny : Well,
+
+= Conditional = s1-league2-game3_01 =
+amycharl : we should play anyway
+amycharl : but if no1 comes
+
+= Conditional = s1-league2-game3_01 =
+amycharl : if we could
+amycharl : i would do later tonight
+
+= Comment = pilot20_11 =
+inca : i have like nothing now
+inca : Sorry,
+
+= Comment = s2-leagueM-game2_04 =
+inca : not me
+inca : sorry,
+
+= Comment = s2-leagueM-game2_04 =
+inca : nope
+inca : sorry,
+
+= Comment = s2-leagueM-game2_04 =
+inca : none at al
+inca : sorry,
+
+= Result = s2-leagueM-game2_04 =
+gotwood4sheep : ugh i cannot type tonight
+gotwood4sheep : equal theiving opps
+
+= Explanation = s1-league1-game3_09 =
+gotwood4sheep : as I need to leave quite soon :/
+gotwood4sheep : we were negotiating a truce
+
+= Narration = s1-league1-game3_09 =
+ljaybrad123 : ill try
+ljaybrad123 : anyone have wheat or clay for sheep?
+
+= Comment = s2-league1-game1_04 =
+inca : nope
+inca : sorry,
+
+= Comment = pilot04_07 =
+Chameleon : no
+Chameleon : sorry,
+
+= Conditional = s1-league2-game1_08 =
+IG : if your up for it
+IG : will do on my turn
+
+= Comment = s1-league1-game4_09 =
+tomas.kostan : hi
+ljaybrad123 : anyone have sheep for ore?
+
+= Elaboration = s1-league3-game5_01 =
+Gaeilgeoir :  you mean?
+Gaeilgeoir : start the game, 
+
+= Elaboration = s1-league2-game4_01 =
+sabercat : its the most probable
+sabercat : well,
+
+= Comment = s1-league2-game4_01 =
+sabercat : thanks!
+sabercat : gee
+
+= Comment = pilot21_10 =
+Charlotte : don't haveit
+Charlotte : sorry
+
+= Background = s2-league4-game3_05 =
+Shawnus : no clay
+Shawnus : oh...i'm on 2 forests..
+
+= Result = s2-league4-game3_03 =
+Shawnus : it's dirty now
+Shawnus : dont want it...
+
+= Background = s2-league4-game3_03 =
+Shawnus : after you move the dude
+Shawnus : ok,
+
+= Background = s2-league4-game2_10 =
+Shawnus : when it's my turn
+Shawnus : take a wheat for one
+
+= Background = s1-league3-game4_01 =
+inca : when you have to
+inca : You can leave 
+
+= Explanation = s1-league1-game2_03 =
+tomas.kostan : does not work for me
+tomas.kostan : how to trade with the bank? 
+
+= Comment = pilot03_07 =
+Joel : no still
+Joel : haha
+
+= Conditional = s1-league3-game3_04 =
+Gaeilgeoir : if you want
+Gaeilgeoir : I have wheat
+Background                   9
+Comment                     56
+Conditional                 49
+Continuation                 1
+Contrast                     2
+Elaboration                  3
+Explanation                  7
+Narration                    2
+Question-answer_pair         1
+Result                      12

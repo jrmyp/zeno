@@ -1,0 +1,269 @@
+[('Question-answer_pair', 167), ('Acknowledgement', 83), ('Result', 49), ('Comment', 41), ('Q-Elab', 35), ('Contrast', 24), ('Elaboration', 17), ('Parallel', 16), ('Continuation', 14), ('Alternation', 14), ('Clarification_question', 13), ('Correction', 9), ('Explanation', 8), ('Background', 3), ('Conditional', 1), ('Narration', 1)]
+
+== s1-league1-game3_14.aa ==
+3
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Alternation', 'Question-answer_pair', 'Result', 'Result']
+['Result', 'Alternation']
+['Question-answer_pair', 'Result', 'Comment', 'Comment']
+['Result', 'Comment', 'Comment']
+['Contrast']
+== s1-league1-game3_12.aa ==
+5
+['Result', 'Alternation']
+['Result', 'Result', 'Question-answer_pair']
+['Question-answer_pair', 'Result', 'Result']
+['Result', 'Alternation']
+['Result', 'Question-answer_pair', 'Result', 'Alternation']
+['Result', 'Result', 'Question-answer_pair']
+['Result', 'Result', 'Question-answer_pair']
+['Result']
+['Result', 'Result']
+['Question-answer_pair', 'Parallel']
+== s1-league1-game3_06.aa ==
+2
+['Comment', 'Comment']
+['Continuation', 'Q-Elab']
+['Question-answer_pair', 'Continuation', 'Q-Elab', 'Question-answer_pair', 'Continuation']
+['Alternation']
+['Result']
+== s1-league1-game3_09.aa ==
+1
+['Q-Elab', 'Clarification_question']
+['Result', 'Result']
+['Question-answer_pair', 'Explanation']
+== s1-league1-game3_13.aa ==
+3
+['Contrast']
+['Question-answer_pair']
+['Alternation', 'Q-Elab']
+['Comment', 'Comment']
+['Comment', 'Comment', 'Comment']
+['Comment', 'Comment', 'Question-answer_pair']
+== s1-league1-game3_10.aa ==
+2
+['Question-answer_pair', 'Elaboration']
+['Result', 'Question-answer_pair']
+['Q-Elab', 'Result']
+['Question-answer_pair', 'Question-answer_pair', 'Acknowledgement']
+['Question-answer_pair', 'Question-answer_pair', 'Acknowledgement']
+== s1-league1-game3_02.aa ==
+1
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+['Explanation', 'Elaboration']
+== s1-league1-game3_05.aa ==
+4
+['Q-Elab', 'Q-Elab']
+['Continuation', 'Result']
+['Comment', 'Comment', 'Question-answer_pair']
+['Comment', 'Comment', 'Question-answer_pair']
+['Result', 'Alternation']
+['Question-answer_pair', 'Result', 'Result']
+['Result']
+['Question-answer_pair', 'Parallel']
+['Question-answer_pair', 'Question-answer_pair', 'Clarification_question']
+== s1-league1-game3_03.aa ==
+2
+['Explanation', 'Contrast']
+['Question-answer_pair', 'Comment', 'Comment']
+['Question-answer_pair', 'Elaboration', 'Contrast']
+['Question-answer_pair', 'Elaboration', 'Contrast', 'Parallel']
+['Parallel', 'Narration']
+== s1-league1-game3_04.aa ==
+1
+['Correction', 'Elaboration']
+['Question-answer_pair', 'Comment', 'Comment']
+['Q-Elab']
+== s1-league1-game3_01.aa ==
+3
+['Comment', 'Comment']
+['Acknowledgement', 'Question-answer_pair']
+['Clarification_question', 'Question-answer_pair']
+['Result', 'Result', 'Question-answer_pair']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league1-game3_08.aa ==
+3
+['Parallel', 'Question-answer_pair']
+['Question-answer_pair', 'Parallel', 'Parallel']
+['Continuation', 'Continuation', 'Question-answer_pair']
+['Contrast', 'Continuation', 'Contrast', 'Contrast']
+['Result', 'Result']
+['Result', 'Result', 'Result']
+== s1-league1-game3_11.aa ==
+3
+['Acknowledgement']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Question-answer_pair', 'Result']
+['Question-answer_pair', 'Result']
+['Question-answer_pair', 'Result']
+== s1-league1-game3_15.aa ==
+3
+['Comment', 'Acknowledgement', 'Elaboration']
+['Parallel', 'Question-answer_pair']
+['Comment', 'Comment']
+['Parallel', 'Question-answer_pair', 'Q-Elab']
+['Elaboration', 'Parallel', 'Q-Elab', 'Question-answer_pair']
+['Elaboration', 'Parallel', 'Q-Elab', 'Question-answer_pair', 'Question-answer_pair']
+['Alternation', 'Elaboration', 'Parallel', 'Q-Elab', 'Question-answer_pair', 'Result']
+== s1-league1-game3_07.aa ==
+0
+== s1-league2-game1_12.aa ==
+1
+['Question-answer_pair', 'Question-answer_pair']
+['Question-answer_pair', 'Parallel']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league2-game1_11.aa ==
+0
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+== s1-league2-game1_02.aa ==
+1
+['Acknowledgement']
+['Clarification_question', 'Question-answer_pair', 'Acknowledgement']
+== s1-league2-game1_03.aa ==
+1
+['Clarification_question']
+['Question-answer_pair', 'Comment', 'Comment']
+['Question-answer_pair', 'Question-answer_pair', 'Acknowledgement']
+== s1-league2-game1_09.aa ==
+0
+['Question-answer_pair', 'Clarification_question', 'Question-answer_pair', 'Explanation', 'Acknowledgement', 'Acknowledgement']
+== s1-league2-game1_06.aa ==
+1
+['Continuation', 'Q-Elab']
+['Result', 'Q-Elab']
+== s1-league2-game1_13.aa ==
+1
+['Question-answer_pair', 'Parallel']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league2-game1_08.aa ==
+1
+['Contrast']
+['Question-answer_pair', 'Question-answer_pair']
+== s1-league2-game1_07.aa ==
+1
+['Question-answer_pair', 'Question-answer_pair']
+['Acknowledgement', 'Acknowledgement']
+== s1-league2-game1_10.aa ==
+2
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Continuation', 'Q-Elab', 'Q-Elab']
+['Parallel', 'Question-answer_pair']
+['Question-answer_pair', 'Clarification_question', 'Question-answer_pair', 'Acknowledgement']
+['Question-answer_pair', 'Acknowledgement', 'Comment', 'Question-answer_pair']
+== s1-league2-game1_05.aa ==
+1
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+['Acknowledgement', 'Acknowledgement', 'Q-Elab']
+['Q-Elab']
+== s1-league2-game1_14.aa ==
+2
+['Continuation', 'Clarification_question', 'Continuation']
+['Contrast', 'Contrast']
+['Background', 'Background']
+['Acknowledgement', 'Acknowledgement']
+['Parallel', 'Question-answer_pair']
+== s1-league2-game1_01.aa ==
+1
+['Question-answer_pair', 'Acknowledgement', 'Result']
+['Question-answer_pair', 'Contrast', 'Explanation']
+['Elaboration']
+== s1-league2-game1_04.aa ==
+0
+== s1-league1-game5_04.aa ==
+1
+['Continuation', 'Clarification_question', 'Question-answer_pair']
+['Question-answer_pair', 'Question-answer_pair', 'Acknowledgement']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league1-game5_02.aa ==
+0
+== s1-league1-game5_05.aa ==
+1
+['Acknowledgement']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league1-game5_07.aa ==
+2
+['Question-answer_pair', 'Contrast']
+['Comment', 'Comment']
+['Parallel', 'Comment']
+['Acknowledgement', 'Acknowledgement']
+['Question-answer_pair', 'Correction']
+== s1-league1-game5_03.aa ==
+1
+['Question-answer_pair', 'Correction']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league1-game5_06.aa ==
+0
+['Contrast', 'Comment']
+== s1-league1-game5_01.aa ==
+0
+== s1-league1-game1_03.aa ==
+1
+['Correction', 'Correction']
+['Question-answer_pair', 'Q-Elab']
+== s1-league1-game1_02.aa ==
+2
+['Acknowledgement']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Question-answer_pair', 'Question-answer_pair', 'Acknowledgement']
+== s1-league1-game1_06.aa ==
+1
+['Conditional']
+['Result', 'Q-Elab']
+== s1-league1-game1_01.aa ==
+1
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league1-game1_05.aa ==
+1
+['Question-answer_pair', 'Result']
+['Question-answer_pair']
+== s1-league1-game1_07.aa ==
+1
+['Question-answer_pair', 'Comment', 'Comment']
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Result', 'Result']
+== s1-league1-game1_04.aa ==
+3
+['Result']
+['Question-answer_pair', 'Alternation']
+['Result']
+['Continuation', 'Comment']
+['Result', 'Correction']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+== s1-league2-game2_07.aa ==
+1
+['Question-answer_pair', 'Q-Elab']
+['Question-answer_pair', 'Q-Elab']
+['Question-answer_pair', 'Question-answer_pair']
+== s1-league2-game2_01.aa ==
+4
+['Question-answer_pair', 'Clarification_question', 'Question-answer_pair']
+['Acknowledgement', 'Contrast']
+['Acknowledgement', 'Elaboration']
+['Explanation', 'Explanation']
+['Acknowledgement', 'Acknowledgement']
+['Question-answer_pair', 'Q-Elab']
+['Comment', 'Comment', 'Question-answer_pair']
+['Comment', 'Comment', 'Question-answer_pair']
+== s1-league2-game2_02.aa ==
+0
+['Elaboration', 'Question-answer_pair', 'Q-Elab']
+== s1-league2-game2_06.aa ==
+0
+['Elaboration', 'Correction']
+== s1-league2-game2_04.aa ==
+0
+== s1-league2-game2_03.aa ==
+1
+['Acknowledgement', 'Acknowledgement', 'Question-answer_pair']
+['Question-answer_pair', 'Acknowledgement', 'Acknowledgement']
+['Acknowledgement']
+== s1-league2-game2_05.aa ==
+1
+['Contrast', 'Contrast']
+['Question-answer_pair', 'Elaboration', 'Question-answer_pair']
+['Question-answer_pair', 'Question-answer_pair']

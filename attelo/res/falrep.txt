@@ -1,0 +1,2652 @@
+Anyone got wood to trade?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+Yup
+Is answer to :
+everyone got it now :D
+Rule says : {}
+Anno says : {}
+True
+
+i will give you 1 clay for 1 sheep :)
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+yes here
+Is answer to :
+can i get a sheep for a wood?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+can i get a sheep for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+i has no sheep :p
+Is answer to :
+can i get a sheep for a wood?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+I has ore/...
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+No wood, sorry
+Is answer to :
+Anyone got wood to trade?
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+i can give you clay or wood
+Rule says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+i have a sheep to give
+Is answer to :
+any sheep for sale?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+i have a single wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+for wheat
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+I have clay
+Is answer to :
+i can give you a lot for a clay, anyone?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+i can give you a lot for a clay, anyone?
+Rule says : {}
+Anno says : {}
+True
+
+yea, you got sheep?
+Is answer to :
+anyone has ore? :D
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+I have ore, would trade for wood
+Is answer to :
+anyone has ore? :D
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+yes, for clay
+Is answer to :
+anyone got wood?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+have none
+Is answer to :
+need sheep!
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+no ore sorry
+Is answer to :
+anyone got ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+no ore in here either
+Is answer to :
+anyone got ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+sheep for ore
+Is answer to :
+Need sheep. Have ore/clay
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+trade with bank/port
+Is answer to :
+How do I trade with a port?
+Rule says : {}
+Anno says : {}
+True
+
+go on then
+Is answer to :
+nope... wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+wood for ore?
+Is answer to :
+anyone have wood or heep?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+no sheep sorry
+Is answer to :
+anyone have wood or heep?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+2 wheat?
+Is answer to :
+for wheat
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+2 wheat
+Is answer to :
+2 wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('2', 'infinity')}
+True
+
+none to spare just yet :)
+Is answer to :
+clay, ore?
+Rule says : {'ore': ('0', '0'), 'clay': ('0', '0')}
+Anno says : {}
+False
+
+none of those sorry :(
+Is answer to :
+anyone have sheep for clay?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+i will give you a wood for 2 wheat then
+Is answer to :
+2 wheat
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+anyone give me ore for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+2 sheep for a clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+False
+
+wood? 
+Is answer to :
+^^ i need sheep as always
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+sheep for clay
+Is answer to :
+Need sheep. Have ore/clay
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+wood port
+Is answer to :
+How do I trade with a port?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+Yes
+Is answer to :
+trade with bank/port
+Rule says : {}
+Anno says : {}
+True
+
+anyone have sheep for clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+just for ore
+Is answer to :
+anyone have sheep for clay?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i have an abundance :)
+Is answer to :
+anyone want sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+keeping mine just yet
+Is answer to :
+clay, ore?
+Rule says : {'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+anyone want to swap a clay for a wheat?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+i have clay
+Is answer to :
+anyone got more clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+can i get a sheep? 
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+sheep or wheat?
+Is answer to :
+i have an ore
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+or 2 wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+i can give you a clay for an ore + a sheep or a wheat
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+you want wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+got 3 clay, sorry
+Is answer to :
+wood for clay anyone?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('3', 'infinity')}
+True
+
+you can have it back for some ore
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have an ore
+Is answer to :
+ore, sheep or wheat to spare?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+no ore here sry
+Is answer to :
+can i get an ore for a sheep?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+can i get an ore for a sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+i will give you 1 wood for 1 clay
+Is answer to :
+yes
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+iam giving 1 sheep
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+none
+Is answer to :
+can i get someone's ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+wood for clay anyone?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+i need mine sorry
+Is answer to :
+does someone have clay for me?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+i think you can reset
+Is answer to :
+let's hope william finds us well
+Rule says : {}
+Anno says : {}
+True
+
+alright... what about some wheat?
+Is answer to :
+can i get a wood?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+for 2 wheat?
+Is answer to :
+i have wood
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('2', 'infinity')}
+True
+
+Or does anyone have any ore they'd give me for a clay or a sheep?
+Is answer to :
+Does anyone have any wood?
+Rule says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+i have wood
+Is answer to :
+can i get a wood or a clay?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+can i get a wood or a clay?
+Rule says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+i do
+Is answer to :
+anyone want sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+I'd need 2 wheat for an ore
+Is answer to :
+ore anyone?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+can offer just one :)
+Rule says : {}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+anyone have clay for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+can i have a wheat for a sheep?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+i have no wheat, sorry
+Is answer to :
+can i have a wheat for a sheep?
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+True
+
+ok then... ore for clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+I am afraid I'm about to use mine
+Is answer to :
+does someone have clay for me?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+2 sheep for 1 ore one wheat?
+Is answer to :
+for wood?
+Rule says : {'ore': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+for wood?
+Is answer to :
+anyone want sheep?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+sorry i has wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+no wood sorry
+Is answer to :
+wood anyone?
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+yes
+Is answer to :
+you want wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+have to wait one round
+Rule says : {}
+Anno says : {}
+True
+
+anyone want to trade for clay?
+Rule says : {}
+Anno says : {}
+True
+
+anyone got ore for sheep/wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+i need ore or wood
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+no sorry I have a wood
+Is answer to :
+id love some wood
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+can anyone give me ore for wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+clay for a wood?
+Is answer to :
+anyone got sheep for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+1 for 1?
+Is answer to :
+i will give you ore
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+no help here
+Is answer to :
+i need clay or ore. i have lots of wood
+Rule says : {'wood': ('0', '0'), 'ore': ('0', '0'), 'clay': ('0', '0')}
+Anno says : {}
+False
+
+i need clay or ore. i have lots of wood
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+i got none, sorry :(
+Is answer to :
+can anyone give me ore for wood?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+one clay for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+anyone got sheep for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+anyone have wood or wheat for clay?
+Is answer to :
+there will be lots of clay this game i think ;)
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+which one do you want?
+Rule says : {}
+Anno says : {}
+True
+
+tomas - wheat for wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+I didn't want three clay
+Is answer to :
+btw... originally, I was offering 3 clay..
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+btw... originally, I was offering 3 clay..
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+2 sheep for 2 clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+False
+
+I need 2 sheep...
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+can you trade for 3 clays
+Is answer to :
+What do you want for them?
+Rule says : {}
+Anno says : {'clay': ('3', 'infinity')}
+False
+
+I'll give you two sheep for 2 clay or for a clay and a wheat or a clay and a wood
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+True
+
+i will give you ore
+Is answer to :
+anyone fancy any?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+no clay in here either
+Is answer to :
+anyone have clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+I have sheep
+Is answer to :
+I need clay
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+i need wood
+Is answer to :
+which one do you want?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+I *had* ore
+Is answer to :
+anyone has ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+for a clay?
+Is answer to :
+can i get a sheep?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+yup
+Is answer to :
+for a clay?
+Rule says : {}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+sorry, I want clay,
+Is answer to :
+I have sheep
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+no clay in here
+Is answer to :
+anyone want to trade wheat or sheep for a clay? 
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+anyone want to trade wheat or sheep for a clay? 
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+No wheat?
+Is answer to :
+Clay, ore, sheep?
+Rule says : {'wheat': ('0', '0')}
+Anno says : {}
+False
+
+a wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+an ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i have wood
+Is answer to :
+anyone got ore or sheep?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+deal :)
+Is answer to :
+an ore + wheat?
+Rule says : {'ore': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+i do
+Is answer to :
+anyone have wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+what can you offer for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+loads of wheat!
+Is answer to :
+or wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+or for 1 ore?
+Is answer to :
+hmm, i'd need 1 other too
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i need my clay
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+only for a clay
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+i need both or none :)
+Is answer to :
+anyone got a sheep?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {}
+False
+
+willian 2 wheat for sheep and ore?
+Is answer to :
+loads of wheat!
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+can only offer a sheep
+Is answer to :
+for ore?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+for a sheep
+Is answer to :
+for clay...
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+for ore?
+Is answer to :
+for a sheep
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+for clay...
+Is answer to :
+anyone have some wood to spare?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+no wood
+Is answer to :
+anyone have wood to pare?
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+what about 1 sheep and 1 wheat? :)
+Is answer to :
+how about 2 sheep, tomas?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+or 1 sheep 1 wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+too pricey I think
+Rule says : {}
+Anno says : {}
+True
+
+i can give you 2 wheat that will give a free resource :)
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('2', 'infinity')}
+True
+
+sheep?
+Is answer to :
+what for?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+I can spare a wood for clay
+Is answer to :
+lj does :)
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+do you have one for trade?
+Is answer to :
+there's your wood ;)
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+how about 2 sheep, tomas?
+Is answer to :
+anyone willing to buy some wood?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+True
+
+i have 2, ta :)
+Is answer to :
+anyone want wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+anyone want wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+I'd need 2 wheat,
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+anyone have wheat for ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+and can offer a sheep + wheat
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+afraid it'll be none then :)
+Is answer to :
+i need both or none :)
+Rule says : {}
+Anno says : {}
+True
+
+no clay
+Is answer to :
+anyone got clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+can offer clay or wood
+Rule says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+i can too so it should be fine
+Rule says : {}
+Anno says : {}
+True
+
+Does one of you want to send a group message 
+Rule says : {}
+Anno says : {}
+True
+
+anyone want to trade their ore for my wood?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+no ore here sorry
+Is answer to :
+can i have someone's ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+anyone have clay for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+2 sheep? :)
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+True
+
+no sheep, sorry!
+Is answer to :
+sheep perhaps?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {}
+False
+
+sheep perhaps?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+only for clay or 2 wheat, sorry
+Is answer to :
+still no ore?
+Rule says : {'wheat': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+2 clay = 1 wood?
+Rule says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+still no ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {}
+False
+
+sry no ore in here either
+Is answer to :
+can i have someone's ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+got no weat, sorry
+Is answer to :
+okay, anyone will trade wheat?
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+True
+
+for ore or sheep?
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+Oi! No stealing! :P
+Is answer to :
+will you trade wood?
+Rule says : {'wood': ('0', '0')}
+Anno says : {}
+False
+
+Fair enough :P
+Rule says : {}
+Anno says : {}
+True
+
+clay or sheep are my primary desires
+Is answer to :
+how about a wood then?
+Rule says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+a wheat?
+Is answer to :
+what for.. :D
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+got both, sorry :(
+Is answer to :
+sheep or clay?
+Rule says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+an ore
+Is answer to :
+or ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i have clay
+Is answer to :
+no clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+LJ has one
+Rule says : {}
+Anno says : {}
+True
+
+I want wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+william for a sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+sure
+Is answer to :
+wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+2 of dems
+Rule says : {}
+Anno says : {'clay': ('2', 'infinity')}
+False
+
+yup
+Is answer to :
+anyone have clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+anyone got sheep for 1 wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+ore for clay
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+for wood
+Is answer to :
+anyone got wheat to trade?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+neither, sorry
+Is answer to :
+anyone have sheep or wood for clay?
+Rule says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+Sure
+Is answer to :
+starting at 15?
+Rule says : {}
+Anno says : {}
+True
+
+Sure
+Is answer to :
+(unknown)
+Rule says : {}
+Anno says : {}
+True
+
+sure
+Is answer to :
+anyone want wheat?  I'd like a sheep
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+sabercat is Martina
+Is answer to :
+Who's who? I'm assuming IG is Ivan?
+Rule says : {}
+Anno says : {}
+True
+
+for ore? sheep?
+Is answer to :
+what are you offering?
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+no, 
+Is answer to :
+anyone have 1 wheat 1 wood for 2 sheep?
+Rule says : {'wood': ('0', '0'), 'wheat': ('0', '0')}
+Anno says : {}
+False
+
+yup
+Is answer to :
+shall we start?
+Rule says : {}
+Anno says : {}
+True
+
+anyone have 1 wheat 1 wood for 2 sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+True
+
+Sheep?
+Is answer to :
+What are you offering?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+anyone have sheep or wood for clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+am quite happy to give 2 for one, 
+Is answer to :
+for what?
+Rule says : {}
+Anno says : {'clay': ('3', 'infinity')}
+False
+
+i do not have any
+Rule says : {}
+Anno says : {'wheat': ('0', '0')}
+False
+
+anyone have sheep for ore?
+Is answer to :
+i do not have any
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+for a sheep :)
+Is answer to :
+for a sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+for a sheep?
+Is answer to :
+can i get an ore from someone?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+anyone have wheat for ore or sheep?
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+i need ore yes
+Is answer to :
+anyone have wheat for ore or sheep?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+Anyone got one for a sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+or wood for a wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+anyone want to trade ore or sheep for these wheat?!
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+none
+Is answer to :
+or ore?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+wheat for clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+and sorry, no clay for sheep
+Rule says : {'sheep': ('0', '0')}
+Anno says : {}
+False
+
+how about clay for sheep:
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+anyone has ore? for sheep? or clay?
+Rule says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+2 clay? :)
+Is answer to :
+1 clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+none
+Is answer to :
+anyone have wheat?
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+True
+
+ore + wood?
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+1 sheep oe wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+one*
+Is answer to :
+1 sheep oe wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+tomas remember I'm on the hook for a sheep to you
+Rule says : {}
+Anno says : {}
+True
+
+anyone have wheat for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+don't have any
+Is answer to :
+can i get a clay from someone?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+can i get a clay from someone?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have a man on my ore pile...
+Is answer to :
+ore anyone?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+for ore or sheep?
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+no clay at all, apologies
+Is answer to :
+clay from someone?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+2 wood?
+Is answer to :
+can i get an ore for 1 wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+can i get an ore for 1 wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+no clay here sorry
+Is answer to :
+can i get someone's clay for a wheat?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+sry i only have a sheep
+Is answer to :
+clay from someone?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', '1')}
+True
+
+i has none
+Is answer to :
+can i get someone's clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+no clay in here
+Is answer to :
+can i get someone's clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+can i get ore for wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+i have 2 clay
+Is answer to :
+ore and wood?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('2', 'infinity')}
+True
+
+only for wood
+Is answer to :
+anyone has ore? for sheep? or clay?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+what do you want?
+Is answer to :
+anyone want clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have ore for you
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+yes
+Is answer to :
+anyone want clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+would have had ore, but...
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+can offer sheep or wheat
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+tis just you i think :/
+Rule says : {}
+Anno says : {}
+True
+
+sry then have no idea what it was :/
+Rule says : {}
+Anno says : {}
+True
+
+ore for sheep and wheat or wood
+Is answer to :
+ok...ore?
+Rule says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+one or tother?
+Is answer to :
+ore for sheep and wheat or wood
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+can i get someone's clay for a wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+yes yes yes
+Is answer to :
+anyone want clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+anyone want clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+2 wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+I'll have my sheep back :D
+Is answer to :
+anyone have wheat for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+no ore for trade
+Is answer to :
+2 wood?
+Rule says : {'wood': ('0', '0')}
+Anno says : {}
+False
+
+no clay in here either
+Is answer to :
+can i get someone's clay for a wheat?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+sure a sheep works
+Is answer to :
+do you want a sheep for it?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+have no ore, william, sorry
+Is answer to :
+i will give you 1 clay for 1 ore
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+i will give you 1 clay for 1 ore
+Is answer to :
+clay, anyone?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+anyone have sheep for ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+offering 2 ore for one wood
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('2', 'infinity')}
+True
+
+ore and clay
+Is answer to :
+sabercat: What are you offering?
+Rule says : {'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+2 wheat for 2 wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wheat': ('2', 'infinity')}
+False
+
+I can offer an ore
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+for one wood?
+Is answer to :
+anyone got some ore?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+clay/ore for wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+False
+
+no sheep
+Is answer to :
+giving clay for sheep
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+I have no wood, sorry
+Is answer to :
+clay/ore for wood?
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+got wood for ore?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+I do
+Is answer to :
+do you have ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+for sheep?
+Is answer to :
+do you have ore?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+I have ore, but would prefer wood
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+ive got one
+Is answer to :
+do you have ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+1 wood 2 wheat?
+Is answer to :
+can offer wheat
+Rule says : {'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+can offer wheat
+Is answer to :
+yep
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+for sure.
+Rule says : {}
+Anno says : {}
+True
+
+ok niko wood for ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+my french not so good
+Rule says : {}
+Anno says : {}
+True
+
+can i have someone's ore for sheep?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+giving clay for sheep
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+for what
+Is answer to :
+okay, can anyone give me clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+for ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i got wood
+Is answer to :
+ore? wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+no sheep sry
+Is answer to :
+anyone got sheep?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+If anyone offers me one ore and one wheat they can have a wood
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+im trading with skinny next turn
+Is answer to :
+which one?
+Rule says : {}
+Anno says : {}
+True
+
+hey, I want wood as well
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+i haave ore
+Is answer to :
+ore? wood?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+skinny, give me clay for ore?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+I have no clay
+Is answer to :
+skinny, give me clay for ore?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+so I need wood...
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+nope... none here :(
+Is answer to :
+so I need wood...
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+Sorry, not got any
+Is answer to :
+so I need wood...
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+sry sheep no longer for trade
+Is answer to :
+anyone have sheep for ore?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+2 wheat and a sheep maybe
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have a clay and 2 wood
+Rule says : {'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity'), 'clay': ('1', 'infinity')}
+True
+
+wheat or clay even
+Rule says : {'wheat': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+sry don't want to end this game :)
+Is answer to :
+1 wood 4 wheat?
+Rule says : {'wood': ('0', '0'), 'wheat': ('0', '0')}
+Anno says : {}
+False
+
+ok i will take 2 wood for 2 wheat and a sheep :)
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('2', 'infinity')}
+True
+
+2x ore
+Is answer to :
+sabercat: What would you offer?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('2', 'infinity')}
+True
+
+I was rather rich in wheat
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+i was hoping for a clay empire, but no cigar
+Is answer to :
+good game :)
+Rule says : {'clay': ('0', '0')}
+Anno says : {}
+False
+
+I'll give you a clay for a wheat
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+or two for two if you want
+Rule says : {}
+Anno says : {'clay': ('2', 'infinity')}
+False
+
+1 wood 4 wheat?
+Is answer to :
+need ore for wheat
+Rule says : {'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+yep
+Is answer to :
+anyone got some ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i was hoping for ore
+Is answer to :
+anyone got some ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+a true act of villainry
+Rule says : {}
+Anno says : {}
+True
+
+now i have wood to spare :)
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+for now.
+Rule says : {}
+Anno says : {}
+True
+
+need ore for wheat
+Is answer to :
+1 wood 2 wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+anyone want to trade a wheat for a sheep?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+i can give you your wood for wheat :)
+Is answer to :
+anyone want to trade a wheat for a sheep?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+wood for wheat tomas?
+Is answer to :
+i can give you your wood for wheat :)
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+no clay in here
+Is answer to :
+anyone want to trade me a clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+i have no wheat, sorry
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+True
+
+yea
+Is answer to :
+Shall we extend?
+Rule says : {}
+Anno says : {}
+True
+
+1 wood 1 sheep?
+Is answer to :
+2 sheep?
+Rule says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+deal
+Rule says : {}
+Anno says : {}
+True
+
+i need a clay
+Is answer to :
+clay ore for trade anyone?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+2 sheep?
+Is answer to :
+yup
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('2', 'infinity')}
+True
+
+ore for what then?
+Is answer to :
+i need a clay
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+clay and ore :) 
+Is answer to :
+which you don't have?
+Rule says : {'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'ore': ('0', '0'), 'clay': ('0', '0')}
+False
+
+i have wood but guess what
+Is answer to :
+ok wood then? 
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+none, sorry
+Is answer to :
+anyone have wood?
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+i could do 1 wood for a sheep perhaps?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+False
+
+got sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+want any wood?
+Is answer to :
+anyone want to trade some clay for me
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+I'm good for wood :D
+Is answer to :
+want any wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+i need wheat...
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+for clay?
+Is answer to :
+sheep, tomas?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+How about an ore and a sheep for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+anyone have clay for wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+IG: one clay for one wood?
+Is answer to :
+will trade anything for wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+tomas, I will give you 2 wood for a sheep...
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+i just discarded all of my sheep... :/
+Is answer to :
+tomas, I will give you 2 wood for a sheep...
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('0', '0')}
+False
+
+none, sorry
+Is answer to :
+anyone have wood?
+Rule says : {'wood': ('0', '0')}
+Anno says : {'wood': ('0', '0')}
+True
+
+um i have no clay
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+sure
+Is answer to :
+How about an ore and a sheep for a wood?
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+sheep, tomas?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+does someone want my sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+Was about to offer IG a wood for an ore
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+give me the wood and I will give you ore... and if you give me wood and clay you get two ores
+Is answer to :
+Was about to offer IG a wood for an ore
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'ore': ('2', 'infinity')}
+False
+
+two ores for a wood from my end...
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'ore': ('2', 'infinity')}
+False
+
+anyone have clay for wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+i can offer sheep or wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+As in, one ore per wood, one wood per person?
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+Ore for wood... One each?
+Is answer to :
+ore for wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+ore for wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+no clay
+Is answer to :
+tomas, any clay??
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+for a sheep
+Is answer to :
+anyone got clay?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+i have 0 sheep,
+Is answer to :
+for a sheep
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('0', '0')}
+False
+
+anyone have clay for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+yes
+Is answer to :
+can i get wheet from someone?
+Rule says : {}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+for wood?
+Is answer to :
+yes
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+tomas, any clay??
+Is answer to :
+anyone got clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+i will give you sheep for a clay!
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+i have no clay :(
+Is answer to :
+i will give you sheep for a clay!
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+ore for wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+two wood for sheep?
+Is answer to :
+Either of you have sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+anyone got clay for wood or wheat?
+Rule says : {'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+stupid robber means no ore
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+i have an ore to give, 
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+no sheeps here :(
+Is answer to :
+i have an ore to give, 
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+loads
+Is answer to :
+anyone have wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+have no ore
+Is answer to :
+i am giving wood for ore
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+want sheep or wood?
+Is answer to :
+loads
+Rule says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity')}
+True
+
+i am giving wood for ore
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+got none, sorry :(
+Is answer to :
+anyone want sheep for clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+william, can you spare another clay for another wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+anyone want sheep for clay?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+i give you clay you give me sheep and wheat
+Is answer to :
+at what rates?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+Who is yiin?
+Is answer to :
+have none
+Rule says : {}
+Anno says : {}
+True
+
+have none
+Is answer to :
+need sheep...
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+can i get a wheat for an ore?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+looking for some sheep and wheat
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+will for clay
+Is answer to :
+looking for some sheep and wheat
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+sry no ore
+Is answer to :
+i am giving wood for ore
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+none sorry
+Is answer to :
+can i get a clay from someone?
+Rule says : {'clay': ('0', '0')}
+Anno says : {}
+False
+
+no ore sorry
+Is answer to :
+maybe ore...
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+2 clay for 1 sheep 1 wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+i will give you a shepp for ore
+Rule says : {}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+only for wheat
+Is answer to :
+anyone have clay for sheep or ore?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+anyone have clay for sheep or ore?
+Rule says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'ore': ('1', 'infinity')}
+True
+
+not for sheep, sorry :(
+Is answer to :
+anyone have wheat for sheep?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {}
+False
+
+anyone have wheat for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+no wheat...
+Is answer to :
+Don't suppose anyone wants to give me a wheat in exchange for wood or sheep or clay do they?
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+True
+
+Don't suppose anyone wants to give me a wheat in exchange for wood or sheep or clay do they?
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+False
+
+anyone want to trade a sheep or a clay for one of my wheat?
+Rule says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+2 ore for a wood?
+Is answer to :
+ore more?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+yep
+Is answer to :
+did cameron say he will be here?
+Rule says : {}
+Anno says : {}
+True
+
+sheep or wheat + wood?
+Rule says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+sheep or wheat?
+Is answer to :
+again, what do you have? 
+Rule says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+True
+
+anyone got clay for wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+me too
+Rule says : {}
+Anno says : {}
+True
+
+i got ore
+Is answer to :
+still no clay or ore to sprae?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i don't have 2, sorry,
+Is answer to :
+2 ore for a wood?
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('1', '1')}
+False
+
+i just cant buy anything....
+Is answer to :
+eh?
+Rule says : {}
+Anno says : {}
+True
+
+i could spare ore
+Is answer to :
+still no clay or ore to sprae?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+can i get a sheep for a wheat from someone?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+yes
+Is answer to :
+can i get a sheep for a wheat from someone?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+i will trade for ore
+Is answer to :
+anyone got clay for wheat?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+False
+
+had no ore, sorry :(
+Rule says : {'ore': ('0', '0')}
+Anno says : {'ore': ('0', '0')}
+True
+
+ore
+Is answer to :
+which are you offering?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+trading 1 ore for one sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+if you give me ore
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+False
+
+for 2 wheat?
+Is answer to :
+anyone have a sheep?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+yes
+Is answer to :
+anyone have a sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+anyone have wheat or clay for sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+anyone give me an ore for a clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+anyone got ore or wood or clay?
+Rule says : {'wood': ('1', 'infinity'), 'ore': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+but not for 1 sheep
+Rule says : {'sheep': ('0', '0')}
+Anno says : {}
+False
+
+yup, just hurry everyone...
+Rule says : {}
+Anno says : {}
+True
+
+ok clay will work too
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+i could do wheat for 1 sheep 1 clay
+Rule says : {'sheep': ('1', 'infinity'), 'clay': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+False
+
+no sheep sorry
+Is answer to :
+anyone have a sheep?
+Rule says : {'sheep': ('0', '0')}
+Anno says : {'sheep': ('0', '0')}
+True
+
+yes
+Is answer to :
+anyone have clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+none sorry
+Is answer to :
+anyone have clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+tomas 1 clay for 1 sheep?
+Is answer to :
+i got some clay
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+none of those, sorry :(
+Is answer to :
+anyone got ore or wood or clay?
+Rule says : {'wood': ('0', '0'), 'ore': ('0', '0'), 'clay': ('0', '0')}
+Anno says : {'wood': ('0', '0'), 'ore': ('0', '0'), 'clay': ('0', '0')}
+True
+
+tomas ore for clay?
+Is answer to :
+yes
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+i got some clay
+Is answer to :
+anyone got ore or wood or clay?
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {'clay': ('1', 'infinity')}
+True
+
+need sheep
+Is answer to :
+trade it back for a wheat?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+2 ore?
+Is answer to :
+gimme more
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('2', 'infinity')}
+True
+
+I don't have wood
+Rule says : {'wood': ('0', '0')}
+Anno says : {}
+False
+
+need wood [as ever]
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have literally got wood for sheep
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+i have wood, 
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+sheep?
+Is answer to :
+what you got?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+for wood?
+Is answer to :
+i have sheep
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+i have sheep
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+ore and wheat
+Is answer to :
+2 ore?
+Rule says : {'ore': ('1', 'infinity'), 'wheat': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have none
+Is answer to :
+ore and wheat
+Rule says : {'ore': ('0', '0'), 'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+False
+
+will you give me sheep for wood?
+Is answer to :
+ill do sheep for wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+no clay sorry
+Is answer to :
+anyone give me an ore for a clay?
+Rule says : {'clay': ('0', '0')}
+Anno says : {'clay': ('0', '0')}
+True
+
+1 sheep is cheaper
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+2 for 2?
+Is answer to :
+1 for 1?
+Rule says : {}
+Anno says : {'wood': ('2', 'infinity')}
+False
+
+can i get sheep or ore from someone for wheat?
+Rule says : {'wheat': ('1', 'infinity')}
+Anno says : {'wheat': ('1', 'infinity')}
+True
+
+lj can you offer a wheat for a wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+ore for a wood, tomas?
+Is answer to :
+anyone got wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+False
+
+yes but i need mine
+Is answer to :
+anyone got wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('1', 'infinity')}
+True
+
+ok then 2 ore
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {}
+False
+
+wood or sheep
+Is answer to :
+what do you need?
+Rule says : {'sheep': ('1', 'infinity'), 'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+2 wood?
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+ill do sheep for wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {}
+False
+
+ill take 2 wood for an ore
+Is answer to :
+2 wood?
+Rule says : {'ore': ('1', 'infinity')}
+Anno says : {'ore': ('1', 'infinity')}
+True
+
+i need 1 clay
+Rule says : {'clay': ('1', 'infinity')}
+Anno says : {}
+False
+
+o :
+ore for wood
+Rule says : {'wood': ('1', 'infinity')}
+Anno says : {'wood': ('2', 'infinity')}
+True
+
+Anyone got one for a sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+two wood for sheep?
+Is answer to :
+Either of you have sheep?
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {'sheep': ('1', 'infinity')}
+True
+
+Either of you have sheep?
+Is answer to :
+What do you want for it
+Rule says : {'sheep': ('1', 'infinity')}
+Anno says : {}
+False
+
+i have no wheat, sorry
+Rule says : {'wheat': ('0', '0')}
+Anno says : {'wheat': ('0', '0')}
+True
+
