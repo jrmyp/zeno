@@ -1,0 +1,54 @@
+Notes for bypass
+Make it quick
+===
+
+Sources :
+    outputs from attelo print-probs
+        MST
+        MSDAG
+    - those are in matrix form
+    output from ILP
+    - converted in triplets
+
+Which form should be the basis for scoring ?
+Intuitively, matrices
+    If this is ever converted to numpy form
+    scoring from direct matrix comparison is very efficient
+No time for actual matrix creation, of course
+Unless I got a spare hour in the week... so maybe ?
+That may speed up thing, but I'll play it safe
+
+Actual ids aren't even needed for evaluation !
+They are for graph output though
+    (I don't even know how to make it work =_=)
+
+So, matrices only, with integers. Let's roll.
+===
+
+Ahem, actually, using sets is cleaner.
+But only because we toss true negatives away
+Surprisingly, very much cleaner
+
+Dude. Test it.
+===
+I need ref to match against
+Which probs should I get for local ?
+Attachment probs, then max rel
+
+===
+Recuparate glozz file path from discourse id
+
+- get dialogue name
+- get path A for unannotated of dialogue
+- call parse to glozz with A, conll
+- cal
+
+===
+
+Don't forget to ckeck print-probs destfold before lauching the thingie
+
+
+====================
+Test on backward+forward
+Report gold backward links
+
